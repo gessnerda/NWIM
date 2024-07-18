@@ -1,0 +1,349 @@
+[
+    {
+        "data": [
+            {
+                "ic": null,
+                "date": "2024-01-16T10:40:52.543",
+                "name": "GMF Support",
+                "type": "Resource Order",
+                "uuid": "02c2706d-464b-4dfb-a724-52063c75ce77",
+                "acres": null,
+                "fuels": null,
+                "inc_num": "7",
+                "fire_num": null,
+                "latitude": null,
+                "location": null,
+                "longitude": null,
+                "resources": [
+                    null
+                ],
+                "webComment": "IQCS: 708204",
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"7\", \"fire_code\": null, \"wfdssunit\": \"COGMF\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-06-18T10:38:07.846",
+                "name": "25 Mesa RX",
+                "type": "Prescribed Fire",
+                "uuid": "102e8929-bb9c-429f-be0e-7c31e8f726af",
+                "acres": null,
+                "fuels": null,
+                "inc_num": "53",
+                "fire_num": null,
+                "latitude": "32.468133",
+                "location": null,
+                "longitude": "108.362667",
+                "resources": [
+                    null
+                ],
+                "webComment": null,
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"53\", \"fire_code\": null, \"wfdssunit\": \"COGMF\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "Cass Wiedemueller",
+                "date": "2024-07-07T16:13:35.262",
+                "name": "Wray Mesa",
+                "type": "Wildfire",
+                "uuid": "33c94cfd-5a5d-4eb0-b440-6ff7ff7a24f8",
+                "acres": "40",
+                "fuels": "PJ",
+                "inc_num": "69",
+                "fire_num": "",
+                "latitude": "38.319500",
+                "location": null,
+                "longitude": "109.003000",
+                "resources": [
+                    null
+                ],
+                "webComment": "IQCS: 745749",
+                "fire_status": "{\"out\": null, \"contain\": \"2024-07-11T20:00:00\", \"control\": \"2024-07-12T11:14:00\"}",
+                "fiscal_data": "{\"inc_num\": \"69\", \"fire_code\": \"R2VE\", \"wfdssunit\": \"COUPD\", \"fs_job_code\": \"PD\", \"fs_override\": \"1522\", \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-01-02T09:19:29.252",
+                "name": "Flight Following",
+                "type": "Aircraft",
+                "uuid": "4e5a3d20-be7d-49b6-91ff-ec58b0bc442e",
+                "acres": null,
+                "fuels": null,
+                "inc_num": "1",
+                "fire_num": null,
+                "latitude": null,
+                "location": null,
+                "longitude": null,
+                "resources": [
+                    null
+                ],
+                "webComment": null,
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"1\", \"fire_code\": null, \"wfdssunit\": \"COMTC\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-04-26T08:30:59.763",
+                "name": "Cold Springs Project",
+                "type": "Manage Res Obj",
+                "uuid": "590efd5e-41da-4be9-9678-98badcf5713f",
+                "acres": "0.1",
+                "fuels": null,
+                "inc_num": "23",
+                "fire_num": null,
+                "latitude": "38.162117",
+                "location": null,
+                "longitude": "106.799167",
+                "resources": [
+                    null
+                ],
+                "webComment": null,
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"23\", \"fire_code\": null, \"wfdssunit\": \"COGND\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "Smith",
+                "date": "2024-07-18T13:11:30.296",
+                "name": "Bald",
+                "type": "Wildfire",
+                "uuid": "62cb3d55-a383-48bb-9515-5ad708df9ebc",
+                "acres": "0.1",
+                "fuels": "Spruce/Fir",
+                "inc_num": "71",
+                "fire_num": "",
+                "latitude": "37.893967",
+                "location": null,
+                "longitude": "107.847633",
+                "resources": [
+                    "E 651",
+                    "CT 651"
+                ],
+                "webComment": null,
+                "fire_status": "{\"out\": null, \"contain\": \"2024-07-18T15:35:00\", \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"71\", \"fire_code\": null, \"wfdssunit\": \"COGMF\", \"fs_job_code\": \"P2\", \"fs_override\": \"0204\", \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "Sealock M.F.D",
+                "date": "2024-07-16T14:25:00",
+                "name": "Oscar 74",
+                "type": "Wildfire",
+                "uuid": "6aacc1ff-0456-43a9-9932-36be444100b2",
+                "acres": "0.1",
+                "fuels": "Grass P/J",
+                "inc_num": "70",
+                "fire_num": "",
+                "latitude": "38.477050",
+                "location": "",
+                "longitude": "107.685000",
+                "resources": [
+                    null
+                ],
+                "webComment": null,
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"70\", \"fire_code\": \"R3R1\", \"wfdssunit\": \"COMRX\", \"fs_job_code\": \"PN\", \"fs_override\": \"1522\", \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-06-26T10:52:43.585",
+                "name": "Turkey Plot RX",
+                "type": "Prescribed Fire",
+                "uuid": "84568af3-8c7a-46c1-8757-4d52dc6c4862",
+                "acres": null,
+                "fuels": null,
+                "inc_num": "57",
+                "fire_num": null,
+                "latitude": "38.197167",
+                "location": null,
+                "longitude": "108.089033",
+                "resources": [
+                    null
+                ],
+                "webComment": null,
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"57\", \"fire_code\": null, \"wfdssunit\": \"COGMF\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-05-14T10:22:38.009",
+                "name": "Thistledown Camp Cutting Project",
+                "type": "Manage Res Obj",
+                "uuid": "9b6ddefc-5b6b-46ce-b64e-a9ba5181831a",
+                "acres": null,
+                "fuels": null,
+                "inc_num": "28",
+                "fire_num": null,
+                "latitude": "37.989800",
+                "location": null,
+                "longitude": "107.703700",
+                "resources": [
+                    null
+                ],
+                "webComment": null,
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"28\", \"fire_code\": null, \"wfdssunit\": \"COGMF\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-04-18T16:03:43.947",
+                "name": "Baldy Mountain RX",
+                "type": "Prescribed Fire",
+                "uuid": "a4ab1dad-cb2f-4b56-b95a-ea8625aacb67",
+                "acres": "0.1",
+                "fuels": null,
+                "inc_num": "18",
+                "fire_num": null,
+                "latitude": "38.117535",
+                "location": null,
+                "longitude": "107.701684",
+                "resources": [
+                    null
+                ],
+                "webComment": "USFS - NFHF04XX(0204)\nIQCS: 723701\nBLM - LLCOM.LF31D.JW.LFHFEM330000.23X\nDFPC - 22AC00079-00\n",
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"18\", \"fire_code\": null, \"wfdssunit\": \"COGMF\", \"fs_job_code\": \"\", \"fs_override\": \"\", \"fiscal_comments\": \"\", \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-01-04T10:32:10.677",
+                "name": "Rim Road Fuels ",
+                "type": "Manage Res Obj",
+                "uuid": "a90a48a0-ed51-4ef0-8b79-cc9ce52452e7",
+                "acres": null,
+                "fuels": null,
+                "inc_num": "5",
+                "fire_num": null,
+                "latitude": "38.368767",
+                "location": null,
+                "longitude": "108.053650",
+                "resources": [
+                    null
+                ],
+                "webComment": null,
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"5\", \"fire_code\": null, \"wfdssunit\": \"COUPD\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "Josh Oak",
+                "date": "2024-06-14T10:48:00",
+                "name": "Lockhart RX",
+                "type": "Prescribed Fire",
+                "uuid": "add92be3-f9fc-4a8a-9093-965638b4c6b8",
+                "acres": null,
+                "fuels": null,
+                "inc_num": "45",
+                "fire_num": null,
+                "latitude": "38.489750",
+                "location": null,
+                "longitude": "108.401383",
+                "resources": [
+                    "E 621",
+                    "Crew 12"
+                ],
+                "webComment": null,
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"45\", \"fire_code\": null, \"wfdssunit\": \"COGMF\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-06-10T10:00:00",
+                "name": "2024 BLM CO SWD State Severity",
+                "type": "Preparedness/Preposition",
+                "uuid": "c3228c37-ce44-486a-b4b4-ffe92991be0d",
+                "acres": null,
+                "fuels": null,
+                "inc_num": "40",
+                "fire_num": null,
+                "latitude": null,
+                "location": null,
+                "longitude": null,
+                "resources": [
+                    null
+                ],
+                "webComment": null,
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"40\", \"fire_code\": null, \"wfdssunit\": \"COSWD\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-04-12T10:10:02.333",
+                "name": "Spring Creek Hazard Tree",
+                "type": "Manage Res Obj",
+                "uuid": "c6d0a3d0-713e-496c-80ce-14e215057bd8",
+                "acres": null,
+                "fuels": null,
+                "inc_num": "15",
+                "fire_num": null,
+                "latitude": "38.750367",
+                "location": null,
+                "longitude": "106.767750",
+                "resources": [
+                    null
+                ],
+                "webComment": null,
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"15\", \"fire_code\": null, \"wfdssunit\": \"COGND\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-04-01T11:10:00",
+                "name": "Carpenter Ridge RX",
+                "type": "Prescribed Fire",
+                "uuid": "ca5c5da8-15ef-425e-8449-c0229a87b4ea",
+                "acres": null,
+                "fuels": null,
+                "inc_num": "13",
+                "fire_num": null,
+                "latitude": "38.433072",
+                "location": null,
+                "longitude": "108.988311",
+                "resources": [
+                    null
+                ],
+                "webComment": "",
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"13\", \"fire_code\": null, \"wfdssunit\": \"COUPD\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "Derek Pabloff",
+                "date": "2024-06-14T09:52:22.169",
+                "name": "Dave Wood RX",
+                "type": "Prescribed Fire",
+                "uuid": "dba5cd1c-5987-49d7-8d1c-67617fc4f2c0",
+                "acres": null,
+                "fuels": null,
+                "inc_num": "44",
+                "fire_num": null,
+                "latitude": "38.283750",
+                "location": null,
+                "longitude": "107.990800",
+                "resources": [
+                    null
+                ],
+                "webComment": null,
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"44\", \"fire_code\": null, \"wfdssunit\": \"COGMF\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-05-16T12:21:18.296",
+                "name": "GMF/SWD Simulation and Training",
+                "type": "Classroom Training",
+                "uuid": "e625880f-d9fe-4f90-baaa-af693e822096",
+                "acres": null,
+                "fuels": null,
+                "inc_num": "29",
+                "fire_num": null,
+                "latitude": null,
+                "location": null,
+                "longitude": null,
+                "resources": [
+                    null
+                ],
+                "webComment": "IQCS# 729997",
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"29\", \"fire_code\": null, \"wfdssunit\": \"COMTC\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            }
+        ],
+        "retrieved": "2024-07-18T21:52:08.904296"
+    }
+]

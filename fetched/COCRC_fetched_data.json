@@ -1,0 +1,1247 @@
+[
+    {
+        "data": [
+            {
+                "ic": "Kenn Boles",
+                "date": "2024-02-14T15:13:05.408",
+                "name": "KRFO PILE BURN RX",
+                "type": "Prescribed Fire",
+                "uuid": "09644a2a-2a41-4ae3-a125-a5672b946089",
+                "acres": null,
+                "fuels": null,
+                "inc_num": "11",
+                "fire_num": null,
+                "latitude": "40.063502",
+                "location": null,
+                "longitude": "105.985928",
+                "resources": [
+                    null
+                ],
+                "webComment": "CO-KRD-11",
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"11\", \"fire_code\": null, \"wfdssunit\": \"COKRD\", \"fs_job_code\": null, \"fs_override\": \"\", \"fiscal_comments\": \"LLCOC00000 LF312D000 JW0000 LFHFEQ600000 23X\", \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-04-15T11:49:49.394",
+                "name": "2024 MBRTB SUPPORT",
+                "type": "Resource Order",
+                "uuid": "10ca40e6-bdf2-46e6-8329-1ff4fb3ed7e3",
+                "acres": null,
+                "fuels": null,
+                "inc_num": "22",
+                "fire_num": null,
+                "latitude": "40.447541",
+                "location": null,
+                "longitude": "106.816866",
+                "resources": [
+                    null
+                ],
+                "webComment": "WY-MRF-000022\nIQCS: 722891",
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"22\", \"fire_code\": null, \"wfdssunit\": \"WYMRF\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": \"P2EK4J (0206)\", \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "Matt Boravatz",
+                "date": "2024-07-02T16:11:00",
+                "name": "DUKE",
+                "type": "Wildfire",
+                "uuid": "157c3f53-2cc1-44e8-9337-5ec3aa116870",
+                "acres": "0.1",
+                "fuels": "pj",
+                "inc_num": "73",
+                "fire_num": null,
+                "latitude": "39.957450",
+                "location": null,
+                "longitude": "108.549750",
+                "resources": [
+                    null
+                ],
+                "webComment": "CO-WRD-73\nIQCS: 743320",
+                "fire_status": "{\"out\": null, \"contain\": \"2024-07-02T20:00:00\", \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"73\", \"fire_code\": \"R16Q\", \"wfdssunit\": \"COWRD\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "Owens",
+                "date": "2024-06-08T12:14:00",
+                "name": "HARD",
+                "type": "Wildfire",
+                "uuid": "1c0be7fc-e6bf-447d-9dd9-7c5d16c20556",
+                "acres": "0.1",
+                "fuels": "Grass, Brush ,PJ",
+                "inc_num": "48",
+                "fire_num": "",
+                "latitude": "40.463633",
+                "location": null,
+                "longitude": "108.861700",
+                "resources": [
+                    null
+                ],
+                "webComment": "CO-DSP-48\nIQCS: 736652",
+                "fire_status": "{\"out\": \"2024-06-08T12:20:00\", \"contain\": \"2024-06-08T12:20:00\", \"control\": \"2024-06-08T12:20:00\"}",
+                "fiscal_data": "{\"inc_num\": \"48\", \"fire_code\": \"R0HK\", \"wfdssunit\": \"CODSP\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "Emily Owens",
+                "date": "2024-06-07T18:48:00",
+                "name": "MARTHA",
+                "type": "Wildfire",
+                "uuid": "2015086b-e272-4666-866b-147301955fe3",
+                "acres": "0.1",
+                "fuels": "pj",
+                "inc_num": "43",
+                "fire_num": null,
+                "latitude": "40.460283",
+                "location": "1 mile W of Wagon Wheel Point",
+                "longitude": "108.858800",
+                "resources": [
+                    null
+                ],
+                "webComment": "CO-DSP-43\nIQCS: 735595",
+                "fire_status": "{\"out\": null, \"contain\": \"2024-06-08T15:15:00\", \"control\": \"2024-06-08T15:15:00\"}",
+                "fiscal_data": "{\"inc_num\": \"43\", \"fire_code\": \"RZ71\", \"wfdssunit\": \"CODSP\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "Matt Borovatz",
+                "date": "2024-07-01T13:17:15.772",
+                "name": "STICK",
+                "type": "Wildfire",
+                "uuid": "22789ad3-2874-4ce1-813d-9c428cb36686",
+                "acres": "0.1",
+                "fuels": "pj",
+                "inc_num": "68",
+                "fire_num": null,
+                "latitude": "40.012433",
+                "location": "",
+                "longitude": "108.725283",
+                "resources": [
+                    null
+                ],
+                "webComment": "CO-WRD-68\nIQCS: 742754",
+                "fire_status": "{\"out\": null, \"contain\": \"2024-07-01T15:18:00\", \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"68\", \"fire_code\": \"R12T\", \"wfdssunit\": \"COWRD\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "Ken Davis",
+                "date": "2024-04-03T11:48:00",
+                "name": "EAST TWIN",
+                "type": "Wildfire",
+                "uuid": "2f0a163c-1d7c-4dd4-9959-7a4cbf8effda",
+                "acres": "1",
+                "fuels": "grass/brush",
+                "inc_num": "14",
+                "fire_num": "",
+                "latitude": "40.227240",
+                "location": null,
+                "longitude": "108.949730",
+                "resources": [
+                    null
+                ],
+                "webComment": "CO-WRD-14\nIQCS: 720646",
+                "fire_status": "{\"out\": \"2024-06-25T10:30:00\", \"contain\": \"2024-04-03T15:00:00\", \"control\": \"2024-04-03T15:00:00\"}",
+                "fiscal_data": "{\"inc_num\": \"14\", \"fire_code\": \"RT6B\", \"wfdssunit\": \"COWRD\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "James Herrera",
+                "date": "2024-07-16T18:36:00",
+                "name": "RED TWIN",
+                "type": "Wildfire",
+                "uuid": "305f7ee8-7ef2-4837-8e03-53de3403e25f",
+                "acres": "3",
+                "fuels": "grass/pj",
+                "inc_num": "86",
+                "fire_num": null,
+                "latitude": "39.984910",
+                "location": "",
+                "longitude": "108.857630",
+                "resources": [
+                    null
+                ],
+                "webComment": "CO-WRD-86",
+                "fire_status": "{\"out\": null, \"contain\": \"2024-07-16T20:06:00\", \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"86\", \"fire_code\": \"R3QZ\", \"wfdssunit\": \"COWRD\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-01-08T15:29:08.233",
+                "name": "LSFO PILE BURN RX",
+                "type": "Prescribed Fire",
+                "uuid": "30d480a5-fab5-4b67-87c6-c6077454a536",
+                "acres": null,
+                "fuels": null,
+                "inc_num": "9",
+                "fire_num": null,
+                "latitude": "40.470971",
+                "location": null,
+                "longitude": "108.029130",
+                "resources": [
+                    null
+                ],
+                "webComment": "CO-LSD-9\nIQCS: 707578",
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"9\", \"fire_code\": null, \"wfdssunit\": \"COLSD\", \"fs_job_code\": \"\", \"fs_override\": null, \"fiscal_comments\": \"LF312D000 JW0000 LFHFEQ930000 \\n 23X\", \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-07-14T07:00:32.75",
+                "name": "DINO FY24 STEP-UP #3",
+                "type": "Miscellaneous",
+                "uuid": "33e29088-a797-42fe-a8a6-cdad55726cc1",
+                "acres": null,
+                "fuels": null,
+                "inc_num": "83",
+                "fire_num": null,
+                "latitude": "40.248591",
+                "location": null,
+                "longitude": "108.978539",
+                "resources": [
+                    null
+                ],
+                "webComment": "CO-DSP-83",
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"83\", \"fire_code\": null, \"wfdssunit\": \"CODSP\", \"fs_job_code\": null, \"fs_override\": \"\", \"fiscal_comments\": \"R3FC\", \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "Kyle Frary",
+                "date": "2024-07-04T21:08:00",
+                "name": "DIAMOND",
+                "type": "Wildfire",
+                "uuid": "3899ba4d-5d06-48fe-9cdd-0406f0179b94",
+                "acres": "2",
+                "fuels": "grass/brush",
+                "inc_num": "77",
+                "fire_num": null,
+                "latitude": "40.219050",
+                "location": null,
+                "longitude": "108.999090",
+                "resources": [
+                    null
+                ],
+                "webComment": "CO-WRD-77\nIQCS: 744186",
+                "fire_status": "{\"out\": null, \"contain\": \"2024-07-04T22:00:00\", \"control\": \"2024-07-05T11:00:00\"}",
+                "fiscal_data": "{\"inc_num\": \"77\", \"fire_code\": \"R2D8\", \"wfdssunit\": \"COWRD\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-01-04T14:37:23.466",
+                "name": "COLORADO STATE FOREST PILES RX",
+                "type": "Prescribed Fire",
+                "uuid": "40ea0ee5-18ec-4c05-9069-f251eee430c5",
+                "acres": null,
+                "fuels": null,
+                "inc_num": "8",
+                "fire_num": null,
+                "latitude": "40.090003",
+                "location": null,
+                "longitude": "105.916700",
+                "resources": [
+                    null
+                ],
+                "webComment": "CO-GRX-8\nIQCS: 721847",
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"8\", \"fire_code\": null, \"wfdssunit\": \"COGRX\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-01-02T09:40:17.688",
+                "name": "2024 NWD OJT AND DRILLS",
+                "type": "Miscellaneous",
+                "uuid": "4d505365-200a-4664-aa2a-5b44de5dbf69",
+                "acres": null,
+                "fuels": null,
+                "inc_num": "3",
+                "fire_num": null,
+                "latitude": "40.048853",
+                "location": null,
+                "longitude": "107.914789",
+                "resources": [
+                    null
+                ],
+                "webComment": "CO-CRD-003\nIQCS: 727077",
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"3\", \"fire_code\": null, \"wfdssunit\": \"COCRD\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-04-02T11:28:26.88",
+                "name": "STEAMBOAT FRONT RX",
+                "type": "Prescribed Fire",
+                "uuid": "4dc82cce-d1f5-4805-ab4c-db5afde5e027",
+                "acres": null,
+                "fuels": null,
+                "inc_num": "13",
+                "fire_num": null,
+                "latitude": "40.347993",
+                "location": null,
+                "longitude": "106.778733",
+                "resources": [
+                    null
+                ],
+                "webComment": "WY-MRF-13\nIQCS: 720417",
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"13\", \"fire_code\": null, \"wfdssunit\": \"WYMRF\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "Meeker VFD",
+                "date": "2024-04-11T22:11:00",
+                "name": "CREEK",
+                "type": "Wildfire",
+                "uuid": "50277266-2ebf-44e8-bcff-120e185aeec5",
+                "acres": "1",
+                "fuels": "Grass",
+                "inc_num": "21",
+                "fire_num": "",
+                "latitude": "39.763717",
+                "location": null,
+                "longitude": "108.014583",
+                "resources": [
+                    null
+                ],
+                "webComment": "CO-RBX-21\nIQCS: 722167",
+                "fire_status": "{\"out\": \"2024-04-12T08:00:00\", \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"21\", \"fire_code\": \"RU1D\", \"wfdssunit\": \"CORBX\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "Emily Owens",
+                "date": "2024-06-08T12:15:00",
+                "name": "HARDEST",
+                "type": "Wildfire",
+                "uuid": "50dd5d9c-033f-47fc-bf63-945c4b6653fb",
+                "acres": "0.1",
+                "fuels": "Pinon/Juniper, Grass",
+                "inc_num": "50",
+                "fire_num": null,
+                "latitude": "40.463250",
+                "location": null,
+                "longitude": "108.860550",
+                "resources": [
+                    null
+                ],
+                "webComment": "CO-DSP-50\nIQCS: 736668",
+                "fire_status": "{\"out\": \"2024-06-08T12:16:00\", \"contain\": \"2024-06-08T12:16:00\", \"control\": \"2024-06-08T12:16:00\"}",
+                "fiscal_data": "{\"inc_num\": \"50\", \"fire_code\": \"R0HN\", \"wfdssunit\": \"CODSP\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-06-21T13:01:00",
+                "name": "PICEANCE CREEK FA",
+                "type": "False Alarm",
+                "uuid": "5376b49f-8b07-425e-ae98-2427f3a1ebf0",
+                "acres": null,
+                "fuels": null,
+                "inc_num": "56",
+                "fire_num": null,
+                "latitude": "39.866690",
+                "location": null,
+                "longitude": "108.279640",
+                "resources": [
+                    null
+                ],
+                "webComment": null,
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"56\", \"fire_code\": \"R04V\", \"wfdssunit\": \"CORBX\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-01-02T09:39:34.852",
+                "name": "2024 AD TRAINING",
+                "type": "Miscellaneous",
+                "uuid": "58835552-212f-4d2f-a1bc-0d49bca0e0a2",
+                "acres": null,
+                "fuels": null,
+                "inc_num": "2",
+                "fire_num": null,
+                "latitude": null,
+                "location": null,
+                "longitude": null,
+                "resources": [
+                    null
+                ],
+                "webComment": "CO-CRC-002",
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"2\", \"fire_code\": null, \"wfdssunit\": \"COCRC\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": \"LF2000000 HT0000 LFSPAZA10000 LLCOC00000\", \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-01-04T14:32:35.866",
+                "name": "MBRTB PILE BURN RX",
+                "type": "Prescribed Fire",
+                "uuid": "5b404342-8e65-4384-b24f-bfdfd9fd638f",
+                "acres": null,
+                "fuels": null,
+                "inc_num": "7",
+                "fire_num": null,
+                "latitude": "40.992814",
+                "location": null,
+                "longitude": "106.207725",
+                "resources": [
+                    null
+                ],
+                "webComment": "WY-MRF-7\nIQCS: 707224",
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"7\", \"fire_code\": null, \"wfdssunit\": \"WYMRF\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-01-02T09:41:33.513",
+                "name": "2024 CRC YEARLY FLIGHT FOLLOW",
+                "type": "Miscellaneous",
+                "uuid": "5ec8c7ab-099d-45e1-99c8-8f9c7e8820e3",
+                "acres": null,
+                "fuels": null,
+                "inc_num": "4",
+                "fire_num": null,
+                "latitude": null,
+                "location": null,
+                "longitude": null,
+                "resources": [
+                    null
+                ],
+                "webComment": "CO-CRC-004",
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"4\", \"fire_code\": null, \"wfdssunit\": \"COCRC\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "Ken Boles",
+                "date": "2024-06-24T21:50:00",
+                "name": "CONWAY",
+                "type": "Wildfire",
+                "uuid": "61b21fd0-b047-4bfe-86b1-eb1d35e3c737",
+                "acres": "0.1",
+                "fuels": "Pinion/Juniper",
+                "inc_num": "59",
+                "fire_num": "",
+                "latitude": "40.672969",
+                "location": "",
+                "longitude": "108.826103",
+                "resources": [
+                    null
+                ],
+                "webComment": "CO-LSD-59\nIQCS: 740717",
+                "fire_status": "{\"out\": null, \"contain\": \"2024-06-25T15:08:00\", \"control\": \"2024-06-26T11:45:00\"}",
+                "fiscal_data": "{\"inc_num\": \"59\", \"fire_code\": \"R1G3\", \"wfdssunit\": \"COLSD\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "Nakai",
+                "date": "2024-07-01T11:33:00",
+                "name": "EAGLE",
+                "type": "Wildfire",
+                "uuid": "663c877c-8f86-49d4-80a2-6d46b5f89975",
+                "acres": "0.1",
+                "fuels": "Pinnion/Juniper",
+                "inc_num": "67",
+                "fire_num": null,
+                "latitude": "40.580662",
+                "location": null,
+                "longitude": "108.107333",
+                "resources": [
+                    null
+                ],
+                "webComment": "CO-LSD-67\nIQCS: 742751",
+                "fire_status": "{\"out\": null, \"contain\": \"2024-07-01T15:46:00\", \"control\": \"2024-07-03T11:45:00\"}",
+                "fiscal_data": "{\"inc_num\": \"67\", \"fire_code\": \"R12S\", \"wfdssunit\": \"COLSD\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "Pastika",
+                "date": "2024-07-15T19:01:00",
+                "name": "KATHY",
+                "type": "Wildfire",
+                "uuid": "6a061eee-c35b-4cf6-ab48-e37889c7fbb7",
+                "acres": "4",
+                "fuels": "Grass, Brush, PJ",
+                "inc_num": "84",
+                "fire_num": null,
+                "latitude": "39.860278",
+                "location": "",
+                "longitude": "108.217500",
+                "resources": [
+                    null
+                ],
+                "webComment": "CO-WRD-84",
+                "fire_status": "{\"out\": null, \"contain\": \"2024-07-16T18:30:00\", \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"84\", \"fire_code\": \"R3M9\", \"wfdssunit\": \"COWRD\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "Todd Wheeler",
+                "date": "2024-06-18T14:46:00",
+                "name": "COTTON",
+                "type": "Wildfire",
+                "uuid": "728ddffe-7e2c-4e5c-b90c-b324fcc2122a",
+                "acres": "25",
+                "fuels": "Aspen",
+                "inc_num": "55",
+                "fire_num": "",
+                "latitude": "40.858239",
+                "location": "",
+                "longitude": "107.431612",
+                "resources": [
+                    null
+                ],
+                "webComment": "CO-MFX-55\nIQCS: 738632",
+                "fire_status": "{\"out\": \"2024-07-16T10:00:00\", \"contain\": \"2024-06-19T13:52:00\", \"control\": \"2024-06-20T11:30:00\"}",
+                "fiscal_data": "{\"inc_num\": \"55\", \"fire_code\": \"R0YJ\", \"wfdssunit\": \"COMFX\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "Claire Ecklund",
+                "date": "2024-06-02T15:00:00",
+                "name": "BAKER",
+                "type": "Wildfire",
+                "uuid": "78c4bb7b-b9a7-4ee1-857e-50eb186bc070",
+                "acres": "0.1",
+                "fuels": "Pinon/Juniper",
+                "inc_num": "47",
+                "fire_num": null,
+                "latitude": "40.449883",
+                "location": "",
+                "longitude": "108.794333",
+                "resources": [
+                    null
+                ],
+                "webComment": "CO-DSP-47\nIQCS: 736655",
+                "fire_status": "{\"out\": \"2024-06-02T15:05:00\", \"contain\": \"2024-06-02T15:05:00\", \"control\": \"2024-06-02T15:05:00\"}",
+                "fiscal_data": "{\"inc_num\": \"47\", \"fire_code\": \"R0HJ\", \"wfdssunit\": \"CODSP\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "Lance Broyles",
+                "date": "2024-06-24T17:01:00",
+                "name": "HINMAN CREEK",
+                "type": "Wildfire",
+                "uuid": "7a5cb85d-ed7b-4f3e-a376-76111e6df53e",
+                "acres": "0.1",
+                "fuels": "Mixed Conifer ",
+                "inc_num": "58",
+                "fire_num": null,
+                "latitude": "40.844425",
+                "location": "",
+                "longitude": "106.810357",
+                "resources": [
+                    null
+                ],
+                "webComment": "WY-MRF-58\nIQCS: 740612",
+                "fire_status": "{\"out\": \"2024-07-16T12:13:00\", \"contain\": \"2024-06-25T12:44:00\", \"control\": \"2024-07-16T10:00:00\"}",
+                "fiscal_data": "{\"inc_num\": \"58\", \"fire_code\": \"\", \"wfdssunit\": \"WYMRF\", \"fs_job_code\": \"P2\", \"fs_override\": \"0206\", \"fiscal_comments\": \"EKU1\", \"state_fiscal_code\": \"\"}"
+            },
+            {
+                "ic": "Jacob Smith",
+                "date": "2024-05-19T14:13:00",
+                "name": "BULL",
+                "type": "Wildfire",
+                "uuid": "7b153d5a-4118-4c44-b833-2c03c8c2207d",
+                "acres": "0.25",
+                "fuels": "pj",
+                "inc_num": "31",
+                "fire_num": null,
+                "latitude": "39.894180",
+                "location": "",
+                "longitude": "108.778840",
+                "resources": [
+                    null
+                ],
+                "webComment": "CO-WRD-031\nIQCS: 730676",
+                "fire_status": "{\"out\": \"2024-06-25T10:30:00\", \"contain\": \"2024-05-19T19:15:00\", \"control\": \"2024-06-25T10:00:00\"}",
+                "fiscal_data": "{\"inc_num\": \"31\", \"fire_code\": \"RYD0\", \"wfdssunit\": \"COWRD\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-07-03T15:30:56.993",
+                "name": "MEADOWBROOK",
+                "type": "Miscellaneous",
+                "uuid": "7c06e36c-fa5f-42c0-836f-21a94b6c37cd",
+                "acres": null,
+                "fuels": null,
+                "inc_num": "74",
+                "fire_num": null,
+                "latitude": "40.202789",
+                "location": "",
+                "longitude": "106.926498",
+                "resources": [
+                    null
+                ],
+                "webComment": "CO-RTX-74",
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"74\", \"fire_code\": null, \"wfdssunit\": \"CORTX\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "Daniel Pastika",
+                "date": "2024-05-19T15:13:00",
+                "name": "BIG CANYON",
+                "type": "Wildfire",
+                "uuid": "7c606b49-ea83-4082-9ddf-8dcb43423f44",
+                "acres": "0.1",
+                "fuels": "pj",
+                "inc_num": "32",
+                "fire_num": null,
+                "latitude": "40.077417",
+                "location": null,
+                "longitude": "108.650400",
+                "resources": [
+                    null
+                ],
+                "webComment": "CO-WRD-032\nIQCS: 730685",
+                "fire_status": "{\"out\": \"2024-06-25T10:30:00\", \"contain\": \"2024-05-19T18:15:00\", \"control\": \"2024-06-25T10:00:00\"}",
+                "fiscal_data": "{\"inc_num\": \"32\", \"fire_code\": \"RYD2\", \"wfdssunit\": \"COWRD\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "Smith",
+                "date": "2024-07-17T14:07:00",
+                "name": "DRY",
+                "type": "Wildfire",
+                "uuid": "8aae9e5b-34ee-4437-84d7-9593c49427de",
+                "acres": "0.25",
+                "fuels": "Pinion/Juniper",
+                "inc_num": "87",
+                "fire_num": "",
+                "latitude": "39.770660",
+                "location": "",
+                "longitude": "108.338710",
+                "resources": [
+                    null
+                ],
+                "webComment": "CO-WRD-87",
+                "fire_status": "{\"out\": null, \"contain\": \"2024-07-17T17:30:00\", \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"87\", \"fire_code\": \"R3WM\", \"wfdssunit\": \"COWRD\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "Todd Wheeler",
+                "date": "2024-06-30T18:05:11.935",
+                "name": "WELLER",
+                "type": "Wildfire",
+                "uuid": "90f77cd1-b802-4146-8931-b2c133cd9c50",
+                "acres": "5.7",
+                "fuels": "grass/brush pinion/ ",
+                "inc_num": "64",
+                "fire_num": "",
+                "latitude": "40.592917",
+                "location": "",
+                "longitude": "108.610783",
+                "resources": [
+                    null
+                ],
+                "webComment": "CO-MFX-64\nIQCS: 742505",
+                "fire_status": "{\"out\": \"2024-07-16T09:00:00\", \"contain\": \"2024-07-01T13:30:00\", \"control\": \"2024-07-01T14:00:00\"}",
+                "fiscal_data": "{\"inc_num\": \"64\", \"fire_code\": \"R1ZZ\", \"wfdssunit\": \"COMFX\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-06-22T16:48:00",
+                "name": "SPENCER",
+                "type": "Wildfire",
+                "uuid": "933fec3c-1ddd-4cd3-badf-672475907428",
+                "acres": "0.1",
+                "fuels": "grass",
+                "inc_num": "57",
+                "fire_num": null,
+                "latitude": "40.238260",
+                "location": "",
+                "longitude": "108.914540",
+                "resources": [
+                    null
+                ],
+                "webComment": "CO-MFX-57\nIQCS: 739729",
+                "fire_status": "{\"out\": \"2024-06-22T17:36:00\", \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"57\", \"fire_code\": \"R08T\", \"wfdssunit\": \"COMFX\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "Dale Nakai",
+                "date": "2024-05-23T15:44:00",
+                "name": "DINO HQ",
+                "type": "Wildfire",
+                "uuid": "964e583f-29ee-470e-b000-f6a92af8a67e",
+                "acres": "0.31",
+                "fuels": "grass",
+                "inc_num": "34",
+                "fire_num": null,
+                "latitude": "40.242867",
+                "location": null,
+                "longitude": "108.963617",
+                "resources": [
+                    null
+                ],
+                "webComment": "CO-WRD-034\nIQCS: 731560",
+                "fire_status": "{\"out\": null, \"contain\": \"2024-05-23T16:42:00\", \"control\": \"2024-05-24T11:10:00\"}",
+                "fiscal_data": "{\"inc_num\": \"34\", \"fire_code\": \"RYW9\", \"wfdssunit\": \"COWRD\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "Dane Rogers",
+                "date": "2024-06-09T13:23:00",
+                "name": "PIGPEN",
+                "type": "Wildfire",
+                "uuid": "97efe3fd-c7d6-4a71-b2a9-2e400f87593f",
+                "acres": "0.1",
+                "fuels": "Grass/brush",
+                "inc_num": "45",
+                "fire_num": null,
+                "latitude": "40.670217",
+                "location": null,
+                "longitude": "108.428383",
+                "resources": [
+                    null
+                ],
+                "webComment": "CO-LSD-45\nIQCS: 735844",
+                "fire_status": "{\"out\": null, \"contain\": \"2024-06-09T15:45:00\", \"control\": \"2024-06-10T14:40:00\"}",
+                "fiscal_data": "{\"inc_num\": \"45\", \"fire_code\": \"RZ9S\", \"wfdssunit\": \"COLSD\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-07-18T15:50:37.822",
+                "name": "...thornburgh",
+                "type": "Smoke Check",
+                "uuid": "9ecad6c0-6dfb-47de-a3d8-6437273a30a2",
+                "acres": null,
+                "fuels": null,
+                "inc_num": "88",
+                "fire_num": null,
+                "latitude": "40.236909",
+                "location": null,
+                "longitude": "107.666187",
+                "resources": [
+                    "CRD E-1446"
+                ],
+                "webComment": null,
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"88\", \"fire_code\": null, \"wfdssunit\": \"COCRC\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-07-14T06:26:52.259",
+                "name": "RED FLAG WARNING 7/14",
+                "type": "Miscellaneous",
+                "uuid": "a63520fa-9059-49b5-b6be-10d7de31efe7",
+                "acres": null,
+                "fuels": null,
+                "inc_num": "82",
+                "fire_num": null,
+                "latitude": null,
+                "location": null,
+                "longitude": null,
+                "resources": [
+                    null
+                ],
+                "webComment": "CO-CRC-082",
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"82\", \"fire_code\": null, \"wfdssunit\": \"COCRC\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-07-01T08:00:00",
+                "name": "FREEMAN",
+                "type": "Wildfire",
+                "uuid": "a73b45ea-dc24-40b2-aed2-22d507e4b893",
+                "acres": "0.1",
+                "fuels": "CONNIFER/SLASH",
+                "inc_num": "65",
+                "fire_num": "",
+                "latitude": "40.770332",
+                "location": "",
+                "longitude": "107.424863",
+                "resources": [
+                    null
+                ],
+                "webComment": "CO-MRF-65\nIQCS: 742617",
+                "fire_status": "{\"out\": \"2024-07-04T13:05:00\", \"contain\": \"2024-07-01T13:51:00\", \"control\": \"2024-07-04T13:00:00\"}",
+                "fiscal_data": "{\"inc_num\": \"65\", \"fire_code\": \"\", \"wfdssunit\": \"WYMRF\", \"fs_job_code\": \"P2\", \"fs_override\": \"0206\", \"fiscal_comments\": \"EKU1\", \"state_fiscal_code\": \"\"}"
+            },
+            {
+                "ic": "Andy Buyers",
+                "date": "2024-06-08T17:40:00",
+                "name": "NELSON",
+                "type": "Wildfire",
+                "uuid": "af2dab06-4f4c-4c87-85a0-2dfac1903b98",
+                "acres": "3.3",
+                "fuels": "grass/brush",
+                "inc_num": "44",
+                "fire_num": null,
+                "latitude": "40.801617",
+                "location": "Brown's Park - Nelson Bottom area",
+                "longitude": "108.935083",
+                "resources": [
+                    null
+                ],
+                "webComment": "CO-BPR-44\nIQCS: 735695",
+                "fire_status": "{\"out\": null, \"contain\": \"2024-06-09T10:53:00\", \"control\": \"2024-06-11T10:00:00\"}",
+                "fiscal_data": "{\"inc_num\": \"44\", \"fire_code\": \"RZ8R\", \"wfdssunit\": \"COBPR\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "Matt Borovatz",
+                "date": "2024-07-13T17:50:00",
+                "name": "AMERICA",
+                "type": "Wildfire",
+                "uuid": "b15349ce-1055-40ec-b575-2e9a5c434c0e",
+                "acres": "0.5",
+                "fuels": "Grass/Brush Pinion/J",
+                "inc_num": "80",
+                "fire_num": null,
+                "latitude": "39.947767",
+                "location": "",
+                "longitude": "108.506500",
+                "resources": [
+                    null
+                ],
+                "webComment": "CO-WRD-80\nIQCS: 747966",
+                "fire_status": "{\"out\": null, \"contain\": \"2024-07-14T12:43:00\", \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"80\", \"fire_code\": \"R3ER\", \"wfdssunit\": \"COWRD\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "Pfeiffer",
+                "date": "2024-07-16T16:55:00",
+                "name": "UNO",
+                "type": "Wildfire",
+                "uuid": "b3d9fed4-dc9d-4cf1-9cae-f7bfdca1148b",
+                "acres": "0.1",
+                "fuels": "Pinon/Juniper",
+                "inc_num": "85",
+                "fire_num": "",
+                "latitude": "39.822167",
+                "location": "",
+                "longitude": "108.306500",
+                "resources": [
+                    null
+                ],
+                "webComment": "CO-WRD-85",
+                "fire_status": "{\"out\": null, \"contain\": \"2024-07-16T19:00:00\", \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"85\", \"fire_code\": \"R3QN\", \"wfdssunit\": \"COWRD\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "Steele",
+                "date": "2024-07-04T14:37:00",
+                "name": "CROOKED WASH",
+                "type": "Wildfire",
+                "uuid": "b46f3f27-d6cd-45f7-9d38-cbdc557d0f94",
+                "acres": "15",
+                "fuels": "grass/brush",
+                "inc_num": "76",
+                "fire_num": null,
+                "latitude": "40.275767",
+                "location": "",
+                "longitude": "108.283917",
+                "resources": [
+                    null
+                ],
+                "webComment": "CO-LSD-76\nIQCS: 744038",
+                "fire_status": "{\"out\": null, \"contain\": \"2024-07-04T18:15:00\", \"control\": \"2024-07-05T13:00:00\"}",
+                "fiscal_data": "{\"inc_num\": \"76\", \"fire_code\": \"R2C5\", \"wfdssunit\": \"COLSD\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-06-26T10:59:46.77",
+                "name": "CAMP CR FA",
+                "type": "False Alarm",
+                "uuid": "b759b3af-3d85-4ad3-a6d6-818c83589c8a",
+                "acres": null,
+                "fuels": null,
+                "inc_num": "60",
+                "fire_num": null,
+                "latitude": "40.983970",
+                "location": "",
+                "longitude": "106.229875",
+                "resources": [
+                    null
+                ],
+                "webComment": "WY-MRF-60",
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"60\", \"fire_code\": \"\", \"wfdssunit\": \"WYMRF\", \"fs_job_code\": \"P2\", \"fs_override\": \"0206\", \"fiscal_comments\": \"EKU1\", \"state_fiscal_code\": \"\"}"
+            },
+            {
+                "ic": null,
+                "date": "2024-01-02T09:42:41.321",
+                "name": "2024 OFF UNIT REQUESTS",
+                "type": "Resource Order",
+                "uuid": "b9c28d8d-843b-443e-ae7a-915e6636ffe7",
+                "acres": null,
+                "fuels": null,
+                "inc_num": "5",
+                "fire_num": null,
+                "latitude": null,
+                "location": null,
+                "longitude": null,
+                "resources": [
+                    "CRAIG IHC"
+                ],
+                "webComment": "CO-CRC-005",
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"5\", \"fire_code\": null, \"wfdssunit\": \"COCRC\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "Pelloni",
+                "date": "2024-04-11T12:21:00",
+                "name": "LK",
+                "type": "Wildfire",
+                "uuid": "ba90494d-d834-4026-8e89-5a1bcb25e32a",
+                "acres": "3",
+                "fuels": "Grass/Brush",
+                "inc_num": "19",
+                "fire_num": "",
+                "latitude": "39.932778",
+                "location": "",
+                "longitude": "107.936389",
+                "resources": [
+                    null
+                ],
+                "webComment": "CO-RBX-19\nIQCS: 722046",
+                "fire_status": "{\"out\": \"2024-06-25T10:30:00\", \"contain\": \"2024-04-11T14:10:00\", \"control\": \"2024-04-11T14:10:00\"}",
+                "fiscal_data": "{\"inc_num\": \"19\", \"fire_code\": \"RU0Z\", \"wfdssunit\": \"CORBX\", \"fs_job_code\": null, \"fs_override\": \"\", \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "Joy Logan",
+                "date": "2024-04-09T15:44:50.862",
+                "name": "BROWN'S PARK COMPREHENSIVE RX",
+                "type": "Prescribed Fire",
+                "uuid": "baa7aedd-794f-4830-b3ae-b0873191b7ee",
+                "acres": null,
+                "fuels": null,
+                "inc_num": "18",
+                "fire_num": null,
+                "latitude": "40.799444",
+                "location": null,
+                "longitude": "108.906556",
+                "resources": [
+                    null
+                ],
+                "webComment": "CO-BPR-18\nIQCS: 721780",
+                "fire_status": "{\"out\": \"2024-06-10T14:00:00\", \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"18\", \"fire_code\": null, \"wfdssunit\": \"COBPR\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": \"FFF3100001N1706\", \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-01-02T09:38:30.42",
+                "name": "2024 IT/RADIO LOG",
+                "type": "Miscellaneous",
+                "uuid": "bf20e818-4b5e-4ff0-a115-025fb47732e8",
+                "acres": null,
+                "fuels": null,
+                "inc_num": "1",
+                "fire_num": null,
+                "latitude": null,
+                "location": null,
+                "longitude": null,
+                "resources": [
+                    null
+                ],
+                "webComment": "CO-CRC-001",
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"1\", \"fire_code\": null, \"wfdssunit\": \"COCRC\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "Robert McCarty",
+                "date": "2024-04-15T13:28:00",
+                "name": "78",
+                "type": "Wildfire",
+                "uuid": "c0127c99-e460-4fd6-8253-a59b6109a7e3",
+                "acres": "35",
+                "fuels": "grass/brush",
+                "inc_num": "23",
+                "fire_num": null,
+                "latitude": "40.550000",
+                "location": "",
+                "longitude": "107.320000",
+                "resources": [
+                    null
+                ],
+                "webComment": "CO-RTX-23\nIQCS: 722928",
+                "fire_status": "{\"out\": \"2024-04-16T09:05:00\", \"contain\": \"2024-04-15T16:03:00\", \"control\": \"2024-04-16T09:05:00\"}",
+                "fiscal_data": "{\"inc_num\": \"23\", \"fire_code\": \"RU85\", \"wfdssunit\": \"CORTX\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "Emily Owens",
+                "date": "2024-06-08T12:15:00",
+                "name": "HARDER",
+                "type": "Wildfire",
+                "uuid": "c05279c1-dafe-4b3f-863b-08c1b24617d7",
+                "acres": "0.1",
+                "fuels": "Grass, Brush, PJ",
+                "inc_num": "49",
+                "fire_num": "",
+                "latitude": "40.463750",
+                "location": "",
+                "longitude": "108.510000",
+                "resources": [
+                    null
+                ],
+                "webComment": "CO-DSP-49\nIQCS: 736663",
+                "fire_status": "{\"out\": \"2024-06-08T12:20:00\", \"contain\": \"2024-06-08T12:20:00\", \"control\": \"2024-06-08T12:20:00\"}",
+                "fiscal_data": "{\"inc_num\": \"49\", \"fire_code\": \"R0HL\", \"wfdssunit\": \"CODSP\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "Todd Wheeler",
+                "date": "2024-05-17T16:15:00",
+                "name": "LILY",
+                "type": "Wildfire",
+                "uuid": "c55e8095-c238-432b-9ee4-64da5dc37444",
+                "acres": "32.5",
+                "fuels": "grass/brush",
+                "inc_num": "30",
+                "fire_num": null,
+                "latitude": "40.470650",
+                "location": "",
+                "longitude": "108.429517",
+                "resources": [
+                    null
+                ],
+                "webComment": "CO-MFX-30\nIQCS: 730335",
+                "fire_status": "{\"out\": \"2024-05-21T09:00:00\", \"contain\": \"2024-05-18T15:00:00\", \"control\": \"2024-05-18T16:30:00\"}",
+                "fiscal_data": "{\"inc_num\": \"30\", \"fire_code\": \"RX9D\", \"wfdssunit\": \"COMFX\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "Wyatt Keena",
+                "date": "2024-05-14T14:50:00",
+                "name": "SWELL",
+                "type": "Wildfire",
+                "uuid": "c67dbe5c-cfde-42ee-b398-d532803f6451",
+                "acres": "0.1",
+                "fuels": "PJ",
+                "inc_num": "27",
+                "fire_num": null,
+                "latitude": "40.209267",
+                "location": "",
+                "longitude": "108.758400",
+                "resources": [
+                    null
+                ],
+                "webComment": "CO-WRD-027\nIQCS: 729550",
+                "fire_status": "{\"out\": \"2024-06-25T10:30:00\", \"contain\": \"2024-05-14T17:30:00\", \"control\": \"2024-06-25T10:00:00\"}",
+                "fiscal_data": "{\"inc_num\": \"27\", \"fire_code\": \"RX4X\", \"wfdssunit\": \"COWRD\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "Mitch Jacob",
+                "date": "2024-06-14T14:37:00",
+                "name": "ROCK",
+                "type": "Wildfire",
+                "uuid": "cc33f25a-76f5-4989-a154-25f5a053b6b1",
+                "acres": "1",
+                "fuels": "Pinon/Juniper",
+                "inc_num": "51",
+                "fire_num": null,
+                "latitude": "40.018910",
+                "location": "",
+                "longitude": "108.858690",
+                "resources": [
+                    null
+                ],
+                "webComment": "CO-WRD-51\nIQCS: 737321",
+                "fire_status": "{\"out\": null, \"contain\": \"2024-06-14T19:00:00\", \"control\": \"2024-06-25T10:00:00\"}",
+                "fiscal_data": "{\"inc_num\": \"51\", \"fire_code\": \"R0MC\", \"wfdssunit\": \"COWRD\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-01-09T09:00:00.04",
+                "name": "WRFO PILE BURN RX",
+                "type": "Prescribed Fire",
+                "uuid": "d42c5604-4f7c-4e01-8e5a-4676e040e8f2",
+                "acres": null,
+                "fuels": null,
+                "inc_num": "10",
+                "fire_num": null,
+                "latitude": "39.817347",
+                "location": null,
+                "longitude": "108.234733",
+                "resources": [
+                    null
+                ],
+                "webComment": "CO-WRD-10\nIQCS: 707653",
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"10\", \"fire_code\": null, \"wfdssunit\": \"COWRD\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": \"LLCOC00000 LF312D000 JW0000 LFHFEQ990000\", \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "Chris Mercer",
+                "date": "2024-07-03T21:19:00",
+                "name": "DOE RUN",
+                "type": "Miscellaneous",
+                "uuid": "d69b040a-ffcb-44ef-9569-536b22d0922a",
+                "acres": "2.5",
+                "fuels": null,
+                "inc_num": "75",
+                "fire_num": null,
+                "latitude": "40.508333",
+                "location": null,
+                "longitude": "107.612333",
+                "resources": [
+                    null
+                ],
+                "webComment": "CO-MFX-75",
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"75\", \"fire_code\": null, \"wfdssunit\": \"COMFX\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "Dale Nakai",
+                "date": "2024-05-26T15:05:00",
+                "name": "EAST BOONE",
+                "type": "Wildfire",
+                "uuid": "d92ef364-ca34-4503-8ba8-2e4d539c7718",
+                "acres": "0.1",
+                "fuels": "pj",
+                "inc_num": "35",
+                "fire_num": null,
+                "latitude": "40.643000",
+                "location": "E Boone Draw",
+                "longitude": "108.514000",
+                "resources": [
+                    null
+                ],
+                "webComment": "CO-LSD-035\nIQCS: 732119",
+                "fire_status": "{\"out\": null, \"contain\": \"2024-05-26T19:06:00\", \"control\": \"2024-05-28T11:32:00\"}",
+                "fiscal_data": "{\"inc_num\": \"35\", \"fire_code\": \"RY2E\", \"wfdssunit\": \"COLSD\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-05-09T15:52:48.407",
+                "name": "OXBOW RX",
+                "type": "Prescribed Fire",
+                "uuid": "df8e60ef-b767-436b-ac67-72f77e10ee11",
+                "acres": null,
+                "fuels": null,
+                "inc_num": "25",
+                "fire_num": null,
+                "latitude": "40.599444",
+                "location": null,
+                "longitude": "108.352222",
+                "resources": [
+                    null
+                ],
+                "webComment": "CO-LSD-025",
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"25\", \"fire_code\": null, \"wfdssunit\": \"COLSD\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "Wyatt Keena",
+                "date": "2024-07-01T10:30:00",
+                "name": "SMALL",
+                "type": "Wildfire",
+                "uuid": "ebb7e5b6-62c0-419d-a693-1cb03b1a3e9e",
+                "acres": "0.1",
+                "fuels": "Pinon/Juniper",
+                "inc_num": "66",
+                "fire_num": null,
+                "latitude": "40.212340",
+                "location": null,
+                "longitude": "108.257160",
+                "resources": [
+                    null
+                ],
+                "webComment": "CO-RBX-66\nIQCS: 742594",
+                "fire_status": "{\"out\": null, \"contain\": \"2024-07-01T12:00:00\", \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"66\", \"fire_code\": \"R12P\", \"wfdssunit\": \"CORBX\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-07-01T13:52:00.103",
+                "name": "YELLOW FA",
+                "type": "False Alarm",
+                "uuid": "ed17cad3-3b28-444a-930b-0af63219f4d6",
+                "acres": null,
+                "fuels": null,
+                "inc_num": "69",
+                "fire_num": null,
+                "latitude": "40.000590",
+                "location": "",
+                "longitude": "108.304770",
+                "resources": [
+                    null
+                ],
+                "webComment": "CO-WRD-69",
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"69\", \"fire_code\": \"R13D\", \"wfdssunit\": \"COWRD\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "Owens",
+                "date": "2024-06-28T14:31:00",
+                "name": "SKULL CREEK",
+                "type": "Wildfire",
+                "uuid": "f261ff43-a1f9-40b6-803c-bcd86575db2a",
+                "acres": "4.07",
+                "fuels": "Pinon/Juniper",
+                "inc_num": "62",
+                "fire_num": null,
+                "latitude": "40.296283",
+                "location": "",
+                "longitude": "108.661967",
+                "resources": [
+                    null
+                ],
+                "webComment": "CO-WRD-62\nIQCS: 741872",
+                "fire_status": "{\"out\": null, \"contain\": \"2024-06-29T16:45:00\", \"control\": \"2024-07-04T12:20:00\"}",
+                "fiscal_data": "{\"inc_num\": \"62\", \"fire_code\": \"R1UQ\", \"wfdssunit\": \"COWRD\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "Kaleb Nielsen",
+                "date": "2024-07-01T16:30:00",
+                "name": "CHERRY",
+                "type": "Wildfire",
+                "uuid": "f4ac5618-3324-44e5-8690-fa5fddeb11d3",
+                "acres": "0.1",
+                "fuels": "Pinion/Juniper",
+                "inc_num": "70",
+                "fire_num": null,
+                "latitude": "40.064800",
+                "location": "",
+                "longitude": "108.322450",
+                "resources": [
+                    null
+                ],
+                "webComment": "CO-RBX-70\nIQCS: 742881",
+                "fire_status": "{\"out\": null, \"contain\": \"2024-07-01T18:55:00\", \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"70\", \"fire_code\": \"R127\", \"wfdssunit\": \"CORBX\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-06-26T15:01:00",
+                "name": "BARCUS",
+                "type": "Wildfire",
+                "uuid": "f510a5d5-1662-4984-8fde-7ffdd7ee395d",
+                "acres": "0.1",
+                "fuels": "Pinion/Juniper",
+                "inc_num": "61",
+                "fire_num": "",
+                "latitude": "40.036667",
+                "location": null,
+                "longitude": "108.498333",
+                "resources": [
+                    null
+                ],
+                "webComment": "CO-WRD-61\nIQCS: 741149",
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"61\", \"fire_code\": \"R1MF\", \"wfdssunit\": \"COWRD\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "McIntosh",
+                "date": "2024-06-30T17:26:00",
+                "name": "SAND",
+                "type": "Wildfire",
+                "uuid": "f5abcf5b-6638-4a94-a2af-3f857b19851d",
+                "acres": "1.45",
+                "fuels": "grass/brush",
+                "inc_num": "63",
+                "fire_num": "",
+                "latitude": "40.622459",
+                "location": "",
+                "longitude": "108.375961",
+                "resources": [
+                    null
+                ],
+                "webComment": "CO-LSD-63\nIQCS: 742467",
+                "fire_status": "{\"out\": null, \"contain\": \"2024-06-30T21:10:00\", \"control\": \"2024-07-03T12:50:00\"}",
+                "fiscal_data": "{\"inc_num\": \"63\", \"fire_code\": \"R1ZQ\", \"wfdssunit\": \"COLSD\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-06-17T10:56:19.079",
+                "name": "2024 RMA AVIATION PREPOSITION - CRC",
+                "type": "Resource Order",
+                "uuid": "f8b42372-b650-4687-9a0a-f5ed9a471795",
+                "acres": null,
+                "fuels": null,
+                "inc_num": "54",
+                "fire_num": null,
+                "latitude": null,
+                "location": null,
+                "longitude": null,
+                "resources": [
+                    null
+                ],
+                "webComment": null,
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"54\", \"fire_code\": null, \"wfdssunit\": \"COCRC\", \"fs_job_code\": \"WG\", \"fs_override\": \"0231\", \"fiscal_comments\": \"WGE5XZ24(0231)\", \"state_fiscal_code\": null}"
+            }
+        ],
+        "retrieved": "2024-07-18T21:53:20.462623"
+    }
+]

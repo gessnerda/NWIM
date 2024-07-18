@@ -1,0 +1,667 @@
+[
+    {
+        "data": [
+            {
+                "ic": null,
+                "date": "2024-07-05T19:58:00",
+                "name": "CF BRD 581",
+                "type": "Nonstatistical Fire",
+                "uuid": "047b5997-39b7-4322-8861-bb099f3ce1db",
+                "acres": null,
+                "fuels": null,
+                "inc_num": "581",
+                "fire_num": null,
+                "latitude": "40.001459",
+                "location": null,
+                "longitude": "105.489639",
+                "resources": [
+                    null
+                ],
+                "webComment": "Unattended campfire in Gordon Gulch",
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"581\", \"fire_code\": null, \"wfdssunit\": \"COARF\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-07-05T20:05:00",
+                "name": "CF BRD 584",
+                "type": "Nonstatistical Fire",
+                "uuid": "0e5290b4-dc38-4c65-ad78-0cb28ed1c20e",
+                "acres": null,
+                "fuels": null,
+                "inc_num": "584",
+                "fire_num": null,
+                "latitude": "40.011010",
+                "location": null,
+                "longitude": "105.498897",
+                "resources": [
+                    null
+                ],
+                "webComment": "Unattended Campfire of FS Rd Matchless ",
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"584\", \"fire_code\": null, \"wfdssunit\": \"COARF\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-07-17T11:44:16.29",
+                "name": "Bench Lake",
+                "type": "Resource Order",
+                "uuid": "323bcc2f-96a2-4a43-ad65-081731c45c78",
+                "acres": null,
+                "fuels": null,
+                "inc_num": "597",
+                "fire_num": null,
+                "latitude": "44.115278",
+                "location": null,
+                "longitude": "114.961389",
+                "resources": [
+                    null
+                ],
+                "webComment": null,
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"597\", \"fire_code\": null, \"wfdssunit\": \"COFTC\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": \"P4 R27B (R27B) [P]\", \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "Nick Shaw 303-601-0440",
+                "date": "2024-07-12T11:33:00",
+                "name": "Green Mountain",
+                "type": "Wildfire",
+                "uuid": "378eed97-a3c6-450b-8379-001db784de00",
+                "acres": "3.5",
+                "fuels": "Grass / Light Timber",
+                "inc_num": "550",
+                "fire_num": "",
+                "latitude": "39.975803",
+                "location": "39.975803 x 105.286690",
+                "longitude": "105.286690",
+                "resources": [
+                    null
+                ],
+                "webComment": "Wildfire near Green Mountain, Boulder, CO",
+                "fire_status": "{\"out\": \"2024-07-17T17:24:00\", \"contain\": \"2024-07-13T18:45:00\", \"control\": \"2024-07-14T18:00:00\"}",
+                "fiscal_data": "{\"inc_num\": \"550\", \"fire_code\": \"R288\", \"wfdssunit\": \"COBLX\", \"fs_job_code\": \"PN\", \"fs_override\": \"1522\", \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-07-14T12:57:00",
+                "name": "CF CCRD 573",
+                "type": "Nonstatistical Fire",
+                "uuid": "395ca808-f094-4c24-abab-5357ad94e41c",
+                "acres": null,
+                "fuels": null,
+                "inc_num": "573",
+                "fire_num": null,
+                "latitude": "39.778783",
+                "location": null,
+                "longitude": "105.863500",
+                "resources": [
+                    null
+                ],
+                "webComment": "Abandoned Campfire vicinity of Jones Pass and Henderson Mines Roads. was inside ring and extinguished, no additional resources needed. OUT.",
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"573\", \"fire_code\": null, \"wfdssunit\": \"COARF\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-07-13T17:31:03.889",
+                "name": "CF CCRD 565",
+                "type": "Nonstatistical Fire",
+                "uuid": "42144a3e-edd2-404b-bf22-591622f35296",
+                "acres": null,
+                "fuels": null,
+                "inc_num": "565",
+                "fire_num": null,
+                "latitude": "39.818050",
+                "location": "CCRD",
+                "longitude": "105.670750",
+                "resources": [
+                    null
+                ],
+                "webComment": "Abandoned Campfire inside ring. \n(Off NF-701.1 near Saint Mary's Subdivision)",
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"565\", \"fire_code\": null, \"wfdssunit\": \"COARF\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "Cousineau",
+                "date": "2024-07-09T11:58:00",
+                "name": "Cave Creek",
+                "type": "Wildfire",
+                "uuid": "44751945-9498-4698-b624-20366e020ba9",
+                "acres": "0.1",
+                "fuels": "grass, brush, timber",
+                "inc_num": "530",
+                "fire_num": "",
+                "latitude": "40.158467",
+                "location": null,
+                "longitude": "105.485267",
+                "resources": [
+                    null
+                ],
+                "webComment": "Grass Fire near 2000 Bunce Road.",
+                "fire_status": "{\"out\": \"2024-07-12T14:00:00\", \"contain\": \"2024-07-09T13:30:00\", \"control\": \"2024-07-11T12:00:00\"}",
+                "fiscal_data": "{\"inc_num\": \"530\", \"fire_code\": null, \"wfdssunit\": \"COBLX\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-07-14T12:35:33.679",
+                "name": "CF CCRD 571",
+                "type": "Nonstatistical Fire",
+                "uuid": "55917e03-65e8-4e7f-8856-51ada67604c3",
+                "acres": null,
+                "fuels": null,
+                "inc_num": "571",
+                "fire_num": null,
+                "latitude": "39.777117",
+                "location": null,
+                "longitude": "105.863883",
+                "resources": [
+                    null
+                ],
+                "webComment": "Abandoned Campfire off Henderson Mine Road. It was inside ring and has been extinguished. No additional resources are needed. OUT.",
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"571\", \"fire_code\": null, \"wfdssunit\": \"COARF\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "BC 71 Estes alley FPD",
+                "date": "2024-07-13T19:23:14.483",
+                "name": "Jacob",
+                "type": "Wildfire",
+                "uuid": "63f55a65-4b19-4dfc-b20c-acfe3f67692e",
+                "acres": "0.1",
+                "fuels": null,
+                "inc_num": "567",
+                "fire_num": null,
+                "latitude": "40.327254",
+                "location": null,
+                "longitude": "105.493722",
+                "resources": [
+                    null
+                ],
+                "webComment": "Wildfire in between Jacob Rd and Aspen Valley Rd. ",
+                "fire_status": "{\"out\": null, \"contain\": \"2024-07-13T20:16:00\", \"control\": \"2024-07-13T21:05:00\"}",
+                "fiscal_data": "{\"inc_num\": \"567\", \"fire_code\": null, \"wfdssunit\": \"COLRX\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-07-13T17:35:01.984",
+                "name": "CF CCRD 566",
+                "type": "Nonstatistical Fire",
+                "uuid": "677d1de5-663b-4ffc-9274-eb260bf65b3f",
+                "acres": null,
+                "fuels": null,
+                "inc_num": "566",
+                "fire_num": null,
+                "latitude": "39.690417",
+                "location": "CCRD",
+                "longitude": "105.498583",
+                "resources": [
+                    null
+                ],
+                "webComment": "Abandoned Campfire still within ring\n(Off 103 near Blue Valley Acres)",
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"566\", \"fire_code\": null, \"wfdssunit\": \"COARF\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-07-14T13:10:00",
+                "name": "CF CCRD 574",
+                "type": "Nonstatistical Fire",
+                "uuid": "695aba62-ba60-4773-b187-faa46ebd159c",
+                "acres": null,
+                "fuels": null,
+                "inc_num": "574",
+                "fire_num": null,
+                "latitude": "39.780200",
+                "location": null,
+                "longitude": "105.858333",
+                "resources": [
+                    null
+                ],
+                "webComment": "Abandoned Campfire SW Vasquez Peak. was inside ring and is extinguished, no additional resources needed. OUT.",
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"574\", \"fire_code\": null, \"wfdssunit\": \"COARF\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-07-17T16:55:07.057",
+                "name": "2024 NRGA Fire Support",
+                "type": "Resource Order",
+                "uuid": "6d39500f-eace-4656-818a-6fb5957cd4ec",
+                "acres": null,
+                "fuels": null,
+                "inc_num": "599",
+                "fire_num": null,
+                "latitude": "46.927778",
+                "location": null,
+                "longitude": "114.095278",
+                "resources": [
+                    null
+                ],
+                "webComment": null,
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"599\", \"fire_code\": null, \"wfdssunit\": \"COFTC\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": \"P1QS9Y (0156) [P]\\n904001\", \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "Brad Rockwell Wray FD",
+                "date": "2024-07-11T22:00:00",
+                "name": "24",
+                "type": "Wildfire",
+                "uuid": "70da834f-9bf1-414f-a167-809cbb22b0fc",
+                "acres": "392",
+                "fuels": "Grass",
+                "inc_num": "549",
+                "fire_num": null,
+                "latitude": "39.916824",
+                "location": null,
+                "longitude": "102.143511",
+                "resources": [
+                    null
+                ],
+                "webComment": "Wildfire near County Road 24 Southwest of Wray, Co",
+                "fire_status": "{\"out\": \"2024-07-16T16:10:00\", \"contain\": \"2024-07-12T19:00:00\", \"control\": \"2024-07-13T19:00:00\"}",
+                "fiscal_data": "{\"inc_num\": \"549\", \"fire_code\": null, \"wfdssunit\": \"COYMX\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-07-14T12:50:21.249",
+                "name": "CF BRD 572",
+                "type": "Nonstatistical Fire",
+                "uuid": "7327cc8e-a2ce-46ae-9ad1-e6d60052990d",
+                "acres": null,
+                "fuels": null,
+                "inc_num": "572",
+                "fire_num": null,
+                "latitude": "40.014133",
+                "location": null,
+                "longitude": "105.496917",
+                "resources": [
+                    null
+                ],
+                "webComment": "Abandoned Campfire off Peak to Peak Hwy South of Switzerland Trail. fire in ring ext mopping up. OUT.",
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"572\", \"fire_code\": null, \"wfdssunit\": \"COARF\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "5-6D",
+                "date": "2024-07-15T18:36:42.226",
+                "name": "Elkhorn",
+                "type": "Wildfire",
+                "uuid": "800c6055-c285-4259-9d3a-f8ca21d89cd2",
+                "acres": "0.1",
+                "fuels": "Timber Litter",
+                "inc_num": "593",
+                "fire_num": "593",
+                "latitude": "40.748000",
+                "location": null,
+                "longitude": "105.509000",
+                "resources": [
+                    null
+                ],
+                "webComment": "Smoke Report near intersection of County Rd. 68C and Ben Delatour Scout Ranch. 10'x10'. Controlled.",
+                "fire_status": "{\"out\": \"2024-07-17T15:25:00\", \"contain\": \"2024-07-15T19:30:00\", \"control\": \"2024-07-15T20:00:00\"}",
+                "fiscal_data": "{\"inc_num\": \"593\", \"fire_code\": null, \"wfdssunit\": \"COLRX\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-07-05T19:59:00",
+                "name": "CF BRD 582",
+                "type": "Nonstatistical Fire",
+                "uuid": "970725cd-4f59-416d-8169-4046173f3ce4",
+                "acres": null,
+                "fuels": null,
+                "inc_num": "582",
+                "fire_num": null,
+                "latitude": "40.016190",
+                "location": null,
+                "longitude": "105.486246",
+                "resources": [
+                    null
+                ],
+                "webComment": "Unattended campfire off FS Rd. 233",
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"582\", \"fire_code\": null, \"wfdssunit\": \"COARF\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-07-05T19:50:00",
+                "name": "CF BRD 577",
+                "type": "Nonstatistical Fire",
+                "uuid": "9ab94129-2a8f-4507-b7f8-d770729300fe",
+                "acres": null,
+                "fuels": null,
+                "inc_num": "577",
+                "fire_num": null,
+                "latitude": "40.016839",
+                "location": null,
+                "longitude": "105.479078",
+                "resources": [
+                    null
+                ],
+                "webComment": "Unattended campfire on FS Rd. 223.1 near Gordon Gulch",
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"577\", \"fire_code\": null, \"wfdssunit\": \"COARF\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-07-18T11:31:58.818",
+                "name": "Texas",
+                "type": "Resource Order",
+                "uuid": "9e2793a2-8bb4-48ae-8b7b-ee025d78be58",
+                "acres": null,
+                "fuels": null,
+                "inc_num": "601",
+                "fire_num": null,
+                "latitude": "46.633611",
+                "location": null,
+                "longitude": "116.592500",
+                "resources": [
+                    null
+                ],
+                "webComment": null,
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"601\", \"fire_code\": null, \"wfdssunit\": \"COFTC\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": \"IUC\\nPN R3MJ (1522) [P]\", \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "210K - Enzo",
+                "date": "2024-07-08T11:23:00",
+                "name": "Coulson Gulch",
+                "type": "Wildfire",
+                "uuid": "a732b032-d4e5-41e3-b223-0ffa7bbb159b",
+                "acres": "0.03",
+                "fuels": "Timber, duff, grass",
+                "inc_num": "520",
+                "fire_num": "19",
+                "latitude": "40.233333",
+                "location": "",
+                "longitude": "105.417500",
+                "resources": [
+                    null
+                ],
+                "webComment": "0.5",
+                "fire_status": "{\"out\": null, \"contain\": \"2024-07-08T16:30:00\", \"control\": \"2024-07-10T14:45:00\"}",
+                "fiscal_data": "{\"inc_num\": \"520\", \"fire_code\": null, \"wfdssunit\": \"COARF\", \"fs_job_code\": \"P2\", \"fs_override\": \"0210\", \"fiscal_comments\": \"\", \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-07-12T17:26:02.08",
+                "name": "88th AVE",
+                "type": "Wildfire",
+                "uuid": "bcd1ff56-3431-4027-98e9-562cb6de08a9",
+                "acres": "125",
+                "fuels": null,
+                "inc_num": "554",
+                "fire_num": null,
+                "latitude": "39.847800",
+                "location": null,
+                "longitude": "104.279200",
+                "resources": [
+                    null
+                ],
+                "webComment": "Large Brush fire 13 miles east of Front Range Spaceport / 9 miles north of Strasburg",
+                "fire_status": "{\"out\": \"2024-07-12T19:45:00\", \"contain\": \"2024-07-12T19:00:00\", \"control\": \"2024-07-12T19:30:00\"}",
+                "fiscal_data": "{\"inc_num\": \"554\", \"fire_code\": null, \"wfdssunit\": \"COADX\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "Doud, Alex",
+                "date": "2024-04-08T13:53:52.869",
+                "name": "Magic Feather Broadcast RX",
+                "type": "Prescribed Fire",
+                "uuid": "c999f357-364e-452e-849e-4048ea9d3f69",
+                "acres": null,
+                "fuels": null,
+                "inc_num": "177",
+                "fire_num": null,
+                "latitude": "40.754967",
+                "location": "Units: P13, 10, 9, 7.",
+                "longitude": "105.522333",
+                "resources": [
+                    null
+                ],
+                "webComment": "Prescribed Fire Magic Feather Broadcast Rx",
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"177\", \"fire_code\": null, \"wfdssunit\": \"COARF\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-07-05T20:01:00",
+                "name": "CF BRD 583",
+                "type": "Nonstatistical Fire",
+                "uuid": "cc9788bd-9910-48e1-89fb-d697470f8d7b",
+                "acres": null,
+                "fuels": null,
+                "inc_num": "583",
+                "fire_num": null,
+                "latitude": "40.016325",
+                "location": null,
+                "longitude": "105.484366",
+                "resources": [
+                    null
+                ],
+                "webComment": "Unattended Campfire off FS Rd. 233",
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"583\", \"fire_code\": null, \"wfdssunit\": \"COARF\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-07-18T15:27:00.838",
+                "name": "IA 602",
+                "type": "Wildfire",
+                "uuid": "cff692f6-66cd-4494-b124-b52865eb16c4",
+                "acres": null,
+                "fuels": null,
+                "inc_num": "602",
+                "fire_num": null,
+                "latitude": null,
+                "location": null,
+                "longitude": null,
+                "resources": [
+                    null
+                ],
+                "webComment": "",
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"602\", \"fire_code\": null, \"wfdssunit\": \"COWEX\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-07-17T13:08:03.669",
+                "name": "Aircraft Flight Following 07/17",
+                "type": "Aircraft",
+                "uuid": "d17d55e6-25d3-41f6-ad98-6eee9f0a9a18",
+                "acres": null,
+                "fuels": null,
+                "inc_num": "598",
+                "fire_num": null,
+                "latitude": null,
+                "location": null,
+                "longitude": null,
+                "resources": [
+                    null
+                ],
+                "webComment": null,
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"598\", \"fire_code\": null, \"wfdssunit\": \"COFTC\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-07-05T19:56:00",
+                "name": "CF BRD 580",
+                "type": "Nonstatistical Fire",
+                "uuid": "d6d40d60-e129-4df8-bc96-c8d90bfbd6d0",
+                "acres": null,
+                "fuels": null,
+                "inc_num": "580",
+                "fire_num": null,
+                "latitude": "40.013514",
+                "location": null,
+                "longitude": "105.492998",
+                "resources": [
+                    null
+                ],
+                "webComment": "Unattended campfire off FS Rd. 233 near Peak-to-Peak Hwy",
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"580\", \"fire_code\": null, \"wfdssunit\": \"COARF\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-07-14T13:22:08.384",
+                "name": "CF CCRD 575",
+                "type": "Nonstatistical Fire",
+                "uuid": "db6a6671-1d39-48e0-bb3d-b82e2a0cb80c",
+                "acres": "0.1",
+                "fuels": null,
+                "inc_num": "575",
+                "fire_num": null,
+                "latitude": "39.779417",
+                "location": null,
+                "longitude": "105.865050",
+                "resources": [
+                    null
+                ],
+                "webComment": "Unattended Campfire of 202 Rd / Jones Pass. Campfire within the ring, extinguished, and no other resources needed.  OUT.",
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"575\", \"fire_code\": null, \"wfdssunit\": \"COARF\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-07-05T19:52:00",
+                "name": "CF BRD 578",
+                "type": "Nonstatistical Fire",
+                "uuid": "e123ca8c-de7c-453b-9849-968641a162f1",
+                "acres": null,
+                "fuels": null,
+                "inc_num": "578",
+                "fire_num": null,
+                "latitude": "40.013620",
+                "location": null,
+                "longitude": "105.479809",
+                "resources": [
+                    null
+                ],
+                "webComment": "Unattended campfire on FF Rd. 228B near Gordon Gulch",
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"578\", \"fire_code\": null, \"wfdssunit\": \"COARF\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-07-16T09:25:55.584",
+                "name": "CF BRD 594",
+                "type": "Nonstatistical Fire",
+                "uuid": "e58b7d7f-81e3-4b95-a779-1ee8118917d6",
+                "acres": "0.1",
+                "fuels": null,
+                "inc_num": "594",
+                "fire_num": null,
+                "latitude": "40.015603",
+                "location": null,
+                "longitude": "105.495847",
+                "resources": [
+                    null
+                ],
+                "webComment": null,
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"594\", \"fire_code\": null, \"wfdssunit\": \"COBLX\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-07-05T20:06:00",
+                "name": "CF BRD 585",
+                "type": "Nonstatistical Fire",
+                "uuid": "e5ca0d8b-2cbe-415d-8c95-f93419936c8a",
+                "acres": null,
+                "fuels": null,
+                "inc_num": "585",
+                "fire_num": null,
+                "latitude": "40.009556",
+                "location": null,
+                "longitude": "105.501817",
+                "resources": [
+                    null
+                ],
+                "webComment": "Unattended campfire FS Rd. 314 near Peak-to-Peak Hwy",
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"585\", \"fire_code\": null, \"wfdssunit\": \"COARF\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "Renee Osier",
+                "date": "2024-07-11T21:03:36.599",
+                "name": "CR EE",
+                "type": "Wildfire",
+                "uuid": "ecc2f89d-ee07-432b-87ae-2a256615cf41",
+                "acres": "300",
+                "fuels": "grass",
+                "inc_num": "546",
+                "fire_num": null,
+                "latitude": "40.436005",
+                "location": null,
+                "longitude": "103.560605",
+                "resources": [
+                    null
+                ],
+                "webComment": "Wildfire NE of Brush, CO near CR 33 and CR EE",
+                "fire_status": "{\"out\": \"2024-07-11T23:34:00\", \"contain\": \"2024-07-11T23:00:00\", \"control\": \"2024-07-11T23:15:00\"}",
+                "fiscal_data": "{\"inc_num\": \"546\", \"fire_code\": null, \"wfdssunit\": \"COMGX\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-07-14T08:37:26.381",
+                "name": "VF 570",
+                "type": "Vehicle Fire",
+                "uuid": "fae3cd70-69c4-4c43-b8bc-a109895294ff",
+                "acres": null,
+                "fuels": null,
+                "inc_num": "570",
+                "fire_num": null,
+                "latitude": "39.786220",
+                "location": "Golden Gate SP, MM 11 on Golden Gate Road",
+                "longitude": "105.335580",
+                "resources": [
+                    null
+                ],
+                "webComment": "Vehicle fire in Golden Gate SP near MM 11",
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"570\", \"fire_code\": null, \"wfdssunit\": \"COCDFS\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "Luke Finn Asst 1-2",
+                "date": "2024-07-08T13:30:00",
+                "name": "Dry Saint Vrain",
+                "type": "Wildfire",
+                "uuid": "fcd98fdd-3218-4888-b07a-0196e079ff9c",
+                "acres": "0.25",
+                "fuels": "Light Timber",
+                "inc_num": "523",
+                "fire_num": "20",
+                "latitude": "40.203050",
+                "location": "40 12.183 x 105 24.258",
+                "longitude": "105.404300",
+                "resources": [
+                    null
+                ],
+                "webComment": "Fire off Dry St. Vrain Creek / 0.1 - 0.25 ac, very steep :: P2EKU524 (0210)",
+                "fire_status": "{\"out\": null, \"contain\": \"2024-07-10T12:00:00\", \"control\": \"2024-07-11T11:00:00\"}",
+                "fiscal_data": "{\"inc_num\": \"523\", \"fire_code\": null, \"wfdssunit\": \"COARF\", \"fs_job_code\": \"P2\", \"fs_override\": \"0210\", \"fiscal_comments\": \"P2EKU524 (0210)\", \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-07-05T19:54:00",
+                "name": "CF BRD 579",
+                "type": "Nonstatistical Fire",
+                "uuid": "fe44b48d-d71b-49e8-9a72-c5eaa807b354",
+                "acres": null,
+                "fuels": null,
+                "inc_num": "579",
+                "fire_num": null,
+                "latitude": "40.014393",
+                "location": null,
+                "longitude": "105.495919",
+                "resources": [
+                    null
+                ],
+                "webComment": "Unattended Campfire on FS Rd 226 near Peak-to-Peak Hwy",
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"579\", \"fire_code\": null, \"wfdssunit\": \"COARF\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            }
+        ],
+        "retrieved": "2024-07-18T21:51:59.25957"
+    }
+]

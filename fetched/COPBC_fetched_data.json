@@ -1,0 +1,1570 @@
+[
+    {
+        "data": [
+            {
+                "ic": null,
+                "date": "2024-07-14T12:42:49.173",
+                "name": "Lake Como",
+                "type": "Wildfire",
+                "uuid": "04508e72-dfab-4c35-993b-97199ad02071",
+                "acres": "0.1",
+                "fuels": "Grass, PJ",
+                "inc_num": "1030",
+                "fire_num": null,
+                "latitude": "37.542267",
+                "location": "Alamosa County, Rio Grand RD, Lake Como Rd",
+                "longitude": "105.569517",
+                "resources": [
+                    null
+                ],
+                "webComment": "Smoke Report, 11.5 miles NW of Fort Garland",
+                "fire_status": "{\"out\": null, \"contain\": \"2024-07-14T14:31:00\", \"control\": \"2024-07-14T14:31:00\"}",
+                "fiscal_data": "{\"inc_num\": \"1030\", \"fire_code\": \"R3J9\", \"wfdssunit\": \"COSLD\", \"fs_job_code\": \"PD\", \"fs_override\": \"1522\", \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-06-11T13:44:00",
+                "name": "Interlaken",
+                "type": "Wildfire",
+                "uuid": "06826f24-3ebe-4e52-a5b5-b4d54138040e",
+                "acres": "704",
+                "fuels": "Lodge Pole, Grass",
+                "inc_num": "697",
+                "fire_num": "012",
+                "latitude": "39.069027",
+                "location": "Lake County, Leadville RD, Interlaken Trailhead",
+                "longitude": "106.350600",
+                "resources": [
+                    null
+                ],
+                "webComment": "7 miles SW of Leadville, CO, Size: 704ac.  (PSF- 529ac. RGD- 80ac. LKX- 95ac.) resources on scene",
+                "fire_status": "{\"out\": null, \"contain\": \"2024-06-24T20:00:00\", \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"697\", \"fire_code\": \"R0DP\", \"wfdssunit\": \"COPSF\", \"fs_job_code\": \"P2\", \"fs_override\": \"0212\", \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-01-10T11:57:49.6",
+                "name": "2024 COS ATB SUPPORT",
+                "type": "Resource Order",
+                "uuid": "088b1c30-872c-4300-a834-0d425b943da1",
+                "acres": null,
+                "fuels": null,
+                "inc_num": "31",
+                "fire_num": null,
+                "latitude": "38.813722",
+                "location": "El Paso, Colorado Springs ATB",
+                "longitude": "104.720650",
+                "resources": [
+                    null
+                ],
+                "webComment": null,
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"31\", \"fire_code\": null, \"wfdssunit\": \"COPBC\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": \"WGE5XP (0231)\", \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-07-17T08:18:38.035",
+                "name": "BLM Survey - Cronk Gulch",
+                "type": "Miscellaneous",
+                "uuid": "09daabfc-8547-4a3b-a707-65e9e9cae15f",
+                "acres": null,
+                "fuels": null,
+                "inc_num": "1060",
+                "fire_num": null,
+                "latitude": "38.214600",
+                "location": "Custer County, Royal Gorge RD, Cronk Gulch",
+                "longitude": "105.103221",
+                "resources": [
+                    null
+                ],
+                "webComment": "Resource Tracker",
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"1060\", \"fire_code\": null, \"wfdssunit\": \"CORGD\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-03-19T13:53:03.254",
+                "name": "North Catamount Project",
+                "type": "Miscellaneous",
+                "uuid": "0b03ec21-d1e9-4d52-8d37-eb2056b1eb94",
+                "acres": null,
+                "fuels": null,
+                "inc_num": "248",
+                "fire_num": null,
+                "latitude": "38.928356",
+                "location": null,
+                "longitude": "105.060125",
+                "resources": [
+                    null
+                ],
+                "webComment": null,
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"248\", \"fire_code\": null, \"wfdssunit\": \"COCDFS\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-01-02T13:12:00",
+                "name": "BLM Support 2024",
+                "type": "Resource Order",
+                "uuid": "0d1e5753-bbfb-49b0-ae49-b137a82dbf2a",
+                "acres": null,
+                "fuels": null,
+                "inc_num": "7",
+                "fire_num": null,
+                "latitude": "38.447840",
+                "location": "Fremont County, Rocky Mountain District-BLM",
+                "longitude": "105.217600",
+                "resources": [
+                    null
+                ],
+                "webComment": "Resource Order",
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"7\", \"fire_code\": null, \"wfdssunit\": \"CORMD\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": \"PDH27Y 1522\", \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-07-14T12:25:00",
+                "name": "OK-ANA Hog Creek",
+                "type": "Resource Order",
+                "uuid": "0fa30020-89d9-406e-934d-18c80a4577ce",
+                "acres": null,
+                "fuels": null,
+                "inc_num": "1064",
+                "fire_num": null,
+                "latitude": "35.026667",
+                "location": "Anadarko Agency",
+                "longitude": "98.353611",
+                "resources": [
+                    null
+                ],
+                "webComment": "Resource Order",
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"1064\", \"fire_code\": null, \"wfdssunit\": \"COPBC\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": \"PA R223 (1522)\", \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-01-01T09:00:00",
+                "name": "PBC Support 2024",
+                "type": "Resource Order",
+                "uuid": "1279791a-0d5f-44b0-9de4-a510e057f8c9",
+                "acres": null,
+                "fuels": null,
+                "inc_num": "1",
+                "fire_num": null,
+                "latitude": "38.308550",
+                "location": "Pueblo County, PSICC SO",
+                "longitude": "104.643400",
+                "resources": [
+                    null
+                ],
+                "webComment": "Resource Order - Program Support - Resource",
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"1\", \"fire_code\": null, \"wfdssunit\": \"COPBC\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": \"P2H1JX (0212)\", \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-07-15T13:03:00",
+                "name": "OR-PRD 0404 RV Lone Rock",
+                "type": "Resource Order",
+                "uuid": "13160218-0a70-42b9-99d4-57c09ba49983",
+                "acres": null,
+                "fuels": null,
+                "inc_num": "1067",
+                "fire_num": null,
+                "latitude": "45.171944",
+                "location": "Prineville District Office",
+                "longitude": "119.961389",
+                "resources": [
+                    null
+                ],
+                "webComment": "Resource Order",
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"1067\", \"fire_code\": null, \"wfdssunit\": \"COPBC\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": \"PD R3ET (1522)\", \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-07-17T08:31:41.931",
+                "name": "Forest Health",
+                "type": "Aircraft",
+                "uuid": "154502ad-8b8e-45bd-8203-4b9358dd553c",
+                "acres": null,
+                "fuels": null,
+                "inc_num": "1061",
+                "fire_num": null,
+                "latitude": null,
+                "location": null,
+                "longitude": null,
+                "resources": [
+                    null
+                ],
+                "webComment": null,
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"1061\", \"fire_code\": null, \"wfdssunit\": \"CORGF\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "Popik",
+                "date": "2024-07-16T16:17:32.496",
+                "name": "Holbert",
+                "type": "Wildfire",
+                "uuid": "22c077d4-09da-4081-8418-9adb76428cf1",
+                "acres": "0.1",
+                "fuels": null,
+                "inc_num": "1057",
+                "fire_num": null,
+                "latitude": "38.564800",
+                "location": "Fremont County, Royal Gorge RD, Phantom Canyon",
+                "longitude": "105.064633",
+                "resources": [
+                    null
+                ],
+                "webComment": "12 miles NE of Canon City, CO",
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"1057\", \"fire_code\": \"R3RK\", \"wfdssunit\": \"CORGD\", \"fs_job_code\": \"PD\", \"fs_override\": \"1522\", \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-07-14T14:00:00",
+                "name": "Lake County Forebay Campfire",
+                "type": "Nonstatistical Fire",
+                "uuid": "267a7af2-104f-4852-9e83-c2886f2b4189",
+                "acres": null,
+                "fuels": null,
+                "inc_num": "1044",
+                "fire_num": null,
+                "latitude": "39.100583",
+                "location": "Lake County, Leadville RD, Mt Elbert Forebay",
+                "longitude": "106.359217",
+                "resources": [
+                    null
+                ],
+                "webComment": "Abandoned Campfire",
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"1044\", \"fire_code\": null, \"wfdssunit\": \"COPSF\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-07-14T08:15:51.635",
+                "name": "Red Flag Warning Pueblo NWS",
+                "type": "Miscellaneous",
+                "uuid": "2b00e14c-7e2e-482a-9056-81378520e20f",
+                "acres": null,
+                "fuels": null,
+                "inc_num": "1026",
+                "fire_num": null,
+                "latitude": "38.926498",
+                "location": "220, 221",
+                "longitude": "104.956512",
+                "resources": [
+                    null
+                ],
+                "webComment": "RED FLAG WARNING",
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"1026\", \"fire_code\": null, \"wfdssunit\": \"COPBC\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-06-20T11:59:23.368",
+                "name": "BAER Interlaken",
+                "type": "Emergency Stabilization",
+                "uuid": "304ed4d2-e0b2-42e0-94be-13d7beffa0d9",
+                "acres": null,
+                "fuels": null,
+                "inc_num": "768",
+                "fire_num": null,
+                "latitude": "39.069027",
+                "location": "Lake County, Leadville RD, Interlaken Trailhead",
+                "longitude": "106.350600",
+                "resources": [
+                    null
+                ],
+                "webComment": "7 miles SW of Leadville, CO, Size: 745ac.  (PSF- 563ac. RGD- 80ac. LKX- 102ac.) resources on scene",
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"768\", \"fire_code\": null, \"wfdssunit\": \"COPSF\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": \"H2BAER24 -0231\", \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-07-15T16:11:28.942",
+                "name": "Teller 46 False Alarm",
+                "type": "False Alarm",
+                "uuid": "33e2193e-b744-45b7-9ca2-5ca28f2ec5d3",
+                "acres": null,
+                "fuels": null,
+                "inc_num": "1051",
+                "fire_num": null,
+                "latitude": "38.923359",
+                "location": null,
+                "longitude": "105.325670",
+                "resources": [
+                    null
+                ],
+                "webComment": null,
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"1051\", \"fire_code\": null, \"wfdssunit\": \"COPSF\", \"fs_job_code\": \"P2\", \"fs_override\": \"0212\", \"fiscal_comments\": null, \"state_fiscal_code\": \"\"}"
+            },
+            {
+                "ic": null,
+                "date": "2024-01-19T10:04:24.054",
+                "name": "2024 PSICC RX Support",
+                "type": "Resource Order",
+                "uuid": "34fc8517-3293-4c02-a2d1-9d031f48a062",
+                "acres": null,
+                "fuels": null,
+                "inc_num": "84",
+                "fire_num": null,
+                "latitude": "38.308434",
+                "location": "PSICC Districts",
+                "longitude": "104.643580",
+                "resources": [
+                    null
+                ],
+                "webComment": "Resource Order",
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"84\", \"fire_code\": null, \"wfdssunit\": \"COPSF\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": \"WFSE1624_0216, WISX3624_0216; all ADs: IRHF3622 (0212) \", \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-07-16T20:40:21.142",
+                "name": "High Valley Seed",
+                "type": "Debris Fire",
+                "uuid": "4035d2c2-e65d-431d-b7fc-1de80936cf44",
+                "acres": null,
+                "fuels": null,
+                "inc_num": "1058",
+                "fire_num": null,
+                "latitude": "37.143503",
+                "location": "Conejos County, Antonito, CO ",
+                "longitude": "106.001211",
+                "resources": [
+                    null
+                ],
+                "webComment": "1.5 miles S of Romeo, CO",
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"1058\", \"fire_code\": null, \"wfdssunit\": \"COCTX\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-01-22T11:03:00",
+                "name": "Harris Park Piles RX",
+                "type": "Prescribed Fire",
+                "uuid": "432ae395-79fc-4037-82cb-bd3ba72d4475",
+                "acres": "80",
+                "fuels": null,
+                "inc_num": "88",
+                "fire_num": null,
+                "latitude": "39.526086",
+                "location": "Park Co, South Platte RD, Harris Park",
+                "longitude": "105.511078",
+                "resources": [
+                    null
+                ],
+                "webComment": "1 Mile North of Harris Park. 1/22/24 50 piles, 2 acres 2/2 300 piles 27ac, 2/4 50 piles 2 ac. 02/06: 600 piles, 24 acres. 02/07 250 Piles 10 ac 02/09 265 piles 15 ac",
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"88\", \"fire_code\": null, \"wfdssunit\": \"COPSF\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-07-18T08:44:37.311",
+                "name": "Radio Tech Stanley",
+                "type": "Miscellaneous",
+                "uuid": "4549d9fd-1d65-4831-b1d9-7f1733bccf1a",
+                "acres": null,
+                "fuels": null,
+                "inc_num": "1077",
+                "fire_num": null,
+                "latitude": "38.988250",
+                "location": "El Paso Co, Pikes Peak RD, Stanley",
+                "longitude": "104.914200",
+                "resources": [
+                    null
+                ],
+                "webComment": "Resource Tracker",
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"1077\", \"fire_code\": null, \"wfdssunit\": \"COPSF\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "Cecil Shannon",
+                "date": "2024-07-17T15:20:30.429",
+                "name": "Loafeo",
+                "type": "Wildfire",
+                "uuid": "46ae5e08-3ecc-4f9f-b142-12d1374ed3ea",
+                "acres": "18",
+                "fuels": "Pinion/Juniper",
+                "inc_num": "1073",
+                "fire_num": null,
+                "latitude": "37.151190",
+                "location": "Las Animas Co, CR 202",
+                "longitude": "103.336330",
+                "resources": [
+                    "DFPC-E4341",
+                    "TAVA MOD",
+                    "STEEL CITY"
+                ],
+                "webComment": "5 Miles S of Kim, CO / Resources on scene / 18 ac / lightening. 95% contained.",
+                "fire_status": "{\"out\": null, \"contain\": \"2024-07-18T15:00:00\", \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"1073\", \"fire_code\": \"R3TZ\", \"wfdssunit\": \"COLSX\", \"fs_job_code\": null, \"fs_override\": \"1522\", \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-01-09T09:32:08.087",
+                "name": "2024 PBC DFPC SEAT Support",
+                "type": "Resource Order",
+                "uuid": "530045b2-658b-4b63-9e77-292f9b706d55",
+                "acres": null,
+                "fuels": null,
+                "inc_num": "24",
+                "fire_num": null,
+                "latitude": "38.280597",
+                "location": "Pueblo County, Pueblo Memorial Airport",
+                "longitude": "104.496632",
+                "resources": [
+                    null
+                ],
+                "webComment": "Resource Order",
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"24\", \"fire_code\": \"\", \"wfdssunit\": \"COCDFS\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": \"PNQT79 1522\", \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-07-14T19:47:28.03",
+                "name": "WOLF CREEK",
+                "type": "Wildfire",
+                "uuid": "61cddfaf-28da-4db5-8677-85081c526ebd",
+                "acres": "0.25",
+                "fuels": "",
+                "inc_num": "1047",
+                "fire_num": "",
+                "latitude": "37.477367",
+                "location": "Mineral County, Rio Grande RD, Alberta Park",
+                "longitude": "106.765800",
+                "resources": [
+                    null
+                ],
+                "webComment": "19.3miles NE of Pagosa Springs, Size: 0.25ac. Lightning Caused",
+                "fire_status": "{\"out\": null, \"contain\": \"2024-07-16T12:20:00\", \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"1047\", \"fire_code\": null, \"wfdssunit\": \"CORGF\", \"fs_job_code\": \"P2\", \"fs_override\": \"0209\", \"fiscal_comments\": \"\", \"state_fiscal_code\": \"\"}"
+            },
+            {
+                "ic": null,
+                "date": "2024-07-16T14:28:00",
+                "name": "WA-COF 2024 COF Severity",
+                "type": "Resource Order",
+                "uuid": "629ec4d7-effc-491e-80f6-b175002dd8f8",
+                "acres": null,
+                "fuels": null,
+                "inc_num": "1079",
+                "fire_num": null,
+                "latitude": "48.648394",
+                "location": "Republic, WA",
+                "longitude": "118.743107",
+                "resources": [
+                    null
+                ],
+                "webComment": "Resource Order",
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"1079\", \"fire_code\": null, \"wfdssunit\": \"COPBC\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-07-17T16:17:21.897",
+                "name": "Scraggy Peak False Alarm",
+                "type": "False Alarm",
+                "uuid": "65ee9a34-17c6-40f1-9fd7-67dbe14f23f3",
+                "acres": null,
+                "fuels": null,
+                "inc_num": "1074",
+                "fire_num": null,
+                "latitude": "39.319524",
+                "location": "DOUGLAS, BUFFALO CREEK, SCRAGGY PEAK",
+                "longitude": "105.188460",
+                "resources": [
+                    null
+                ],
+                "webComment": "SMOKE REPORT",
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"1074\", \"fire_code\": null, \"wfdssunit\": \"COPSF\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-07-15T16:04:49.341",
+                "name": "SEVERE T-STORM WARNING Pueblo NWS",
+                "type": "Miscellaneous",
+                "uuid": "6a61fd8f-e8c7-45c5-8845-5bf9bfaeba0d",
+                "acres": null,
+                "fuels": null,
+                "inc_num": "1050",
+                "fire_num": null,
+                "latitude": "38.231169",
+                "location": "228, 231, 232",
+                "longitude": "104.106445",
+                "resources": [
+                    null
+                ],
+                "webComment": "SEVERE T STORM WARNING",
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"1050\", \"fire_code\": null, \"wfdssunit\": \"COPBC\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-05-30T09:21:54.831",
+                "name": "Laughlin Gulch RX",
+                "type": "Prescribed Fire",
+                "uuid": "6bc6c235-d1cf-452e-8d7c-60eea016b059",
+                "acres": "234",
+                "fuels": "Timber",
+                "inc_num": "607",
+                "fire_num": null,
+                "latitude": "38.090219",
+                "location": "Saguache County, Saguache RD, Laughlin Gulch",
+                "longitude": "106.308928",
+                "resources": [
+                    null
+                ],
+                "webComment": "9 miles West of Saguache CO; 5/31: 117 acres, 6/1: 117 ac",
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"607\", \"fire_code\": null, \"wfdssunit\": \"CORGF\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "TATE",
+                "date": "2024-07-17T11:03:46.85",
+                "name": "RUSSELL",
+                "type": "Wildfire",
+                "uuid": "6c70d146-cf14-4bd6-8a9b-754b1ef0994e",
+                "acres": "0.1",
+                "fuels": "CAMPFIRE",
+                "inc_num": "1062",
+                "fire_num": "028",
+                "latitude": "39.410511",
+                "location": "DOUGLAS, BUFFALO CREEK, CO TRAIL, WATERTON CANYON",
+                "longitude": "105.147269",
+                "resources": [
+                    null
+                ],
+                "webComment": "ABANDONED CAMPFIRE",
+                "fire_status": "{\"out\": \"2024-07-17T14:39:00\", \"contain\": \"2024-07-17T14:36:00\", \"control\": \"2024-07-17T14:38:00\"}",
+                "fiscal_data": "{\"inc_num\": \"1062\", \"fire_code\": \"R3TK\", \"wfdssunit\": \"COPSF\", \"fs_job_code\": \"P2\", \"fs_override\": \"0212\", \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "Josh Jorden",
+                "date": "2024-06-10T13:12:07.204",
+                "name": "Bighorn Stateline RX",
+                "type": "Prescribed Fire",
+                "uuid": "6f122969-4033-46a8-b71d-688e8a9127c6",
+                "acres": null,
+                "fuels": "GR1, TL8, TL3",
+                "inc_num": "683",
+                "fire_num": null,
+                "latitude": "37.001119",
+                "location": "Conejos County, Conejos Peak RD, Bighorn-stateline",
+                "longitude": "106.192023",
+                "resources": [
+                    null
+                ],
+                "webComment": "11.3 Miles SW of Antonito CO",
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"683\", \"fire_code\": null, \"wfdssunit\": \"CORGF\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": \"WFSE1624 (0216)\", \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-07-15T13:21:00",
+                "name": "MT-LNF Miller Peak",
+                "type": "Resource Order",
+                "uuid": "75e33033-e8a0-4532-9f0b-301019e446e6",
+                "acres": null,
+                "fuels": null,
+                "inc_num": "1068",
+                "fire_num": null,
+                "latitude": "46.732778",
+                "location": "Lolo National Forest",
+                "longitude": "113.866389",
+                "resources": [
+                    null
+                ],
+                "webComment": "Resource Order",
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"1068\", \"fire_code\": null, \"wfdssunit\": \"COPBC\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": \"P1 R3H4 (0116)\", \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-07-16T08:35:21.975",
+                "name": "RT - RADIO TECH 12 MILE",
+                "type": "Miscellaneous",
+                "uuid": "770b4513-fae0-40b3-84db-9f6acae901ac",
+                "acres": null,
+                "fuels": null,
+                "inc_num": "1054",
+                "fire_num": null,
+                "latitude": "38.016477",
+                "location": "PUEBLO, CANON CITY, 12 MILE REPEATER",
+                "longitude": "104.997110",
+                "resources": [
+                    null
+                ],
+                "webComment": "RESOURCE TRACKER",
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"1054\", \"fire_code\": null, \"wfdssunit\": \"COPSF\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-05-29T11:43:12.493",
+                "name": "Road Gulch RX",
+                "type": "Prescribed Fire",
+                "uuid": "79519be9-6080-4d84-9f77-ae0f9b411836",
+                "acres": null,
+                "fuels": null,
+                "inc_num": "602",
+                "fire_num": null,
+                "latitude": "38.893611",
+                "location": "Park County, South Park RD, Road Gulchh",
+                "longitude": "105.420278",
+                "resources": [
+                    null
+                ],
+                "webComment": "6 miles SSW of Lake George",
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"602\", \"fire_code\": null, \"wfdssunit\": \"COPSF\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-07-13T21:55:00",
+                "name": "CRP/CR3 False Alarm",
+                "type": "False Alarm",
+                "uuid": "8305d2e7-7aa5-4c56-8348-7ca627a0fdd5",
+                "acres": null,
+                "fuels": null,
+                "inc_num": "1024",
+                "fire_num": null,
+                "latitude": "37.185190",
+                "location": "Morton County, KS",
+                "longitude": "102.008454",
+                "resources": [
+                    null
+                ],
+                "webComment": "Smoke Check",
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"1024\", \"fire_code\": null, \"wfdssunit\": \"COBAX\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-07-17T14:52:00",
+                "name": "UT-FIF BAER Silver King",
+                "type": "Resource Order",
+                "uuid": "8841e8aa-50d9-41b5-adbc-a699b8268c9a",
+                "acres": null,
+                "fuels": null,
+                "inc_num": "1083",
+                "fire_num": null,
+                "latitude": "38.483500",
+                "location": "Piute County, UT",
+                "longitude": "112.371000",
+                "resources": [
+                    null
+                ],
+                "webComment": "Resource Order",
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"1083\", \"fire_code\": null, \"wfdssunit\": \"COPBC\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-01-09T09:32:00",
+                "name": "2024 PBC CO DFPC Support",
+                "type": "Resource Order",
+                "uuid": "8f3fc8bd-665a-4e60-93b2-37cf993aad02",
+                "acres": null,
+                "fuels": null,
+                "inc_num": "23",
+                "fire_num": null,
+                "latitude": "38.308434",
+                "location": "Pueblo County, Pueblo SO",
+                "longitude": "104.643580",
+                "resources": [
+                    null
+                ],
+                "webComment": "Resource Order",
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"23\", \"fire_code\": null, \"wfdssunit\": \"COCDFS\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": \"PNQT8A 1522\", \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-07-15T13:50:00",
+                "name": "OR-WIF 2024 WIF Severity",
+                "type": "Resource Order",
+                "uuid": "910fe297-4689-4749-90ef-dbdd6fcb8bd8",
+                "acres": null,
+                "fuels": null,
+                "inc_num": "1070",
+                "fire_num": null,
+                "latitude": "44.065556",
+                "location": "Willamette National Forest",
+                "longitude": "122.979722",
+                "resources": [
+                    null
+                ],
+                "webComment": "Resource Order",
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"1070\", \"fire_code\": null, \"wfdssunit\": \"COPBC\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": \"S6111124 0618\", \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-07-16T14:35:12.902",
+                "name": "SEVERE T-STORM WARNING PUEBLO NWS",
+                "type": "Miscellaneous",
+                "uuid": "922714f9-0939-4e6d-8cf2-3b43001d00d7",
+                "acres": null,
+                "fuels": null,
+                "inc_num": "1056",
+                "fire_num": null,
+                "latitude": "38.481007",
+                "location": "227, 228",
+                "longitude": "104.749146",
+                "resources": [
+                    null
+                ],
+                "webComment": "SEVERE T-STORM WARNING",
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"1056\", \"fire_code\": null, \"wfdssunit\": \"COPSF\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-01-02T12:50:45.122",
+                "name": "RGF Support 2024",
+                "type": "Resource Order",
+                "uuid": "98c828e7-0dac-4dd2-9882-73e51b887739",
+                "acres": null,
+                "fuels": null,
+                "inc_num": "5",
+                "fire_num": null,
+                "latitude": "37.678900",
+                "location": "Del Norte County, RGF SO",
+                "longitude": "106.352600",
+                "resources": [
+                    null
+                ],
+                "webComment": "Resource Order",
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"5\", \"fire_code\": null, \"wfdssunit\": \"CORGF\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": \"P2EK4N (0209)\", \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-07-17T13:27:20.826",
+                "name": "USFS 550 CAMPSITE 34 CAMPFIRE",
+                "type": "Nonstatistical Fire",
+                "uuid": "9e593ca1-ae32-4470-9b69-f681b8b40351",
+                "acres": null,
+                "fuels": null,
+                "inc_num": "1069",
+                "fire_num": null,
+                "latitude": "39.342278",
+                "location": null,
+                "longitude": "105.322750",
+                "resources": [
+                    null
+                ],
+                "webComment": "ABANDONDED CAMPFIRE",
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"1069\", \"fire_code\": null, \"wfdssunit\": \"COPSF\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-05-23T15:14:36.428",
+                "name": "Monument Fire Center RX",
+                "type": "Prescribed Fire",
+                "uuid": "a0582e99-8bb9-4258-b80b-2852b183f199",
+                "acres": "646",
+                "fuels": "",
+                "inc_num": "556",
+                "fire_num": null,
+                "latitude": "39.084697",
+                "location": "El Paso County, Pikes Peak RD, Monument Fire Center",
+                "longitude": "104.884950",
+                "resources": [
+                    null
+                ],
+                "webComment": "1 Mile SW of Monument. 6/12: 309 acres, 6/13; 337 acres, Total 646 acres",
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"556\", \"fire_code\": \"\", \"wfdssunit\": \"COPSF\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": \"\", \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-07-14T13:13:00",
+                "name": "Park County CR39 Campfire",
+                "type": "Nonstatistical Fire",
+                "uuid": "a28037d0-d3bd-484d-a562-4508046bb8e7",
+                "acres": null,
+                "fuels": null,
+                "inc_num": "1039",
+                "fire_num": null,
+                "latitude": null,
+                "location": "Park County, South Park RD, Mud Gulch",
+                "longitude": null,
+                "resources": [
+                    null
+                ],
+                "webComment": "Abandoned Campfire",
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"1039\", \"fire_code\": null, \"wfdssunit\": \"COPSF\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-07-16T14:30:00",
+                "name": "CO-GJD 2024 UCR Short Term Severity",
+                "type": "Resource Order",
+                "uuid": "a7465615-3951-441d-afaa-7e19af61b578",
+                "acres": null,
+                "fuels": null,
+                "inc_num": "1080",
+                "fire_num": null,
+                "latitude": "39.086037",
+                "location": "Grand Junction CO",
+                "longitude": "108.575821",
+                "resources": [
+                    null
+                ],
+                "webComment": "Resource Order",
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"1080\", \"fire_code\": null, \"wfdssunit\": \"COPBC\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-07-16T07:04:57.675",
+                "name": "La Junta Safety",
+                "type": "Miscellaneous",
+                "uuid": "a89159df-38a2-425d-a4ef-e32f255c8c2e",
+                "acres": null,
+                "fuels": null,
+                "inc_num": "1053",
+                "fire_num": null,
+                "latitude": "37.985526",
+                "location": "Otero County, Comanche RD, La Junta",
+                "longitude": "103.520908",
+                "resources": [
+                    null
+                ],
+                "webComment": "Resource Trackerr",
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"1053\", \"fire_code\": null, \"wfdssunit\": \"COPSF\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-07-14T10:46:52.732",
+                "name": "Spring Canyon",
+                "type": "Wildfire",
+                "uuid": "af059aec-2ecf-45c8-9150-2cd216f8c68a",
+                "acres": "725",
+                "fuels": "Grass, PJ, Shrub",
+                "inc_num": "1029",
+                "fire_num": null,
+                "latitude": "37.101912",
+                "location": "Baca County",
+                "longitude": "102.096887",
+                "resources": [
+                    null
+                ],
+                "webComment": "12.5 miles NW of Elkhart, KS",
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"1029\", \"fire_code\": \"R3GP\", \"wfdssunit\": \"COBAX\", \"fs_job_code\": \"PN\", \"fs_override\": \"1522\", \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-07-15T14:38:00",
+                "name": "CO-GRD Jones",
+                "type": "Resource Order",
+                "uuid": "b67bc46f-31ea-4021-a5e3-e53f26d82948",
+                "acres": null,
+                "fuels": null,
+                "inc_num": "1081",
+                "fire_num": null,
+                "latitude": "39.069333",
+                "location": "Mesa County, CO",
+                "longitude": "109.041000",
+                "resources": [
+                    null
+                ],
+                "webComment": "Resource Order",
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"1081\", \"fire_code\": null, \"wfdssunit\": \"COPBC\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-07-13T07:55:31.098",
+                "name": "BAER Oak Ridge",
+                "type": "Emergency Stabilization",
+                "uuid": "b84f58ea-051b-4537-9040-393f594d67da",
+                "acres": null,
+                "fuels": null,
+                "inc_num": "1015",
+                "fire_num": null,
+                "latitude": "38.089400",
+                "location": "Pueblo County, San Carlos RD, Oak Ridge",
+                "longitude": "105.038700",
+                "resources": [
+                    null
+                ],
+                "webComment": "3 miles NW of Beulah CO; Size:1310 ac (PSF- 1207 ac., PUX- 103 ac.)",
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"1015\", \"fire_code\": null, \"wfdssunit\": \"COPSF\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": \" H2BAER24 (0231)\", \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-07-14T12:02:00",
+                "name": "WY-HPD Oregon Trail",
+                "type": "Resource Order",
+                "uuid": "b8bb91ca-1e28-4acc-a543-21599237e937",
+                "acres": null,
+                "fuels": null,
+                "inc_num": "1063",
+                "fire_num": null,
+                "latitude": "42.665556",
+                "location": "High Plains District Offce",
+                "longitude": "106.784444",
+                "resources": [
+                    null
+                ],
+                "webComment": "Resource Order",
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"1063\", \"fire_code\": null, \"wfdssunit\": \"COPBC\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": \"PD R3FA (1522)\", \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-07-17T19:32:52.018",
+                "name": "Hwy 24 MM 292 False Alarm",
+                "type": "False Alarm",
+                "uuid": "be83dcef-20aa-4ccb-82e4-608f96042494",
+                "acres": null,
+                "fuels": null,
+                "inc_num": "1075",
+                "fire_num": null,
+                "latitude": "38.916672",
+                "location": "El Paso Co, Pikes Peak RD, Hwy 24 MM292",
+                "longitude": "104.982497",
+                "resources": [
+                    null
+                ],
+                "webComment": "1.5 Miles NW of Cascade",
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"1075\", \"fire_code\": null, \"wfdssunit\": \"COEPX\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-07-14T12:47:00",
+                "name": "MT-SWS 2024 SWLO Prepo",
+                "type": "Resource Order",
+                "uuid": "c0c9060d-81a9-4a66-b597-68f24c42069e",
+                "acres": null,
+                "fuels": null,
+                "inc_num": "1065",
+                "fire_num": null,
+                "latitude": "46.856667",
+                "location": "Southwestern Land Office",
+                "longitude": "114.058333",
+                "resources": [
+                    null
+                ],
+                "webComment": "Resource Order",
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"1065\", \"fire_code\": null, \"wfdssunit\": \"COPBC\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": \"PNQTQ6 (1522)\", \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-07-14T08:26:05.619",
+                "name": "RED FLAG WARNING DENVER/BOULDER NWS",
+                "type": "Miscellaneous",
+                "uuid": "c283ae30-443e-4d1b-bef3-bfe6e08c4d04",
+                "acres": null,
+                "fuels": null,
+                "inc_num": "1027",
+                "fire_num": null,
+                "latitude": "39.413585",
+                "location": "212, 214, 216",
+                "longitude": "105.761948",
+                "resources": [
+                    null
+                ],
+                "webComment": "RED FLAG WARNING",
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"1027\", \"fire_code\": null, \"wfdssunit\": \"COPBC\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "Peter Wolf (ICT3)  719-314-9119",
+                "date": "2024-07-15T11:22:00",
+                "name": "Crowder Ranch",
+                "type": "Wildfire",
+                "uuid": "c2bec1a0-a473-4c45-a00f-49e4379bad5e",
+                "acres": "494",
+                "fuels": "Grass, PJ",
+                "inc_num": "1049",
+                "fire_num": null,
+                "latitude": "37.375100",
+                "location": "Las Animas County, DOD, Purgatorie Canyon",
+                "longitude": "103.884400",
+                "resources": [
+                    null
+                ],
+                "webComment": "30 miles NW of Kim, CO. Size: 494ac. Lightning caused",
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"1049\", \"fire_code\": \"R3LA\", \"wfdssunit\": \"COFCQ\", \"fs_job_code\": \"PF\", \"fs_override\": \"1522\", \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-07-14T10:21:16.524",
+                "name": "Rec 2-6 Jones Peak",
+                "type": "Miscellaneous",
+                "uuid": "c7305c0c-4e29-4fa0-b4c5-a9082073e13a",
+                "acres": null,
+                "fuels": null,
+                "inc_num": "1028",
+                "fire_num": null,
+                "latitude": "38.630900",
+                "location": "Chaffee County, Salida RD, Jones Peak",
+                "longitude": "106.229000",
+                "resources": [
+                    null
+                ],
+                "webComment": "Resource Tracker",
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"1028\", \"fire_code\": null, \"wfdssunit\": \"COPSF\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-07-14T17:10:40.236",
+                "name": "Mt. Elbert Forebay Campfire",
+                "type": "Nonstatistical Fire",
+                "uuid": "c8f29b8b-98b4-4817-9470-d34669f611f5",
+                "acres": null,
+                "fuels": null,
+                "inc_num": "1045",
+                "fire_num": null,
+                "latitude": "39.112472",
+                "location": "Lake County, Leadville RD, Mt Elbert Forebay",
+                "longitude": "106.357944",
+                "resources": [
+                    null
+                ],
+                "webComment": "Abandoned campfire",
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"1045\", \"fire_code\": null, \"wfdssunit\": \"COPSF\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-07-14T16:19:00",
+                "name": "FS376A Four Mile Campfire",
+                "type": "Nonstatistical Fire",
+                "uuid": "c95c672d-cb5a-45a3-937a-610ba42626e8",
+                "acres": null,
+                "fuels": null,
+                "inc_num": "1055",
+                "fire_num": null,
+                "latitude": "38.845533",
+                "location": "Chaffee County, Salida RD, Shields Gulch",
+                "longitude": "106.055450",
+                "resources": [
+                    null
+                ],
+                "webComment": "Abandoned Campfire",
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"1055\", \"fire_code\": null, \"wfdssunit\": \"COPSF\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-07-07T18:00:32.484",
+                "name": "Davis Meadow",
+                "type": "Wildfire",
+                "uuid": "cab8adf8-f702-46ec-8a24-66fb22ebde89",
+                "acres": "0.1",
+                "fuels": "Conifer, Lodgepole",
+                "inc_num": "916",
+                "fire_num": "023",
+                "latitude": "38.921633",
+                "location": "Chaffee County, Salida RD , Sevenmile Creek",
+                "longitude": "106.089750",
+                "resources": [
+                    null
+                ],
+                "webComment": "6 miles SW of Buena Vista, CO Size; 0.10 Cause Lightning",
+                "fire_status": "{\"out\": null, \"contain\": \"2024-07-08T16:00:00\", \"control\": \"2024-07-11T14:00:00\"}",
+                "fiscal_data": "{\"inc_num\": \"916\", \"fire_code\": null, \"wfdssunit\": \"COPSF\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": \"P2EKU6 0212\", \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-07-01T10:27:08.289",
+                "name": "Unit D Pile RX",
+                "type": "Prescribed Fire",
+                "uuid": "cef69f03-a917-46e2-94d6-8d6197065790",
+                "acres": "100",
+                "fuels": null,
+                "inc_num": "825",
+                "fire_num": null,
+                "latitude": "37.437865",
+                "location": "Alamosa County, Alamosa NWR",
+                "longitude": "105.807566",
+                "resources": [
+                    null
+                ],
+                "webComment": "Alamosa, CO RX Pile Burn 7/1 1 pile 100ac",
+                "fire_status": "{\"out\": \"2024-07-02T15:13:00\", \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"825\", \"fire_code\": null, \"wfdssunit\": \"COALR\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-07-13T11:10:00",
+                "name": "Quail Hollow",
+                "type": "Wildfire",
+                "uuid": "d255c2e0-55f1-49af-8db6-6c927be4b53b",
+                "acres": "1152",
+                "fuels": "Grass, Timber",
+                "inc_num": "1016",
+                "fire_num": "",
+                "latitude": "39.658620",
+                "location": "Arapahoe CO, Quail Hollow RD",
+                "longitude": "104.191390",
+                "resources": [
+                    null
+                ],
+                "webComment": "4 Miles SSE of Byers. Size: 1152 ac. ",
+                "fire_status": "{\"out\": null, \"contain\": \"2024-07-13T16:00:00\", \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"1016\", \"fire_code\": \"R3B7\", \"wfdssunit\": \"COAPX\", \"fs_job_code\": \"PN\", \"fs_override\": \"1522\", \"fiscal_comments\": null, \"state_fiscal_code\": \"\"}"
+            },
+            {
+                "ic": null,
+                "date": "2024-07-14T15:07:52.93",
+                "name": "Midland campfire",
+                "type": "Nonstatistical Fire",
+                "uuid": "d554de1f-bbe1-426b-810a-a09c035b8ad7",
+                "acres": null,
+                "fuels": null,
+                "inc_num": "1031",
+                "fire_num": null,
+                "latitude": "38.842833",
+                "location": "",
+                "longitude": "106.058383",
+                "resources": [
+                    null
+                ],
+                "webComment": "2 miles W of Buena Vista, CO. Unattended CF ",
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"1031\", \"fire_code\": null, \"wfdssunit\": \"COPSF\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-07-15T12:20:00",
+                "name": "Route 10",
+                "type": "Wildfire",
+                "uuid": "d57f8520-8f7a-4b4a-9a81-220955c483ec",
+                "acres": "8.56",
+                "fuels": "grass",
+                "inc_num": "1052",
+                "fire_num": null,
+                "latitude": "38.497200",
+                "location": "Pueblo County, Fort Carson",
+                "longitude": "104.818400",
+                "resources": [
+                    null
+                ],
+                "webComment": "13 miles SW of Fountain, CO Size: 8.56 ac Human Caused ",
+                "fire_status": "{\"out\": null, \"contain\": \"2024-07-15T13:30:00\", \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"1052\", \"fire_code\": \"R3MZ\", \"wfdssunit\": \"COFCQ\", \"fs_job_code\": null, \"fs_override\": \"1522\", \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-07-17T15:06:00",
+                "name": "MT-R01  2024 NRGA Fire Support",
+                "type": "Resource Order",
+                "uuid": "d8e68216-ba0d-490a-9c5a-78faa34c659b",
+                "acres": null,
+                "fuels": null,
+                "inc_num": "1072",
+                "fire_num": null,
+                "latitude": "46.923333",
+                "location": "Missoula County, MT",
+                "longitude": "114.090500",
+                "resources": [
+                    null
+                ],
+                "webComment": "Resource Order",
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"1072\", \"fire_code\": null, \"wfdssunit\": \"COPBC\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": \"P1QS9Y (0156)\", \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-01-02T12:45:00",
+                "name": "PSICC NF ABCD MISC 2024",
+                "type": "Resource Order",
+                "uuid": "dadde6eb-c8cb-4c9e-8acf-d44dae17340f",
+                "acres": null,
+                "fuels": null,
+                "inc_num": "4",
+                "fire_num": null,
+                "latitude": "38.308424",
+                "location": "Pueblo County, PSICC SO",
+                "longitude": "104.643728",
+                "resources": [
+                    null
+                ],
+                "webComment": "Resource Order - Program Support - Resource",
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"4\", \"fire_code\": null, \"wfdssunit\": \"COPSF\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": \"P2EKU6 (0212)\", \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-07-15T14:24:00",
+                "name": "SD-SDS Crew Overhead Support",
+                "type": "Resource Order",
+                "uuid": "db7c189d-bba5-4993-a630-e3f98760259e",
+                "acres": null,
+                "fuels": null,
+                "inc_num": "1078",
+                "fire_num": null,
+                "latitude": "44.074667",
+                "location": "Pennington County, SD",
+                "longitude": "103.271500",
+                "resources": [
+                    null
+                ],
+                "webComment": "Resource Order",
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"1078\", \"fire_code\": null, \"wfdssunit\": \"COPBC\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-07-15T13:58:00",
+                "name": "MT-BDF 2024 MT-BDF Large Fire Support",
+                "type": "Resource Order",
+                "uuid": "dde41bbc-8bf2-46cc-8f75-abddbeb4baee",
+                "acres": null,
+                "fuels": null,
+                "inc_num": "1071",
+                "fire_num": null,
+                "latitude": "45.205556",
+                "location": "Beaverhead-Deerlodge National Forest",
+                "longitude": "112.642500",
+                "resources": [
+                    null
+                ],
+                "webComment": "Resource Order",
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"1071\", \"fire_code\": null, \"wfdssunit\": \"COPBC\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": \"P1 EK3V (0102 \", \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-07-17T07:41:33.513",
+                "name": "UT-ASF Speirs",
+                "type": "Resource Order",
+                "uuid": "de76932d-870c-4fd0-9172-e1acbab5673d",
+                "acres": null,
+                "fuels": null,
+                "inc_num": "1059",
+                "fire_num": null,
+                "latitude": "40.877778",
+                "location": "Ashley National Forest",
+                "longitude": "109.436667",
+                "resources": [
+                    null
+                ],
+                "webComment": "Resource Order",
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"1059\", \"fire_code\": null, \"wfdssunit\": \"COPBC\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-07-01T12:18:12.682",
+                "name": "Unit 13 Pile RX",
+                "type": "Prescribed Fire",
+                "uuid": "e48627a2-d0e3-47fc-9332-40637fab47b2",
+                "acres": "115",
+                "fuels": null,
+                "inc_num": "826",
+                "fire_num": null,
+                "latitude": "37.489360",
+                "location": "Rio Grande County, Rio Grande RD, Monte Vista Natl Wildlife Refuge",
+                "longitude": "106.093010",
+                "resources": [
+                    null
+                ],
+                "webComment": "Monte Vista, CO RX Pile Burn 7/1 1 pile 115ac",
+                "fire_status": "{\"out\": \"2024-07-02T15:13:00\", \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"826\", \"fire_code\": null, \"wfdssunit\": \"COMVR\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-07-09T09:55:37.317",
+                "name": "BIG Dry Gulch Cutting Project",
+                "type": "Miscellaneous",
+                "uuid": "e6a15793-e87a-4579-9c33-63a7c015ecd5",
+                "acres": null,
+                "fuels": null,
+                "inc_num": "927",
+                "fire_num": null,
+                "latitude": "38.147577",
+                "location": "Saguache County, Saguache RD, Big Dry Gulch",
+                "longitude": "106.417744",
+                "resources": [
+                    null
+                ],
+                "webComment": "Cutting Project",
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"927\", \"fire_code\": null, \"wfdssunit\": \"CORGF\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-07-18T08:38:29.829",
+                "name": "Surv 12-6/12-7 Hwy 96",
+                "type": "Miscellaneous",
+                "uuid": "e6bfc1a6-daea-4261-acec-84b62ede0955",
+                "acres": null,
+                "fuels": null,
+                "inc_num": "1076",
+                "fire_num": null,
+                "latitude": "38.178065",
+                "location": "Custer Co, San Carlos RD, Hwy 96",
+                "longitude": "105.147854",
+                "resources": [
+                    null
+                ],
+                "webComment": "Resource Tracker",
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"1076\", \"fire_code\": null, \"wfdssunit\": \"CORGD\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "Doug Falconi 719-641-6334",
+                "date": "2024-06-22T08:59:15.493",
+                "name": "Oak Ridge",
+                "type": "Wildfire",
+                "uuid": "e8097dfc-985b-43c9-8259-68bca4e76e93",
+                "acres": "1310",
+                "fuels": "Conifer Mix",
+                "inc_num": "779",
+                "fire_num": "017",
+                "latitude": "38.089400",
+                "location": "Pueblo County, San Carlos RD, Oak Ridge",
+                "longitude": "105.038700",
+                "resources": [
+                    "MOD 3-1",
+                    "H-73BH"
+                ],
+                "webComment": "3 miles NW of Beulah CO; Size:1310 ac (PSF- 1207 ac., PUX- 103 ac.) 89% Contained",
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"779\", \"fire_code\": \"R1D2\", \"wfdssunit\": \"COPSF\", \"fs_job_code\": \"P2\", \"fs_override\": \"0212\", \"fiscal_comments\": \"\", \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-07-17T14:46:00",
+                "name": "OR-FWF 2024 ABC Misc",
+                "type": "Resource Order",
+                "uuid": "e9e9c1bf-8075-4388-9bf1-23bdc3ea6a8a",
+                "acres": null,
+                "fuels": null,
+                "inc_num": "1082",
+                "fire_num": null,
+                "latitude": "42.169500",
+                "location": "Lake County, OR",
+                "longitude": "120.353667",
+                "resources": [
+                    null
+                ],
+                "webComment": "Resource Order",
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"1082\", \"fire_code\": null, \"wfdssunit\": \"COPBC\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-07-06T15:48:29.741",
+                "name": "Lost Canyon",
+                "type": "Wildfire",
+                "uuid": "ef958dd6-6cb7-4cb0-b3c9-50bd94c8a549",
+                "acres": "239",
+                "fuels": "Grass, Brush",
+                "inc_num": "907",
+                "fire_num": null,
+                "latitude": "37.466400",
+                "location": "Las Animas County.",
+                "longitude": "103.734700",
+                "resources": [
+                    null
+                ],
+                "webComment": "26 mi. NW of Kim, CO. Size: 239, Lightning Caused.",
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"907\", \"fire_code\": \"R2V8\", \"wfdssunit\": \"COLSX\", \"fs_job_code\": \"PN\", \"fs_override\": \"1522\", \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-07-13T22:06:11.452",
+                "name": "CR1/CRC False Alarm",
+                "type": "False Alarm",
+                "uuid": "f08985e9-d535-4b7a-af78-df4ffac816e7",
+                "acres": null,
+                "fuels": null,
+                "inc_num": "1025",
+                "fire_num": null,
+                "latitude": "37.024964",
+                "location": null,
+                "longitude": "102.041102",
+                "resources": [
+                    null
+                ],
+                "webComment": "Smoke Check",
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"1025\", \"fire_code\": null, \"wfdssunit\": \"COBAX\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-07-14T12:58:00",
+                "name": "AZ-TNF Black",
+                "type": "Resource Order",
+                "uuid": "f0ba2b30-0a81-4600-b177-b551290b25bc",
+                "acres": null,
+                "fuels": null,
+                "inc_num": "1066",
+                "fire_num": null,
+                "latitude": "33.606111",
+                "location": "Tonto National Forest",
+                "longitude": "111.138333",
+                "resources": [
+                    null
+                ],
+                "webComment": "Resource Order",
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"1066\", \"fire_code\": null, \"wfdssunit\": \"COPBC\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": \"P3 R3AS (0312)\", \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-01-09T09:34:20.431",
+                "name": "2024 PBC DFPC HELICOPTER SUPPORT",
+                "type": "Resource Order",
+                "uuid": "f5c4881e-0b60-4f9b-ba4c-f6f6b5e4c877",
+                "acres": null,
+                "fuels": null,
+                "inc_num": "26",
+                "fire_num": null,
+                "latitude": "38.427664",
+                "location": "FREMONT COUNTY AIRPORT 1V6",
+                "longitude": "105.100021",
+                "resources": [
+                    null
+                ],
+                "webComment": "RESOURCE ORDER",
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"26\", \"fire_code\": null, \"wfdssunit\": \"COCDFS\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": \"PNQT8B 1522\", \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-01-09T09:33:08.293",
+                "name": "2024 RMA Aviation Preposition PBC",
+                "type": "Resource Order",
+                "uuid": "f654b438-9dc3-489f-a554-71e8807ef6f2",
+                "acres": null,
+                "fuels": null,
+                "inc_num": "25",
+                "fire_num": null,
+                "latitude": "38.308434",
+                "location": "Pueblo County, Pueblo SO\n",
+                "longitude": "104.643580",
+                "resources": [
+                    null
+                ],
+                "webComment": "Resource Order",
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"25\", \"fire_code\": null, \"wfdssunit\": \"COPBC\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": \"WGE5XP24_0231 Aircraft\\nWGE5XZ24_0231 Personnel\", \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "CYPHER",
+                "date": "2024-07-14T19:21:13.238",
+                "name": "CAMP 6",
+                "type": "Wildfire",
+                "uuid": "f70b8519-0310-4398-ac0e-d772762d4758",
+                "acres": "0.1",
+                "fuels": "GRASS",
+                "inc_num": "1046",
+                "fire_num": "027",
+                "latitude": "39.339833",
+                "location": "Jefferson County, South Platte RD, Buffalo Creek",
+                "longitude": "105.366967",
+                "resources": [
+                    null
+                ],
+                "webComment": "3 miles SW of Pine CO, Size: 0.1ac Human caused",
+                "fire_status": "{\"out\": \"2024-07-15T12:17:00\", \"contain\": \"2024-07-15T12:10:00\", \"control\": \"2024-07-15T12:16:00\"}",
+                "fiscal_data": "{\"inc_num\": \"1046\", \"fire_code\": \"R3LB\", \"wfdssunit\": \"COPSF\", \"fs_job_code\": \"P2\", \"fs_override\": \"0212\", \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "TOOGOOD",
+                "date": "2024-07-14T15:11:00",
+                "name": "TURNER GULCH",
+                "type": "Wildfire",
+                "uuid": "f88d40a2-99f2-49d8-a3cf-640c03050fe2",
+                "acres": "0.1",
+                "fuels": "GRASS",
+                "inc_num": "1032",
+                "fire_num": "026",
+                "latitude": "39.196948",
+                "location": "PARK, LAKE GEORGE, TURNER GULCH ROAD",
+                "longitude": "105.620208",
+                "resources": [
+                    null
+                ],
+                "webComment": "",
+                "fire_status": "{\"out\": \"2024-07-14T15:15:00\", \"contain\": \"2024-07-14T15:14:00\", \"control\": \"2024-07-14T15:14:00\"}",
+                "fiscal_data": "{\"inc_num\": \"1032\", \"fire_code\": \"R3J8\", \"wfdssunit\": \"COPSF\", \"fs_job_code\": \"P2\", \"fs_override\": \"0212\", \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-01-02T12:38:00",
+                "name": "PSICC NF Fire Support 2024",
+                "type": "Resource Order",
+                "uuid": "fb95d199-d3e3-4135-9472-76e21370ced3",
+                "acres": null,
+                "fuels": null,
+                "inc_num": "3",
+                "fire_num": null,
+                "latitude": "38.308424",
+                "location": "Pueblo County, PSICC Headquarters",
+                "longitude": "104.643728",
+                "resources": [
+                    null
+                ],
+                "webComment": "Resource Order - Program Support - Resource",
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"3\", \"fire_code\": null, \"wfdssunit\": \"COPSF\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": \"P2EK4Q (0212)\", \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-07-13T13:00:00",
+                "name": "HILL SIDE",
+                "type": "Wildfire",
+                "uuid": "ff4b5885-de62-4508-b798-9141e3cf60a5",
+                "acres": "1334",
+                "fuels": "GRASS,PJ,OAK",
+                "inc_num": "1048",
+                "fire_num": null,
+                "latitude": "38.512107",
+                "location": "EL PASO, CANON CITY, FT. CARSON",
+                "longitude": "104.809680",
+                "resources": [
+                    null
+                ],
+                "webComment": "10.5 MILES ENE OF PENROSE COLORADO SIZE:1334 ACRES 70% CONTAINED",
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"1048\", \"fire_code\": \"R3K8\", \"wfdssunit\": \"COFCQ\", \"fs_job_code\": \"PF\", \"fs_override\": \"1522\", \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-01-02T12:55:48.103",
+                "name": "Rio Grande NF ABCD MISC 2024",
+                "type": "Resource Order",
+                "uuid": "fff56e4b-32fa-4b49-8aad-e74c7a0f6b9a",
+                "acres": null,
+                "fuels": null,
+                "inc_num": "6",
+                "fire_num": null,
+                "latitude": "37.678900",
+                "location": "Rio Grande County, RGF SO",
+                "longitude": "106.352600",
+                "resources": [
+                    null
+                ],
+                "webComment": "Resource Order",
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"6\", \"fire_code\": null, \"wfdssunit\": \"CORGF\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": \"P2EKU4 (0209)\", \"state_fiscal_code\": null}"
+            }
+        ],
+        "retrieved": "2024-07-18T21:52:47.165445"
+    }
+]

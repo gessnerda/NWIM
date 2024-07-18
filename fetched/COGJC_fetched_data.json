@@ -1,0 +1,1767 @@
+[
+    {
+        "data": [
+            {
+                "ic": "jameson",
+                "date": "2024-07-03T14:04:00",
+                "name": "Gibson Gulch",
+                "type": "Wildfire",
+                "uuid": "0183cf2c-35fc-4efd-bedc-6a4416a0e4a7",
+                "acres": "4",
+                "fuels": "PJ",
+                "inc_num": "240164",
+                "fire_num": null,
+                "latitude": "39.476633",
+                "location": "GWD - 5 miles SE of Silt. East of Divide Creek Rd. On hillside near Gibson Gulch area.",
+                "longitude": "107.598417",
+                "resources": [
+                    null
+                ],
+                "webComment": null,
+                "fire_status": "{\"out\": \"2024-07-07T15:20:00\", \"contain\": \"2024-07-04T17:30:00\", \"control\": \"2024-07-06T16:05:00\"}",
+                "fiscal_data": "{\"inc_num\": \"240164\", \"fire_code\": \"R18K\", \"wfdssunit\": \"COGWD\", \"fs_job_code\": \"PD\", \"fs_override\": \"1522\", \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "DAVIES",
+                "date": "2024-07-02T11:27:36.744",
+                "name": "Left Hand Draw",
+                "type": "Wildfire",
+                "uuid": "03dfa668-894f-41e0-8ce2-16f608233f98",
+                "acres": "0.1",
+                "fuels": "p/j",
+                "inc_num": "240157",
+                "fire_num": null,
+                "latitude": "39.341500",
+                "location": "GRD-North of GJ between Corcoran Wash and Left Hand Draw",
+                "longitude": "108.528167",
+                "resources": [
+                    null
+                ],
+                "webComment": null,
+                "fire_status": "{\"out\": \"2024-07-13T12:00:00\", \"contain\": \"2024-07-03T12:45:00\", \"control\": \"2024-07-03T12:50:00\"}",
+                "fiscal_data": "{\"inc_num\": \"240157\", \"fire_code\": \"R15B\", \"wfdssunit\": \"COGRD\", \"fs_job_code\": \"PD\", \"fs_override\": \"1522\", \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "Casey",
+                "date": "2024-06-12T07:44:22.04",
+                "name": "Samson Mesa",
+                "type": "Wildfire",
+                "uuid": "0411b523-13dd-4c4f-b420-88a12daea748",
+                "acres": "0.1",
+                "fuels": "Pinon/Juniper",
+                "inc_num": "240099",
+                "fire_num": null,
+                "latitude": "39.332583",
+                "location": "GWD - 5 miles East Of Debeque, South of Samson Mesa",
+                "longitude": "108.119533",
+                "resources": [
+                    null
+                ],
+                "webComment": null,
+                "fire_status": "{\"out\": \"2024-06-17T12:30:00\", \"contain\": \"2024-06-12T16:30:00\", \"control\": \"2024-06-12T17:15:00\"}",
+                "fiscal_data": "{\"inc_num\": \"240099\", \"fire_code\": \"R0FL\", \"wfdssunit\": \"COGWD\", \"fs_job_code\": \"PD\", \"fs_override\": \"1522\", \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "Karius, Phil",
+                "date": "2024-04-25T09:22:45.322",
+                "name": "Tower",
+                "type": "Wildfire",
+                "uuid": "046963d9-9c5c-4823-b8a0-4361f763df64",
+                "acres": "0.1",
+                "fuels": "4",
+                "inc_num": "240048",
+                "fire_num": null,
+                "latitude": "39.644117",
+                "location": "GWD-2 miles SW of Eagle",
+                "longitude": "106.859783",
+                "resources": [
+                    null
+                ],
+                "webComment": null,
+                "fire_status": "{\"out\": \"2024-04-25T10:35:00\", \"contain\": \"2024-04-25T09:30:00\", \"control\": \"2024-04-25T10:00:00\"}",
+                "fiscal_data": "{\"inc_num\": \"240048\", \"fire_code\": \"RW01\", \"wfdssunit\": \"COGWD\", \"fs_job_code\": \"PD\", \"fs_override\": \"1522\", \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-06-20T14:55:45.156",
+                "name": "Cottonwood Gulch",
+                "type": "Wildfire",
+                "uuid": "059d7f34-32bb-4d47-a0b1-f5e3efd6d830",
+                "acres": "0.1",
+                "fuels": null,
+                "inc_num": "240118",
+                "fire_num": null,
+                "latitude": "39.526798",
+                "location": "GFX- 4 miles N of I-70 in Cottonwood Gulch ",
+                "longitude": "107.991529",
+                "resources": [
+                    null
+                ],
+                "webComment": null,
+                "fire_status": "{\"out\": \"2024-06-30T11:00:00\", \"contain\": \"2024-06-30T09:00:00\", \"control\": \"2024-06-30T10:00:00\"}",
+                "fiscal_data": "{\"inc_num\": \"240118\", \"fire_code\": \"R13F\", \"wfdssunit\": \"COGFX\", \"fs_job_code\": \"PN\", \"fs_override\": \"1522\", \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "Hughson",
+                "date": "2024-06-30T17:32:00",
+                "name": "Logan Foothills",
+                "type": "Wildfire",
+                "uuid": "090f2758-a0c0-4b26-a88a-1288b36ea454",
+                "acres": "0.1",
+                "fuels": "pinyon/juniper",
+                "inc_num": "240154",
+                "fire_num": null,
+                "latitude": "39.372500",
+                "location": "GRD - 2.5 miles NE of DeBeque near Logan Mountain",
+                "longitude": "108.185833",
+                "resources": [
+                    null
+                ],
+                "webComment": null,
+                "fire_status": "{\"out\": \"2024-07-13T12:00:00\", \"contain\": \"2024-06-30T21:25:00\", \"control\": \"2024-06-30T21:48:00\"}",
+                "fiscal_data": "{\"inc_num\": \"240154\", \"fire_code\": \"R1ZV\", \"wfdssunit\": \"COGWD\", \"fs_job_code\": \"PD\", \"fs_override\": \"1522\", \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "Test",
+                "date": "2024-01-25T13:17:00.867",
+                "name": "25 Spring",
+                "type": "Wildfire",
+                "uuid": "09baf90c-675a-45a1-be91-ea6e0d59f954",
+                "acres": "0.1",
+                "fuels": "9",
+                "inc_num": "240011",
+                "fire_num": "",
+                "latitude": "39.168211",
+                "location": "  GRD - 4 miles NNE Appleton",
+                "longitude": "108.571807",
+                "resources": [
+                    null
+                ],
+                "webComment": null,
+                "fire_status": "{\"out\": \"2024-01-25T14:25:00\", \"contain\": \"2024-01-25T14:15:00\", \"control\": \"2024-01-25T14:20:00\"}",
+                "fiscal_data": "{\"inc_num\": \"240011\", \"fire_code\": \"QTW0\", \"wfdssunit\": \"COGRD\", \"fs_job_code\": \"PD\", \"fs_override\": \"1522\", \"fiscal_comments\": \"\", \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "Pistono",
+                "date": "2024-04-25T14:29:23.067",
+                "name": "Beehive",
+                "type": "Wildfire",
+                "uuid": "0ae52e48-cdff-4b8e-84ff-528fd46004b3",
+                "acres": "0.1",
+                "fuels": "4",
+                "inc_num": "240049",
+                "fire_num": null,
+                "latitude": "39.153820",
+                "location": "MEX - 2 miles SE of Mesa",
+                "longitude": "108.084590",
+                "resources": [
+                    null
+                ],
+                "webComment": null,
+                "fire_status": "{\"out\": \"2024-04-26T11:51:00\", \"contain\": \"2024-04-25T18:14:00\", \"control\": \"2024-04-25T18:46:00\"}",
+                "fiscal_data": "{\"inc_num\": \"240049\", \"fire_code\": \"RWG2\", \"wfdssunit\": \"COMEX\", \"fs_job_code\": \"PN\", \"fs_override\": \"1522\", \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-06-27T11:20:00",
+                "name": "Wilderness Creek",
+                "type": "Wildfire",
+                "uuid": "0dfb31e2-056e-4578-973e-da877c11c1da",
+                "acres": "0.1",
+                "fuels": "PJ",
+                "inc_num": "240138",
+                "fire_num": null,
+                "latitude": "38.942333",
+                "location": "West side of 8 4/10 Rd.",
+                "longitude": "108.901667",
+                "resources": [
+                    null
+                ],
+                "webComment": null,
+                "fire_status": "{\"out\": \"2024-06-30T18:30:00\", \"contain\": \"2024-06-27T13:10:00\", \"control\": \"2024-06-27T13:15:00\"}",
+                "fiscal_data": "{\"inc_num\": \"240138\", \"fire_code\": \"R1QT\", \"wfdssunit\": \"COGRD\", \"fs_job_code\": \"PD\", \"fs_override\": \"1522\", \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "Campbell",
+                "date": "2024-06-05T20:51:00",
+                "name": "Grass Mesa",
+                "type": "Wildfire",
+                "uuid": "0ebf82df-2e61-4e34-a56c-dbada4d42c86",
+                "acres": "1",
+                "fuels": "Grass, brush, PJ",
+                "inc_num": "240089",
+                "fire_num": null,
+                "latitude": "39.507802",
+                "location": "GWD-1.5 miles S of Rifle, E of Mustang Mesa Trail",
+                "longitude": "107.790726",
+                "resources": [
+                    null
+                ],
+                "webComment": null,
+                "fire_status": "{\"out\": \"2024-06-06T13:00:00\", \"contain\": \"2024-06-06T10:15:00\", \"control\": \"2024-06-06T12:35:00\"}",
+                "fiscal_data": "{\"inc_num\": \"240089\", \"fire_code\": \"RZ21\", \"wfdssunit\": \"COGWD\", \"fs_job_code\": \"PD\", \"fs_override\": \"1522\", \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-07-14T20:20:04.532",
+                "name": "black rocks",
+                "type": "Smoke Check",
+                "uuid": "0ecef670-11f3-47ad-951f-a21760c9bbd6",
+                "acres": null,
+                "fuels": null,
+                "inc_num": "240211",
+                "fire_num": null,
+                "latitude": "39.136364",
+                "location": null,
+                "longitude": "109.006648",
+                "resources": [
+                    null
+                ],
+                "webComment": null,
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"240211\", \"fire_code\": null, \"wfdssunit\": \"COGRD\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "Lathan Johnson",
+                "date": "2024-06-23T12:45:00",
+                "name": "County Line",
+                "type": "Wildfire",
+                "uuid": "14a8a84e-4194-40c2-a48d-d3e50b216209",
+                "acres": "0.1",
+                "fuels": "PJ",
+                "inc_num": "240128",
+                "fire_num": null,
+                "latitude": "38.498433",
+                "location": "GRD- E of hwy 141 in Sewmup Mesa",
+                "longitude": "108.899025",
+                "resources": [
+                    null
+                ],
+                "webComment": null,
+                "fire_status": "{\"out\": \"2024-07-01T18:00:00\", \"contain\": \"2024-06-28T12:00:00\", \"control\": \"2024-06-30T16:52:00\"}",
+                "fiscal_data": "{\"inc_num\": \"240128\", \"fire_code\": \"R1AG\", \"wfdssunit\": \"COGRD\", \"fs_job_code\": \"PD\", \"fs_override\": \"1522\", \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "SEIM, MOLLY",
+                "date": "2024-07-15T12:55:00",
+                "name": "Tom's Canyon",
+                "type": "Wildfire",
+                "uuid": "15acf41e-a0d0-4ee9-96fc-42e5b04a90a2",
+                "acres": "0.1",
+                "fuels": "p/j",
+                "inc_num": "240217",
+                "fire_num": null,
+                "latitude": "39.015167",
+                "location": "GRD-1/2 mile S of A 2/10 near Tom's Canyon",
+                "longitude": "108.975500",
+                "resources": [
+                    null
+                ],
+                "webComment": null,
+                "fire_status": "{\"out\": null, \"contain\": \"2024-07-15T18:00:00\", \"control\": \"2024-07-15T18:45:00\"}",
+                "fiscal_data": "{\"inc_num\": \"240217\", \"fire_code\": \"R3ML\", \"wfdssunit\": \"COGRD\", \"fs_job_code\": \"PD\", \"fs_override\": \"1522\", \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "Roedell",
+                "date": "2024-05-20T17:08:08.711",
+                "name": "C Road",
+                "type": "Wildfire",
+                "uuid": "18b5de93-3505-4ef9-80da-3578f98aeed5",
+                "acres": "3",
+                "fuels": "Grass",
+                "inc_num": "240069",
+                "fire_num": null,
+                "latitude": "39.041333",
+                "location": "GRD - 34 and C road Orchard Mesa desert ",
+                "longitude": "108.411333",
+                "resources": [
+                    null
+                ],
+                "webComment": null,
+                "fire_status": "{\"out\": \"2024-05-21T10:52:00\", \"contain\": \"2024-05-20T18:30:00\", \"control\": \"2024-05-20T19:30:00\"}",
+                "fiscal_data": "{\"inc_num\": \"240069\", \"fire_code\": \"RYQ1\", \"wfdssunit\": \"COGRD\", \"fs_job_code\": \"PD\", \"fs_override\": \"1522\", \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-07-14T20:13:21.351",
+                "name": "horse canyon rd",
+                "type": "Smoke Check",
+                "uuid": "1907427b-c389-4eb8-ac23-dbdac14f3278",
+                "acres": null,
+                "fuels": null,
+                "inc_num": "240210",
+                "fire_num": null,
+                "latitude": "39.237796",
+                "location": null,
+                "longitude": "108.232841",
+                "resources": [
+                    null
+                ],
+                "webComment": null,
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"240210\", \"fire_code\": null, \"wfdssunit\": \"COGRD\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "Farinholt",
+                "date": "2024-06-30T20:24:42.734",
+                "name": "Castle Rock",
+                "type": "Wildfire",
+                "uuid": "1aeb4618-9694-495a-871b-86c61f9fa6bb",
+                "acres": "4.35",
+                "fuels": "Grass",
+                "inc_num": "240155",
+                "fire_num": "",
+                "latitude": "39.158889",
+                "location": "GRD-3 miles S of I-70 in Rabbit Valley",
+                "longitude": "109.034833",
+                "resources": [
+                    null
+                ],
+                "webComment": null,
+                "fire_status": "{\"out\": \"2024-07-05T11:15:00\", \"contain\": \"2024-06-30T23:59:00\", \"control\": \"2024-07-01T09:30:00\"}",
+                "fiscal_data": "{\"inc_num\": \"240155\", \"fire_code\": \"R1Z0\", \"wfdssunit\": \"COGRD\", \"fs_job_code\": \"PD\", \"fs_override\": \"1522\", \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "Macklin",
+                "date": "2024-07-02T13:42:26.557",
+                "name": "Derby",
+                "type": "Wildfire",
+                "uuid": "200f853e-97e7-4dae-979f-f8860ee33694",
+                "acres": "0.1",
+                "fuels": null,
+                "inc_num": "240160",
+                "fire_num": "",
+                "latitude": "39.913217",
+                "location": "GWD - 3 miles NW of Burns near Derby Mesa",
+                "longitude": "106.944583",
+                "resources": [
+                    null
+                ],
+                "webComment": null,
+                "fire_status": "{\"out\": \"2024-07-04T11:15:00\", \"contain\": \"2024-07-02T16:41:00\", \"control\": \"2024-07-02T20:00:00\"}",
+                "fiscal_data": "{\"inc_num\": \"240160\", \"fire_code\": \"R2BR\", \"wfdssunit\": \"COGWD\", \"fs_job_code\": \"PD\", \"fs_override\": \"1522\", \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "John Bell",
+                "date": "2024-03-23T18:45:16.235",
+                "name": "Kelehen Fire",
+                "type": "Wildfire",
+                "uuid": "249ecd77-13ae-45ce-a997-54e5baccfe55",
+                "acres": "0.1",
+                "fuels": "Grass",
+                "inc_num": "240034",
+                "fire_num": null,
+                "latitude": "39.261971",
+                "location": "WCAL - 16 and Q road in Mack",
+                "longitude": "108.763398",
+                "resources": [
+                    null
+                ],
+                "webComment": null,
+                "fire_status": "{\"out\": \"2024-03-23T20:25:00\", \"contain\": \"2024-03-23T19:40:00\", \"control\": \"2024-03-23T19:50:00\"}",
+                "fiscal_data": "{\"inc_num\": \"240034\", \"fire_code\": \"RTU8\", \"wfdssunit\": \"COWCAL\", \"fs_job_code\": \"PD\", \"fs_override\": \"1522\", \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "Siebert",
+                "date": "2024-06-22T10:47:00",
+                "name": "Baxter",
+                "type": "Wildfire",
+                "uuid": "269f54d8-0f35-4b9b-be50-82d15677b0f2",
+                "acres": "46.4",
+                "fuels": "Pinyon/Juniper",
+                "inc_num": "240124",
+                "fire_num": "",
+                "latitude": "39.370717",
+                "location": "GRD-North of I-70, west of 139, near Utah border, off of Baxter Pass Rd",
+                "longitude": "108.993250",
+                "resources": [
+                    null
+                ],
+                "webComment": null,
+                "fire_status": "{\"out\": \"2024-07-08T14:30:00\", \"contain\": \"2024-06-23T12:10:00\", \"control\": \"2024-07-08T08:00:00\"}",
+                "fiscal_data": "{\"inc_num\": \"240124\", \"fire_code\": \"R07F\", \"wfdssunit\": \"COGRD\", \"fs_job_code\": \"PD\", \"fs_override\": \"1522\", \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "Van Keuren",
+                "date": "2024-06-28T11:25:59.78",
+                "name": "Blue Mesa",
+                "type": "Wildfire",
+                "uuid": "26fd4319-d4e0-4bf7-bc37-57f39d3eee6c",
+                "acres": "0.1",
+                "fuels": "Pinion / Juniper",
+                "inc_num": "240141",
+                "fire_num": "",
+                "latitude": "38.492417",
+                "location": "GRD - East of Hwy 141 between Blue Mesa and Lone Tree Mesa. 13 miles SSE of Gateway",
+                "longitude": "108.827117",
+                "resources": [
+                    null
+                ],
+                "webComment": null,
+                "fire_status": "{\"out\": \"2024-06-29T09:50:00\", \"contain\": \"2024-06-28T15:15:00\", \"control\": \"2024-06-29T07:30:00\"}",
+                "fiscal_data": "{\"inc_num\": \"240141\", \"fire_code\": \"R1TP\", \"wfdssunit\": \"COGRD\", \"fs_job_code\": \"PD\", \"fs_override\": \"1522\", \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-07-03T13:54:00",
+                "name": "Dukes",
+                "type": "Wildfire",
+                "uuid": "26fef9d4-f8ba-4090-81ac-f6f4110f6283",
+                "acres": "0.1",
+                "fuels": "Spruce/Fir",
+                "inc_num": "240178",
+                "fire_num": null,
+                "latitude": "39.480600",
+                "location": "WRF - 1 mile east of the town of Breckenridge at Breckenridge ski area",
+                "longitude": "106.070650",
+                "resources": [
+                    null
+                ],
+                "webComment": null,
+                "fire_status": "{\"out\": \"2024-07-13T11:30:00\", \"contain\": \"2024-07-13T09:00:00\", \"control\": \"2024-07-13T09:30:00\"}",
+                "fiscal_data": "{\"inc_num\": \"240178\", \"fire_code\": \"R28W\", \"wfdssunit\": \"COWRF\", \"fs_job_code\": \"P2\", \"fs_override\": \"0215\", \"fiscal_comments\": \"\", \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "J Seim",
+                "date": "2024-07-02T11:56:19.337",
+                "name": "Adobe Creek",
+                "type": "Wildfire",
+                "uuid": "28fdedf5-084d-4917-ab33-0f49df6c5968",
+                "acres": "0.1",
+                "fuels": "Trash",
+                "inc_num": "240158",
+                "fire_num": "",
+                "latitude": "39.218690",
+                "location": "GRD-7 miles NW of GJ airport near 21 Rd ",
+                "longitude": "108.644460",
+                "resources": [
+                    null
+                ],
+                "webComment": null,
+                "fire_status": "{\"out\": \"2024-07-02T13:25:00\", \"contain\": \"2024-07-02T13:15:00\", \"control\": \"2024-07-02T13:20:00\"}",
+                "fiscal_data": "{\"inc_num\": \"240158\", \"fire_code\": \"R2CG\", \"wfdssunit\": \"COGRD\", \"fs_job_code\": \"PD\", \"fs_override\": \"1522\", \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-06-29T07:25:03.106",
+                "name": "Gilman Gulch",
+                "type": "Wildfire",
+                "uuid": "292ac106-e1e7-4a7c-bf96-55bdf4e84922",
+                "acres": "0.1",
+                "fuels": "PJ",
+                "inc_num": "240145",
+                "fire_num": null,
+                "latitude": "39.466833",
+                "location": "GRD-10 NW of Debeque, near Con Creek Rd and Baker Gulch. ",
+                "longitude": "108.238333",
+                "resources": [
+                    null
+                ],
+                "webComment": null,
+                "fire_status": "{\"out\": \"2024-06-30T16:00:00\", \"contain\": \"2024-06-29T14:30:00\", \"control\": \"2024-06-29T14:55:00\"}",
+                "fiscal_data": "{\"inc_num\": \"240145\", \"fire_code\": \"R1VV\", \"wfdssunit\": \"COGRD\", \"fs_job_code\": \"PD\", \"fs_override\": \"1522\", \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "Campbell",
+                "date": "2024-06-30T16:36:00",
+                "name": "Canyon Creek",
+                "type": "Wildfire",
+                "uuid": "2c0c2f06-55bc-436b-804e-f0916210fe91",
+                "acres": "0.1",
+                "fuels": "Pinyon Juniper",
+                "inc_num": "240150",
+                "fire_num": null,
+                "latitude": "39.582633",
+                "location": "GWD - 5 miles NE of Glenwood",
+                "longitude": "107.421950",
+                "resources": [
+                    null
+                ],
+                "webComment": "",
+                "fire_status": "{\"out\": \"2024-07-02T15:55:00\", \"contain\": \"2024-06-30T20:20:00\", \"control\": \"2024-06-30T21:00:00\"}",
+                "fiscal_data": "{\"inc_num\": \"240150\", \"fire_code\": \"R1ZS\", \"wfdssunit\": \"COGWD\", \"fs_job_code\": \"PD\", \"fs_override\": \"1522\", \"fiscal_comments\": null, \"state_fiscal_code\": \"\"}"
+            },
+            {
+                "ic": null,
+                "date": "2024-06-18T07:48:00",
+                "name": "72",
+                "type": "Wildfire",
+                "uuid": "318fbdc8-4bd6-467d-a4e8-018c65879b54",
+                "acres": "28.7",
+                "fuels": null,
+                "inc_num": "240108",
+                "fire_num": null,
+                "latitude": "39.416712",
+                "location": "GFX-Near I-70 mile marker 72",
+                "longitude": "108.079200",
+                "resources": [
+                    null
+                ],
+                "webComment": null,
+                "fire_status": "{\"out\": null, \"contain\": \"2024-06-19T14:30:00\", \"control\": \"2024-06-24T14:30:00\"}",
+                "fiscal_data": "{\"inc_num\": \"240108\", \"fire_code\": \"R0WS\", \"wfdssunit\": \"COGFX\", \"fs_job_code\": \"PN\", \"fs_override\": \"1522\", \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-07-09T21:45:00",
+                "name": "Bluff",
+                "type": "Wildfire",
+                "uuid": "3afe50e2-6d03-4c33-b540-df2035291440",
+                "acres": "0.1",
+                "fuels": "Brush",
+                "inc_num": "240181",
+                "fire_num": null,
+                "latitude": "39.658611",
+                "location": "GWD-East  of Eagle near Bluffs Dr",
+                "longitude": "106.813056",
+                "resources": [
+                    null
+                ],
+                "webComment": null,
+                "fire_status": "{\"out\": \"2024-07-09T22:30:00\", \"contain\": \"2024-07-09T22:00:00\", \"control\": \"2024-07-09T22:01:00\"}",
+                "fiscal_data": "{\"inc_num\": \"240181\", \"fire_code\": \"R23Z\", \"wfdssunit\": \"COGWD\", \"fs_job_code\": \"PD\", \"fs_override\": \"1522\", \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "Carter",
+                "date": "2024-06-07T22:51:00",
+                "name": "Cameo",
+                "type": "Wildfire",
+                "uuid": "3b0ec566-57f2-4f29-b9ec-122a5b066b9d",
+                "acres": "43",
+                "fuels": "trash/debris",
+                "inc_num": "240093",
+                "fire_num": "",
+                "latitude": "39.159700",
+                "location": "MEX - 3 miles NE of Palisade",
+                "longitude": "108.299083",
+                "resources": [
+                    null
+                ],
+                "webComment": null,
+                "fire_status": "{\"out\": \"2024-06-24T14:56:00\", \"contain\": \"2024-06-08T12:30:00\", \"control\": \"2024-06-10T12:30:00\"}",
+                "fiscal_data": "{\"inc_num\": \"240093\", \"fire_code\": \"RZ68\", \"wfdssunit\": \"COMEX\", \"fs_job_code\": \"PN\", \"fs_override\": \"1522\", \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "BALKE",
+                "date": "2024-06-13T10:16:09.336",
+                "name": "Rapid Creek",
+                "type": "Wildfire",
+                "uuid": "3c6e34ba-4a0d-4d4b-9c86-5352b8b57e66",
+                "acres": "0.5",
+                "fuels": "grass/ brush",
+                "inc_num": "240100",
+                "fire_num": null,
+                "latitude": "39.133833",
+                "location": "MEX - between mm 44/45 along north side of I-70, south side of river.",
+                "longitude": "108.322667",
+                "resources": [
+                    null
+                ],
+                "webComment": null,
+                "fire_status": "{\"out\": \"2024-06-13T12:02:00\", \"contain\": \"2024-06-13T10:45:00\", \"control\": \"2024-06-13T11:00:00\"}",
+                "fiscal_data": "{\"inc_num\": \"240100\", \"fire_code\": \"R0JY\", \"wfdssunit\": \"COMEX\", \"fs_job_code\": \"PN\", \"fs_override\": \"1522\", \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "Karuis",
+                "date": "2024-07-14T11:00:30.031",
+                "name": "Dead Cow 2",
+                "type": "Wildfire",
+                "uuid": "4382313e-bc31-4aac-a687-397f9e67d88f",
+                "acres": "0.1",
+                "fuels": "Grass/Brush",
+                "inc_num": "240203",
+                "fire_num": null,
+                "latitude": "39.689967",
+                "location": "GWD- I-70 E Bound MM153",
+                "longitude": "106.749383",
+                "resources": [
+                    null
+                ],
+                "webComment": null,
+                "fire_status": "{\"out\": \"2024-07-14T11:45:00\", \"contain\": \"2024-07-14T11:15:00\", \"control\": \"2024-07-14T11:40:00\"}",
+                "fiscal_data": "{\"inc_num\": \"240203\", \"fire_code\": \"R3F8\", \"wfdssunit\": \"COGWD\", \"fs_job_code\": \"PD\", \"fs_override\": \"1522\", \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "Macklin",
+                "date": "2024-07-14T10:20:27.448",
+                "name": "Dead Cow",
+                "type": "Wildfire",
+                "uuid": "448e4c1c-0744-4d0e-bbc3-e13675ef25f7",
+                "acres": "0.1",
+                "fuels": "grassbrush",
+                "inc_num": "240202",
+                "fire_num": "",
+                "latitude": "39.688717",
+                "location": "4 miles NE of Eagle off I-70",
+                "longitude": "106.750533",
+                "resources": [
+                    null
+                ],
+                "webComment": null,
+                "fire_status": "{\"out\": \"2024-07-14T11:45:00\", \"contain\": \"2024-07-14T11:20:00\", \"control\": \"2024-07-14T11:40:00\"}",
+                "fiscal_data": "{\"inc_num\": \"240202\", \"fire_code\": \"R3MM\", \"wfdssunit\": \"COGWD\", \"fs_job_code\": \"PD\", \"fs_override\": \"1522\", \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "White",
+                "date": "2024-06-03T12:24:49.643",
+                "name": "Spring Buck",
+                "type": "Wildfire",
+                "uuid": "463a1e82-d946-49bc-94b3-406df9f8e36d",
+                "acres": "0.1",
+                "fuels": "Pinyon/Juniper",
+                "inc_num": "240086",
+                "fire_num": null,
+                "latitude": "39.623283",
+                "location": "GWD-2.5 miles SW of Gypsum, near Spring Creek Rd. ",
+                "longitude": "106.907050",
+                "resources": [
+                    null
+                ],
+                "webComment": null,
+                "fire_status": "{\"out\": \"2024-06-03T14:00:00\", \"contain\": \"2024-06-03T13:30:00\", \"control\": \"2024-06-03T13:45:00\"}",
+                "fiscal_data": "{\"inc_num\": \"240086\", \"fire_code\": \"RZT5\", \"wfdssunit\": \"COGWD\", \"fs_job_code\": \"PD\", \"fs_override\": \"1522\", \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "Snyder",
+                "date": "2024-05-05T13:26:00",
+                "name": "Cheney",
+                "type": "Wildfire",
+                "uuid": "4c27fe06-322c-4b96-b38a-0974acc8a3fe",
+                "acres": "0.1",
+                "fuels": "downed cottonwood",
+                "inc_num": "240054",
+                "fire_num": null,
+                "latitude": "38.884250",
+                "location": "GRD - SE of Grand Junction at Cheney Reservoir ",
+                "longitude": "108.324800",
+                "resources": [
+                    null
+                ],
+                "webComment": null,
+                "fire_status": "{\"out\": \"2024-05-06T12:05:00\", \"contain\": \"2024-05-05T15:16:00\", \"control\": \"2024-05-05T16:40:00\"}",
+                "fiscal_data": "{\"inc_num\": \"240054\", \"fire_code\": \"RXB5\", \"wfdssunit\": \"COGRD\", \"fs_job_code\": \"PD\", \"fs_override\": \"1522\", \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "Seim",
+                "date": "2024-06-16T10:15:42.196",
+                "name": "Sink",
+                "type": "Wildfire",
+                "uuid": "4e8c256c-2964-4718-b96f-e2d3d3d5431c",
+                "acres": "2",
+                "fuels": "Grass/Sage",
+                "inc_num": "240105",
+                "fire_num": null,
+                "latitude": "39.039200",
+                "location": "GRD-4 miles E of Orchard Mesa at the foot of the Grand Mesa. ",
+                "longitude": "108.405800",
+                "resources": [
+                    null
+                ],
+                "webComment": null,
+                "fire_status": "{\"out\": \"2024-06-30T11:25:00\", \"contain\": \"2024-06-16T12:05:00\", \"control\": \"2024-06-16T18:00:00\"}",
+                "fiscal_data": "{\"inc_num\": \"240105\", \"fire_code\": \"R0ZS\", \"wfdssunit\": \"COGRD\", \"fs_job_code\": \"PD\", \"fs_override\": \"1522\", \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-07-14T20:02:00.062",
+                "name": "trail canyon",
+                "type": "Smoke Check",
+                "uuid": "50708ead-7cd3-40ad-b9cb-f83768ec342f",
+                "acres": null,
+                "fuels": null,
+                "inc_num": "240209",
+                "fire_num": null,
+                "latitude": "39.016788",
+                "location": null,
+                "longitude": "108.803790",
+                "resources": [
+                    null
+                ],
+                "webComment": null,
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"240209\", \"fire_code\": null, \"wfdssunit\": \"COMEX\", \"fs_job_code\": null, \"fs_override\": null, \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "Galemore",
+                "date": "2024-07-14T21:32:00",
+                "name": "Mee",
+                "type": "Wildfire",
+                "uuid": "51ceee0c-e0af-4834-a2cb-86a47a664e07",
+                "acres": "4.7",
+                "fuels": "grassbrush",
+                "inc_num": "240212",
+                "fire_num": null,
+                "latitude": "39.144020",
+                "location": "GRD - McInnis Canyons NCA, 2 miles SE of CO River",
+                "longitude": "108.932887",
+                "resources": [
+                    null
+                ],
+                "webComment": null,
+                "fire_status": "{\"out\": null, \"contain\": \"2024-07-17T19:05:00\", \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"240212\", \"fire_code\": \"R3K5\", \"wfdssunit\": \"COGRD\", \"fs_job_code\": \"PD\", \"fs_override\": \"1522\", \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "Snyder",
+                "date": "2024-05-15T13:26:27.559",
+                "name": "Devils Ridge",
+                "type": "Wildfire",
+                "uuid": "526ba1dd-b6c0-4b52-937a-edc0a193a73a",
+                "acres": "0.1",
+                "fuels": "4",
+                "inc_num": "240062",
+                "fire_num": null,
+                "latitude": "39.135867",
+                "location": "GRD - NE in Black Ridge Canyons Wilderness",
+                "longitude": "108.827950",
+                "resources": [
+                    null
+                ],
+                "webComment": null,
+                "fire_status": "{\"out\": \"2024-05-16T16:21:00\", \"contain\": \"2024-05-15T17:14:00\", \"control\": \"2024-05-15T17:41:00\"}",
+                "fiscal_data": "{\"inc_num\": \"240062\", \"fire_code\": \"RX6M\", \"wfdssunit\": \"COGRD\", \"fs_job_code\": \"PD\", \"fs_override\": \"1522\", \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "Courtwright",
+                "date": "2024-06-29T14:18:00",
+                "name": "Horsethief",
+                "type": "Wildfire",
+                "uuid": "52eb3acc-9971-4ce5-aa9f-82c0769d344a",
+                "acres": "3.7",
+                "fuels": "grass & PJ",
+                "inc_num": "240146",
+                "fire_num": null,
+                "latitude": "39.153667",
+                "location": "GRD - Between Rattlesnake Canyon and Pollock Canyon / 1/2 mile South of Colorado River",
+                "longitude": "108.833667",
+                "resources": [
+                    null
+                ],
+                "webComment": null,
+                "fire_status": "{\"out\": \"2024-07-16T10:08:00\", \"contain\": \"2024-06-30T15:57:00\", \"control\": \"2024-06-30T18:20:00\"}",
+                "fiscal_data": "{\"inc_num\": \"240146\", \"fire_code\": \"R1W5\", \"wfdssunit\": \"COGRD\", \"fs_job_code\": \"PD\", \"fs_override\": \"1522\", \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-07-15T12:48:53.575",
+                "name": "Mee Rim",
+                "type": "Wildfire",
+                "uuid": "53c3db30-58eb-4eb8-ae58-8e8cc635b0ee",
+                "acres": null,
+                "fuels": "PJ",
+                "inc_num": "240216",
+                "fire_num": null,
+                "latitude": "39.141833",
+                "location": "GRD-McInnis Canyons NCA, 2.5 miles SE of CO River",
+                "longitude": "108.914167",
+                "resources": [
+                    null
+                ],
+                "webComment": null,
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"240216\", \"fire_code\": \"R3MP\", \"wfdssunit\": \"COGRD\", \"fs_job_code\": \"PD\", \"fs_override\": \"1522\", \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "",
+                "date": "2024-02-28T17:24:29.943",
+                "name": "Lookout",
+                "type": "Wildfire",
+                "uuid": "58b4749d-52ed-4986-84db-5dda18993a6b",
+                "acres": "0.5",
+                "fuels": "PJ",
+                "inc_num": "240022",
+                "fire_num": "",
+                "latitude": "39.515550",
+                "location": "GRD - East side hwy 139 near mm 26",
+                "longitude": "108.770450",
+                "resources": [
+                    null
+                ],
+                "webComment": "",
+                "fire_status": "{\"out\": \"2024-02-29T11:50:00\", \"contain\": \"2024-02-28T20:30:00\", \"control\": \"2024-02-29T11:20:00\"}",
+                "fiscal_data": "{\"inc_num\": \"240022\", \"fire_code\": \"QU2X\", \"wfdssunit\": \"COGRD\", \"fs_job_code\": \"PD\", \"fs_override\": \"1522\", \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "Calfee",
+                "date": "2024-06-04T14:55:00",
+                "name": "Saddle",
+                "type": "Wildfire",
+                "uuid": "59ff4504-8581-43d8-8280-836813944745",
+                "acres": "0.1",
+                "fuels": "Loggin/thinning slas",
+                "inc_num": "240088",
+                "fire_num": "",
+                "latitude": "39.858833",
+                "location": "WRF- 2 miles NE of Hwy 9 near Williams Fork Ridge",
+                "longitude": "106.203500",
+                "resources": [
+                    null
+                ],
+                "webComment": null,
+                "fire_status": "{\"out\": \"2024-06-24T11:00:00\", \"contain\": \"2024-06-05T14:30:00\", \"control\": \"2024-06-06T12:30:00\"}",
+                "fiscal_data": "{\"inc_num\": \"240088\", \"fire_code\": \"RZ02\", \"wfdssunit\": \"COWRF\", \"fs_job_code\": \"P2\", \"fs_override\": \"0215\", \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "Messner",
+                "date": "2024-07-13T18:11:00",
+                "name": "219",
+                "type": "Wildfire",
+                "uuid": "5ad9463c-d534-4080-9079-bd4285883e9d",
+                "acres": "25",
+                "fuels": "Grass - Brush",
+                "inc_num": "240201",
+                "fire_num": null,
+                "latitude": "39.659950",
+                "location": "GFX- 10 miles Northwest of Rifle Colorado",
+                "longitude": "107.822200",
+                "resources": [
+                    null
+                ],
+                "webComment": null,
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"240201\", \"fire_code\": \"R3EC\", \"wfdssunit\": \"COGFX\", \"fs_job_code\": \"PN\", \"fs_override\": \"1522\", \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-06-08T20:10:00",
+                "name": "Williams Mine",
+                "type": "Wildfire",
+                "uuid": "5cc6fcec-56dc-4f4d-b959-687b996db5b3",
+                "acres": "1",
+                "fuels": "Grass & Brush",
+                "inc_num": "240095",
+                "fire_num": "",
+                "latitude": "39.199663",
+                "location": "GRD - 5.5 miles NE of Grand Junction on 27 1/4 Rd",
+                "longitude": "108.500858",
+                "resources": [
+                    null
+                ],
+                "webComment": null,
+                "fire_status": "{\"out\": \"2024-06-09T11:53:00\", \"contain\": \"2024-06-08T22:35:00\", \"control\": \"2024-06-08T23:21:00\"}",
+                "fiscal_data": "{\"inc_num\": \"240095\", \"fire_code\": \"RZ8T\", \"wfdssunit\": \"COGRD\", \"fs_job_code\": \"PD\", \"fs_override\": \"1522\", \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "Doug Lesch",
+                "date": "2024-04-30T11:17:00",
+                "name": "Truck Ramp",
+                "type": "Wildfire",
+                "uuid": "5d387a82-d487-4e03-9747-71f450f295d4",
+                "acres": "0.1",
+                "fuels": "Grass, lodgepole pin",
+                "inc_num": "240051",
+                "fire_num": null,
+                "latitude": "39.652000",
+                "location": "WRF - I-70 mm 208 ",
+                "longitude": "106.017000",
+                "resources": [
+                    null
+                ],
+                "webComment": null,
+                "fire_status": "{\"out\": \"2024-04-30T20:30:00\", \"contain\": \"2024-04-30T19:00:00\", \"control\": \"2024-04-30T19:30:00\"}",
+                "fiscal_data": "{\"inc_num\": \"240051\", \"fire_code\": \"RXB6\", \"wfdssunit\": \"COWRF\", \"fs_job_code\": \"P2\", \"fs_override\": \"0215\", \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-07-08T13:56:23.809",
+                "name": "Blue Heron",
+                "type": "Wildfire",
+                "uuid": "5dcefedf-94b0-4383-a12d-02ebee45bb96",
+                "acres": "0.1",
+                "fuels": "cottonwood",
+                "inc_num": "240177",
+                "fire_num": null,
+                "latitude": "39.078257",
+                "location": "MEX-Colorado River, W of the ice skating rink",
+                "longitude": "108.591365",
+                "resources": [
+                    null
+                ],
+                "webComment": null,
+                "fire_status": "{\"out\": \"2024-07-12T10:30:00\", \"contain\": \"2024-07-12T10:10:00\", \"control\": \"2024-07-12T10:20:00\"}",
+                "fiscal_data": "{\"inc_num\": \"240177\", \"fire_code\": \"R2YA\", \"wfdssunit\": \"COMEX\", \"fs_job_code\": \"PN\", \"fs_override\": \"1522\", \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "LOVIN",
+                "date": "2024-04-19T12:45:02.631",
+                "name": "Bocco",
+                "type": "Wildfire",
+                "uuid": "6db85d46-80e6-4b1e-8809-827e415dfc2e",
+                "acres": "1.7",
+                "fuels": "1,2",
+                "inc_num": "240042",
+                "fire_num": null,
+                "latitude": "39.744015",
+                "location": "GWD - 7 miles NE Eagle on Bocco Mountain, Wolcott",
+                "longitude": "106.705585",
+                "resources": [
+                    null
+                ],
+                "webComment": "",
+                "fire_status": "{\"out\": \"2024-05-06T12:00:00\", \"contain\": \"2024-04-19T14:10:00\", \"control\": \"2024-04-19T14:15:00\"}",
+                "fiscal_data": "{\"inc_num\": \"240042\", \"fire_code\": \"RVU9\", \"wfdssunit\": \"COGWD\", \"fs_job_code\": \"PD\", \"fs_override\": \"1522\", \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-07-14T19:06:00",
+                "name": "Connected Lakes",
+                "type": "Wildfire",
+                "uuid": "6f09d31c-a4b9-42f2-8953-e85f650ca75e",
+                "acres": "14",
+                "fuels": null,
+                "inc_num": "240208",
+                "fire_num": null,
+                "latitude": "39.073203",
+                "location": "MEX - Connected Lakes area",
+                "longitude": "108.601227",
+                "resources": [
+                    null
+                ],
+                "webComment": null,
+                "fire_status": "{\"out\": \"2024-07-17T16:30:00\", \"contain\": \"2024-07-15T08:00:00\", \"control\": \"2024-07-16T08:00:00\"}",
+                "fiscal_data": "{\"inc_num\": \"240208\", \"fire_code\": \"R3JP\", \"wfdssunit\": \"COMEX\", \"fs_job_code\": \"PN\", \"fs_override\": \"1522\", \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-05-05T18:48:10.936",
+                "name": "Blair",
+                "type": "Wildfire",
+                "uuid": "71a4bbdc-8ea9-43f4-9821-f49813769205",
+                "acres": "0.1",
+                "fuels": null,
+                "inc_num": "240055",
+                "fire_num": null,
+                "latitude": "38.956500",
+                "location": "MEX - 2 miles N Highway 50 mile marker 45",
+                "longitude": "108.400500",
+                "resources": [
+                    null
+                ],
+                "webComment": null,
+                "fire_status": "{\"out\": \"2024-06-06T13:30:00\", \"contain\": \"2024-06-05T08:00:00\", \"control\": \"2024-06-06T13:00:00\"}",
+                "fiscal_data": "{\"inc_num\": \"240055\", \"fire_code\": \"RXB4\", \"wfdssunit\": \"COMEX\", \"fs_job_code\": \"PN\", \"fs_override\": \"1522\", \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "Molly Seim",
+                "date": "2024-07-03T12:02:19.221",
+                "name": "Stormy Treasure",
+                "type": "Wildfire",
+                "uuid": "73534c4d-3819-486e-9b5a-bae0ee986bc5",
+                "acres": "0.1",
+                "fuels": "PJ",
+                "inc_num": "240163",
+                "fire_num": null,
+                "latitude": "38.524862",
+                "location": "GRD- 2 Miles E of HWY 141",
+                "longitude": "108.828112",
+                "resources": [
+                    null
+                ],
+                "webComment": null,
+                "fire_status": "{\"out\": \"2024-07-05T16:30:00\", \"contain\": \"2024-07-03T17:00:00\", \"control\": \"2024-07-03T18:10:00\"}",
+                "fiscal_data": "{\"inc_num\": \"240163\", \"fire_code\": \"R180\", \"wfdssunit\": \"COGRD\", \"fs_job_code\": \"PD\", \"fs_override\": \"1522\", \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "Myrhe",
+                "date": "2024-07-02T16:49:13.074",
+                "name": "Beavertail",
+                "type": "Wildfire",
+                "uuid": "73da0fc3-af8f-4100-85f5-d0734ab40165",
+                "acres": "60.6",
+                "fuels": "p/j, grass, brush",
+                "inc_num": "240161",
+                "fire_num": null,
+                "latitude": "39.200383",
+                "location": "GRD - 5.5 miles NE of Palisade near Debeque Canyon",
+                "longitude": "108.259833",
+                "resources": [
+                    null
+                ],
+                "webComment": null,
+                "fire_status": "{\"out\": null, \"contain\": \"2024-07-04T19:10:00\", \"control\": \"2024-07-07T18:48:00\"}",
+                "fiscal_data": "{\"inc_num\": \"240161\", \"fire_code\": \"R157\", \"wfdssunit\": \"COGRD\", \"fs_job_code\": \"PD\", \"fs_override\": \"1522\", \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "SEIM",
+                "date": "2024-01-03T18:02:28.492",
+                "name": "Drag Race",
+                "type": "Wildfire",
+                "uuid": "7694d8bd-4e38-4b82-a324-2ebc9ce931b2",
+                "acres": "0.1",
+                "fuels": "other",
+                "inc_num": "240001",
+                "fire_num": "",
+                "latitude": "39.010167",
+                "location": "GRD- NE HWY 50 & MM 39, near drag race",
+                "longitude": "108.458550",
+                "resources": [
+                    null
+                ],
+                "webComment": null,
+                "fire_status": "{\"out\": \"2024-01-03T18:45:00\", \"contain\": \"2024-01-03T18:35:00\", \"control\": \"2024-01-03T18:40:00\"}",
+                "fiscal_data": "{\"inc_num\": \"240001\", \"fire_code\": \"QTC6\", \"wfdssunit\": \"COGRD\", \"fs_job_code\": \"PD\", \"fs_override\": \"1522\", \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "J Seim   ",
+                "date": "2024-02-23T12:14:36.297",
+                "name": "Leach",
+                "type": "Wildfire",
+                "uuid": "7742ed18-4aaa-4a81-aa16-1093b56bd223",
+                "acres": "0.1",
+                "fuels": "Trash",
+                "inc_num": "240020",
+                "fire_num": null,
+                "latitude": "39.160250",
+                "location": "GRD - 1.5 miles N of Grand Junction Airport",
+                "longitude": "108.543550",
+                "resources": [
+                    null
+                ],
+                "webComment": null,
+                "fire_status": "{\"out\": \"2024-02-23T12:40:00\", \"contain\": \"2024-02-23T12:30:00\", \"control\": \"2024-02-23T12:35:00\"}",
+                "fiscal_data": "{\"inc_num\": \"240020\", \"fire_code\": \"QU0G\", \"wfdssunit\": \"COGRD\", \"fs_job_code\": \"PD\", \"fs_override\": \"1522\", \"fiscal_comments\": null, \"state_fiscal_code\": \"\"}"
+            },
+            {
+                "ic": null,
+                "date": "2024-07-07T12:47:10.852",
+                "name": "Wellington",
+                "type": "Wildfire",
+                "uuid": "793b93f7-4da8-4ef8-8f07-8acb2eb18e06",
+                "acres": "0.1",
+                "fuels": "logging/thinning sla",
+                "inc_num": "240174",
+                "fire_num": null,
+                "latitude": "39.484783",
+                "location": "STX-2 miles E of Breckenridge",
+                "longitude": "106.019083",
+                "resources": [
+                    null
+                ],
+                "webComment": null,
+                "fire_status": "{\"out\": \"2024-07-10T14:00:00\", \"contain\": \"2024-07-07T15:35:00\", \"control\": \"2024-07-08T18:00:00\"}",
+                "fiscal_data": "{\"inc_num\": \"240174\", \"fire_code\": \"R2VZ\", \"wfdssunit\": \"COSTX\", \"fs_job_code\": \"PN\", \"fs_override\": \"1522\", \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "Eng 2: Stephens",
+                "date": "2024-05-05T18:59:54.444",
+                "name": "29 Road",
+                "type": "Wildfire",
+                "uuid": "7b08bc51-674e-4dae-9609-3f71093d925f",
+                "acres": "0.1",
+                "fuels": "slash/down cottonwoo",
+                "inc_num": "240056",
+                "fire_num": null,
+                "latitude": "39.113383",
+                "location": "MEX - 200 ft NE of I-70 mile marker 33 ",
+                "longitude": "108.509383",
+                "resources": [
+                    null
+                ],
+                "webComment": null,
+                "fire_status": "{\"out\": \"2024-06-06T13:30:00\", \"contain\": \"2024-06-05T08:00:00\", \"control\": \"2024-06-06T13:00:00\"}",
+                "fiscal_data": "{\"inc_num\": \"240056\", \"fire_code\": \"RXB2\", \"wfdssunit\": \"COMEX\", \"fs_job_code\": \"PN\", \"fs_override\": \"1522\", \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-07-17T13:51:32.891",
+                "name": "Canyon",
+                "type": "Wildfire",
+                "uuid": "837cda88-0bbf-4049-8b74-34a5c07d0a4f",
+                "acres": "0.25",
+                "fuels": "PJ",
+                "inc_num": "240232",
+                "fire_num": "",
+                "latitude": "39.123000",
+                "location": "GRD - Mclnnis Canyon ",
+                "longitude": "108.924000",
+                "resources": [
+                    null
+                ],
+                "webComment": null,
+                "fire_status": "{\"out\": \"2024-07-17T17:35:00\", \"contain\": \"2024-07-17T17:00:00\", \"control\": \"2024-07-17T17:30:00\"}",
+                "fiscal_data": "{\"inc_num\": \"240232\", \"fire_code\": \"R3TM\", \"wfdssunit\": \"COGRD\", \"fs_job_code\": \"PD\", \"fs_override\": \"1522\", \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-06-26T11:09:29.168",
+                "name": "Hill",
+                "type": "Wildfire",
+                "uuid": "83eb293a-3b55-4c31-a2d7-1552a32107a4",
+                "acres": "0.1",
+                "fuels": "Grass",
+                "inc_num": "240136",
+                "fire_num": null,
+                "latitude": "39.157467",
+                "location": "GRD- 27 1/4 RD",
+                "longitude": "108.541000",
+                "resources": [
+                    null
+                ],
+                "webComment": null,
+                "fire_status": "{\"out\": \"2024-06-27T12:15:00\", \"contain\": \"2024-06-26T11:30:00\", \"control\": \"2024-06-26T15:15:00\"}",
+                "fiscal_data": "{\"inc_num\": \"240136\", \"fire_code\": \"R1KX\", \"wfdssunit\": \"COGRD\", \"fs_job_code\": \"PD\", \"fs_override\": \"1522\", \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "Hererra, Marteen (Liason)",
+                "date": "2024-04-24T14:46:02.659",
+                "name": "Crown",
+                "type": "Wildfire",
+                "uuid": "86554a0f-d474-4785-800e-02a43107b341",
+                "acres": "3",
+                "fuels": "1, ",
+                "inc_num": "240047",
+                "fire_num": null,
+                "latitude": "39.361420",
+                "location": "PTX - 3 miles W/SW of Basalt",
+                "longitude": "107.089140",
+                "resources": [
+                    null
+                ],
+                "webComment": "",
+                "fire_status": "{\"out\": \"2024-04-25T20:00:00\", \"contain\": \"2024-04-24T19:10:00\", \"control\": \"2024-04-25T16:00:00\"}",
+                "fiscal_data": "{\"inc_num\": \"240047\", \"fire_code\": \"RV92\", \"wfdssunit\": \"COPTX\", \"fs_job_code\": \"PN\", \"fs_override\": \"1522\", \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "Cambell Irvine",
+                "date": "2024-07-03T18:43:00",
+                "name": "North Cottonwood",
+                "type": "Wildfire",
+                "uuid": "871a15fd-56ab-4cd5-9d79-92bd7c5f6df6",
+                "acres": "2",
+                "fuels": "PJ",
+                "inc_num": "240165",
+                "fire_num": "",
+                "latitude": "38.601167",
+                "location": "GRD-4.6 miles south of Gateway Colorado",
+                "longitude": "108.967000",
+                "resources": [
+                    null
+                ],
+                "webComment": null,
+                "fire_status": "{\"out\": null, \"contain\": \"2024-07-06T09:10:00\", \"control\": \"2024-07-07T07:40:00\"}",
+                "fiscal_data": "{\"inc_num\": \"240165\", \"fire_code\": \"R2A1\", \"wfdssunit\": \"COGRD\", \"fs_job_code\": \"PD\", \"fs_override\": \"1522\", \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "Torrez (liason)",
+                "date": "2024-06-14T17:42:50.765",
+                "name": "333 Command",
+                "type": "Wildfire",
+                "uuid": "8841f32a-42bf-413a-86e5-e438dea25d40",
+                "acres": "0.1",
+                "fuels": "Pnyon/Juniper",
+                "inc_num": "240101",
+                "fire_num": null,
+                "latitude": "39.510000",
+                "location": "GFX-1/2 mile S of Garfield County Airport, W of County Rd. 333",
+                "longitude": "107.723050",
+                "resources": [
+                    null
+                ],
+                "webComment": null,
+                "fire_status": "{\"out\": \"2024-06-14T19:45:00\", \"contain\": \"2024-06-14T18:30:00\", \"control\": \"2024-06-14T19:30:00\"}",
+                "fiscal_data": "{\"inc_num\": \"240101\", \"fire_code\": \"R0MX\", \"wfdssunit\": \"COGFX\", \"fs_job_code\": \"PN\", \"fs_override\": \"1522\", \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "van",
+                "date": "2024-05-26T13:42:10.773",
+                "name": "Kokopelli",
+                "type": "Wildfire",
+                "uuid": "92fd96b0-d4f0-475b-b793-3e6376c3fe06",
+                "acres": "2",
+                "fuels": "Grass/Brush",
+                "inc_num": "240075",
+                "fire_num": null,
+                "latitude": "39.151167",
+                "location": "MEX- Off of I-70 between mile marker 45 & 47",
+                "longitude": "108.304450",
+                "resources": [
+                    null
+                ],
+                "webComment": null,
+                "fire_status": "{\"out\": \"2024-06-06T13:00:00\", \"contain\": \"2024-06-05T12:00:00\", \"control\": \"2024-06-06T12:00:00\"}",
+                "fiscal_data": "{\"inc_num\": \"240075\", \"fire_code\": \"RY2H\", \"wfdssunit\": \"COMEX\", \"fs_job_code\": \"PN\", \"fs_override\": \"1522\", \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "Pistono",
+                "date": "2024-06-15T17:28:40.295",
+                "name": "Mee Canyon",
+                "type": "Wildfire",
+                "uuid": "931c7f32-59ac-4a10-93db-0c859022ee5c",
+                "acres": "0.1",
+                "fuels": "p/j",
+                "inc_num": "240104",
+                "fire_num": null,
+                "latitude": "39.091333",
+                "location": "GRD- 7 miles NW of Glade Park, just north of 28 Hole Wash. ",
+                "longitude": "108.844833",
+                "resources": [
+                    null
+                ],
+                "webComment": null,
+                "fire_status": "{\"out\": \"2024-06-20T14:30:00\", \"contain\": \"2024-06-15T19:10:00\", \"control\": \"2024-06-15T19:35:00\"}",
+                "fiscal_data": "{\"inc_num\": \"240104\", \"fire_code\": \"R0P6\", \"wfdssunit\": \"COGRD\", \"fs_job_code\": \"PD\", \"fs_override\": \"1522\", \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "Henderson",
+                "date": "2024-06-07T17:42:12.524",
+                "name": "Mesa Creek",
+                "type": "Wildfire",
+                "uuid": "943c4a31-1a6f-4579-bb71-20b601660168",
+                "acres": "3.25",
+                "fuels": "grass/brush/cottonwo",
+                "inc_num": "240092",
+                "fire_num": null,
+                "latitude": "39.157898",
+                "location": "MEX - 1/2 mile S of the town of Mesa",
+                "longitude": "108.142933",
+                "resources": [
+                    null
+                ],
+                "webComment": null,
+                "fire_status": "{\"out\": \"2024-06-10T12:00:00\", \"contain\": \"2024-06-07T22:00:00\", \"control\": \"2024-06-08T15:00:00\"}",
+                "fiscal_data": "{\"inc_num\": \"240092\", \"fire_code\": \"RZ60\", \"wfdssunit\": \"COMEX\", \"fs_job_code\": \"PN\", \"fs_override\": \"1522\", \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "Webb",
+                "date": "2024-06-29T17:20:00",
+                "name": "Revelation Mine",
+                "type": "Wildfire",
+                "uuid": "948e0a57-a890-43d2-b4dc-94e356ddc177",
+                "acres": "0.1",
+                "fuels": "pinyon/juniper",
+                "inc_num": "240147",
+                "fire_num": null,
+                "latitude": "39.585667",
+                "location": "GWD - 2.5 miles E/NE of Newcastle",
+                "longitude": "107.481500",
+                "resources": [
+                    null
+                ],
+                "webComment": null,
+                "fire_status": "{\"out\": \"2024-06-30T10:30:00\", \"contain\": \"2024-06-30T09:00:00\", \"control\": \"2024-06-30T09:30:00\"}",
+                "fiscal_data": "{\"inc_num\": \"240147\", \"fire_code\": \"R1X3\", \"wfdssunit\": \"COGWD\", \"fs_job_code\": \"PD\", \"fs_override\": \"1522\", \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "John Bell",
+                "date": "2024-06-28T11:26:38.139",
+                "name": "55",
+                "type": "Wildfire",
+                "uuid": "95aaa5a6-6cc5-41af-a2c1-831e3824a0c9",
+                "acres": "1.3",
+                "fuels": "Grass and Brush",
+                "inc_num": "240142",
+                "fire_num": "",
+                "latitude": "39.237950",
+                "location": "GRD - 8 miles NNE of Palisade in Debeque Canyon",
+                "longitude": "108.262067",
+                "resources": [
+                    null
+                ],
+                "webComment": null,
+                "fire_status": "{\"out\": \"2024-07-16T10:08:00\", \"contain\": \"2024-06-28T14:20:00\", \"control\": \"2024-06-29T11:12:00\"}",
+                "fiscal_data": "{\"inc_num\": \"240142\", \"fire_code\": \"R1TQ\", \"wfdssunit\": \"COGRD\", \"fs_job_code\": \"PD\", \"fs_override\": \"1522\", \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "Pistano",
+                "date": "2024-07-17T12:57:36.623",
+                "name": "Lane Gulch",
+                "type": "Wildfire",
+                "uuid": "97799e03-6641-424e-b569-cdda0ff15035",
+                "acres": "0.1",
+                "fuels": "PJ",
+                "inc_num": "240231",
+                "fire_num": null,
+                "latitude": "39.262263",
+                "location": "GRD - Lane Gulch, west of winter flats, off V 2/10 Rd. 13 miles North of Grand Junction",
+                "longitude": "108.483548",
+                "resources": [
+                    null
+                ],
+                "webComment": null,
+                "fire_status": "{\"out\": null, \"contain\": \"2024-07-17T20:28:00\", \"control\": \"2024-07-17T21:15:00\"}",
+                "fiscal_data": "{\"inc_num\": \"240231\", \"fire_code\": \"R3T3\", \"wfdssunit\": \"COGRD\", \"fs_job_code\": \"PD\", \"fs_override\": \"1522\", \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "Major",
+                "date": "2024-05-25T16:49:03.972",
+                "name": "Rock Ledge",
+                "type": "Wildfire",
+                "uuid": "9e755533-6182-4eb2-a10e-615dcdd9a85e",
+                "acres": "0.1",
+                "fuels": "PJ",
+                "inc_num": "240074",
+                "fire_num": null,
+                "latitude": "39.569556",
+                "location": "GWD- 1 mile NW of Glenwood Springs near Rock Ledge Dr. ",
+                "longitude": "107.355889",
+                "resources": [
+                    null
+                ],
+                "webComment": null,
+                "fire_status": "{\"out\": \"2024-05-25T19:15:00\", \"contain\": \"2024-05-25T18:45:00\", \"control\": \"2024-05-25T19:00:00\"}",
+                "fiscal_data": "{\"inc_num\": \"240074\", \"fire_code\": \"RY2G\", \"wfdssunit\": \"COGWD\", \"fs_job_code\": \"PD\", \"fs_override\": \"1522\", \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "Casey",
+                "date": "2024-07-07T15:01:22.501",
+                "name": "Jewell",
+                "type": "Wildfire",
+                "uuid": "b825915a-978a-41e8-9476-f87b131403f2",
+                "acres": "69",
+                "fuels": "Gass/Brush",
+                "inc_num": "240175",
+                "fire_num": null,
+                "latitude": "39.584489",
+                "location": "GFX -2 Miles North of Silt Mesa Rd. ",
+                "longitude": "107.704679",
+                "resources": [
+                    null
+                ],
+                "webComment": null,
+                "fire_status": "{\"out\": null, \"contain\": \"2024-07-09T13:30:00\", \"control\": \"2024-07-11T14:30:00\"}",
+                "fiscal_data": "{\"inc_num\": \"240175\", \"fire_code\": \"R2UW\", \"wfdssunit\": \"COGFX\", \"fs_job_code\": \"PN\", \"fs_override\": \"1522\", \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "Snyder",
+                "date": "2024-06-20T16:28:42.392",
+                "name": "Fleming Point",
+                "type": "Wildfire",
+                "uuid": "bed87b13-9a55-4d6f-919a-ce9de07295ce",
+                "acres": "0.1",
+                "fuels": "PJ",
+                "inc_num": "240120",
+                "fire_num": null,
+                "latitude": "39.193867",
+                "location": "Hwy 65. South of Hwy and Just South of  \"Fleming Point\" ",
+                "longitude": "108.219550",
+                "resources": [
+                    null
+                ],
+                "webComment": null,
+                "fire_status": "{\"out\": \"2024-06-21T12:50:00\", \"contain\": \"2024-06-20T18:25:00\", \"control\": \"2024-06-20T18:30:00\"}",
+                "fiscal_data": "{\"inc_num\": \"240120\", \"fire_code\": \"R03N\", \"wfdssunit\": \"COGRD\", \"fs_job_code\": \"PD\", \"fs_override\": \"1522\", \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "Pistono",
+                "date": "2024-07-04T17:00:00",
+                "name": "Freedom",
+                "type": "Wildfire",
+                "uuid": "bfb9fb7d-0f1c-4224-ad7b-84823e6d0936",
+                "acres": "1",
+                "fuels": "grass / brush",
+                "inc_num": "240166",
+                "fire_num": null,
+                "latitude": "39.298350",
+                "location": "GRD - West of 18 Road just off zippity trail. 7 miles NE of Loma",
+                "longitude": "108.711060",
+                "resources": [
+                    null
+                ],
+                "webComment": null,
+                "fire_status": "{\"out\": \"2024-07-08T12:14:00\", \"contain\": \"2024-07-04T23:42:00\", \"control\": \"2024-07-05T11:45:00\"}",
+                "fiscal_data": "{\"inc_num\": \"240166\", \"fire_code\": \"R2G8\", \"wfdssunit\": \"COGRD\", \"fs_job_code\": \"PD\", \"fs_override\": \"1522\", \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-06-17T14:54:24.356",
+                "name": "Rabbit Valley",
+                "type": "Wildfire",
+                "uuid": "ca7d7d2c-b9cb-40d1-8461-b90afa75f8c9",
+                "acres": "1505",
+                "fuels": "Grassbrush",
+                "inc_num": "240107",
+                "fire_num": "",
+                "latitude": "39.193658",
+                "location": "GRD- Immediately North of I-70 Colorado/Utah state line, Colorado side. ",
+                "longitude": "109.049386",
+                "resources": [
+                    null
+                ],
+                "webComment": null,
+                "fire_status": "{\"out\": \"2024-07-03T12:00:00\", \"contain\": \"2024-06-20T13:20:00\", \"control\": \"2024-06-30T13:55:00\"}",
+                "fiscal_data": "{\"inc_num\": \"240107\", \"fire_code\": \"R0U7\", \"wfdssunit\": \"COGRD\", \"fs_job_code\": \"PD\", \"fs_override\": \"1522\", \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "Bat-40 Messner.",
+                "date": "2024-07-07T11:40:03.428",
+                "name": "Quicksilver",
+                "type": "Wildfire",
+                "uuid": "cd9d1255-31bd-46d3-8aa0-8a7e0871e667",
+                "acres": "2.96",
+                "fuels": "Grass, Brush, PJ",
+                "inc_num": "240173",
+                "fire_num": "",
+                "latitude": "39.503167",
+                "location": "GFX- South of Rifle near Quicksilver Way",
+                "longitude": "107.763417",
+                "resources": [
+                    null
+                ],
+                "webComment": null,
+                "fire_status": "{\"out\": \"2024-07-08T18:00:00\", \"contain\": \"2024-07-07T14:00:00\", \"control\": \"2024-07-08T13:00:00\"}",
+                "fiscal_data": "{\"inc_num\": \"240173\", \"fire_code\": \"R2T3\", \"wfdssunit\": \"COGFX\", \"fs_job_code\": \"PN\", \"fs_override\": \"1522\", \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "Cariano",
+                "date": "2024-07-09T14:48:08.836",
+                "name": "81A",
+                "type": "Wildfire",
+                "uuid": "cf7707ba-5522-4347-81a9-552eaeb0a1df",
+                "acres": "0.1",
+                "fuels": "pinyon/juniper",
+                "inc_num": "240179",
+                "fire_num": null,
+                "latitude": "39.599300",
+                "location": "GWD- 3 miles SE of Gypsum between Spring Creek and McHatten Creek. ",
+                "longitude": "106.911167",
+                "resources": [
+                    null
+                ],
+                "webComment": null,
+                "fire_status": "{\"out\": \"2024-07-10T13:00:00\", \"contain\": \"2024-07-09T20:00:00\", \"control\": \"2024-07-10T12:55:00\"}",
+                "fiscal_data": "{\"inc_num\": \"240179\", \"fire_code\": \"R21V\", \"wfdssunit\": \"COGWD\", \"fs_job_code\": \"PD\", \"fs_override\": \"1522\", \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "Cowen",
+                "date": "2024-07-15T09:49:07.574",
+                "name": "Jones",
+                "type": "Wildfire",
+                "uuid": "d2747429-d499-4bb7-b424-08d8f31aef27",
+                "acres": "215",
+                "fuels": "",
+                "inc_num": "240214",
+                "fire_num": null,
+                "latitude": "39.071200",
+                "location": "GRD - 7 miles S of I-70 near the CO / UT state line",
+                "longitude": "109.046000",
+                "resources": [
+                    "Overland"
+                ],
+                "webComment": null,
+                "fire_status": "{\"out\": null, \"contain\": null, \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"240214\", \"fire_code\": \"R3LU\", \"wfdssunit\": \"COGRD\", \"fs_job_code\": \"PD\", \"fs_override\": \"1522\", \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "J Seim",
+                "date": "2024-04-20T08:43:51.149",
+                "name": "Leach Creek",
+                "type": "Wildfire",
+                "uuid": "d2b8ddee-a05d-419d-992b-c5daf3214f78",
+                "acres": "0.1",
+                "fuels": "Other(Trash/Pallets)",
+                "inc_num": "240043",
+                "fire_num": "",
+                "latitude": "39.163260",
+                "location": "GRD -  2 miles N Grand Junction Airport",
+                "longitude": "108.531750",
+                "resources": [
+                    null
+                ],
+                "webComment": null,
+                "fire_status": "{\"out\": \"2024-04-20T10:30:00\", \"contain\": \"2024-04-20T09:45:00\", \"control\": \"2024-04-20T10:00:00\"}",
+                "fiscal_data": "{\"inc_num\": \"240043\", \"fire_code\": \"RVW2\", \"wfdssunit\": \"COGRD\", \"fs_job_code\": \"PD\", \"fs_override\": \"1522\", \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "campbell",
+                "date": "2024-05-11T16:07:26.896",
+                "name": "25 Road",
+                "type": "Wildfire",
+                "uuid": "d46986c6-96ef-46b1-912b-b00d9b3eec09",
+                "acres": "0.5",
+                "fuels": "Grass/Brush",
+                "inc_num": "240059",
+                "fire_num": null,
+                "latitude": "39.151111",
+                "location": "MEX - 2 miles N of Grand Junction E of 25 Road",
+                "longitude": "108.582500",
+                "resources": [
+                    null
+                ],
+                "webComment": null,
+                "fire_status": "{\"out\": \"2024-06-06T13:30:00\", \"contain\": \"2024-05-11T18:00:00\", \"control\": \"2024-06-06T13:00:00\"}",
+                "fiscal_data": "{\"inc_num\": \"240059\", \"fire_code\": \"RXZ5\", \"wfdssunit\": \"COMEX\", \"fs_job_code\": \"PN\", \"fs_override\": \"1522\", \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "Roedell",
+                "date": "2024-07-02T12:02:59.25",
+                "name": "Coon Creek",
+                "type": "Wildfire",
+                "uuid": "d861764d-2321-4659-ae6e-2252deaf990e",
+                "acres": "0.1",
+                "fuels": "Pinyon/Juniper",
+                "inc_num": "240159",
+                "fire_num": null,
+                "latitude": "39.125063",
+                "location": "WCAL-3 miles SE of Mesa adjacent to the S Side Canal",
+                "longitude": "108.122885",
+                "resources": [
+                    null
+                ],
+                "webComment": null,
+                "fire_status": "{\"out\": \"2024-07-02T17:56:00\", \"contain\": \"2024-07-02T16:30:00\", \"control\": \"2024-07-02T17:05:00\"}",
+                "fiscal_data": "{\"inc_num\": \"240159\", \"fire_code\": \"R2CL\", \"wfdssunit\": \"COWCAL\", \"fs_job_code\": \"PL\", \"fs_override\": \"1522\", \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-06-30T17:07:00",
+                "name": "Taughenbaugh",
+                "type": "Wildfire",
+                "uuid": "d9dc409d-0479-48ee-a047-6f1ada2d8bbc",
+                "acres": "0.1",
+                "fuels": "Pinyon Juniper",
+                "inc_num": "240152",
+                "fire_num": null,
+                "latitude": "39.501417",
+                "location": "GFX - 3 miles SW of Rifle near County Rd 320",
+                "longitude": "107.841783",
+                "resources": [
+                    null
+                ],
+                "webComment": null,
+                "fire_status": "{\"out\": \"2024-06-30T19:50:00\", \"contain\": \"2024-06-30T18:00:00\", \"control\": \"2024-06-30T18:30:00\"}",
+                "fiscal_data": "{\"inc_num\": \"240152\", \"fire_code\": \"R11P\", \"wfdssunit\": \"COGFX\", \"fs_job_code\": \"PN\", \"fs_override\": \"1522\", \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "Grooms",
+                "date": "2024-06-22T13:08:25.006",
+                "name": "Buniger",
+                "type": "Wildfire",
+                "uuid": "dc499531-221c-40f3-9f5a-769da7220de3",
+                "acres": "0.1",
+                "fuels": "Pinyon/Juniper",
+                "inc_num": "240125",
+                "fire_num": null,
+                "latitude": "39.432023",
+                "location": "GRD-North of I-70, west of 139, near Utah border, on Buniger Road.",
+                "longitude": "109.018513",
+                "resources": [
+                    null
+                ],
+                "webComment": null,
+                "fire_status": "{\"out\": \"2024-06-30T18:00:00\", \"contain\": \"2024-06-22T18:30:00\", \"control\": \"2024-06-22T19:00:00\"}",
+                "fiscal_data": "{\"inc_num\": \"240125\", \"fire_code\": \"R08L\", \"wfdssunit\": \"COGRD\", \"fs_job_code\": \"PD\", \"fs_override\": \"1522\", \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "Conrad",
+                "date": "2024-06-07T13:35:06.344",
+                "name": "Cottonwood Creek",
+                "type": "Wildfire",
+                "uuid": "e360544f-9cd6-47bc-84dc-8e5193cb32f5",
+                "acres": "0.1",
+                "fuels": "Pinyon/Juniper",
+                "inc_num": "240091",
+                "fire_num": null,
+                "latitude": "39.653833",
+                "location": "GWD-1.5 miles west of Eagle. In I-70 median.",
+                "longitude": "106.866833",
+                "resources": [
+                    null
+                ],
+                "webComment": null,
+                "fire_status": "{\"out\": \"2024-06-07T14:15:00\", \"contain\": \"2024-06-07T14:00:00\", \"control\": \"2024-06-07T14:10:00\"}",
+                "fiscal_data": "{\"inc_num\": \"240091\", \"fire_code\": \"RZ5U\", \"wfdssunit\": \"COGWD\", \"fs_job_code\": \"PD\", \"fs_override\": \"1522\", \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "Gorsett",
+                "date": "2024-06-26T09:03:09.576",
+                "name": "Bog",
+                "type": "Wildfire",
+                "uuid": "e659b2bc-8e04-48c7-a9a1-24a6b5384f3f",
+                "acres": "0.1",
+                "fuels": "grass",
+                "inc_num": "240135",
+                "fire_num": null,
+                "latitude": "39.160550",
+                "location": "GRD-27 1/4 RD",
+                "longitude": "108.539917",
+                "resources": [
+                    null
+                ],
+                "webComment": null,
+                "fire_status": "{\"out\": \"2024-06-27T12:15:00\", \"contain\": \"2024-06-26T11:00:00\", \"control\": \"2024-06-26T11:05:00\"}",
+                "fiscal_data": "{\"inc_num\": \"240135\", \"fire_code\": \"R1KW\", \"wfdssunit\": \"COGRD\", \"fs_job_code\": \"PD\", \"fs_override\": \"1522\", \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "Hugh Fairfield",
+                "date": "2024-05-24T17:00:00",
+                "name": "West Squaw Creek",
+                "type": "Wildfire",
+                "uuid": "e7a6ad09-b485-483e-b7a1-bca5963e54d5",
+                "acres": "0.1",
+                "fuels": "Campfire",
+                "inc_num": "240073",
+                "fire_num": null,
+                "latitude": "39.640883",
+                "location": "EAX-3 miles west of Edwards near Squaw Creek Rd. ",
+                "longitude": "106.656000",
+                "resources": [
+                    null
+                ],
+                "webComment": null,
+                "fire_status": "{\"out\": \"2024-05-25T13:15:00\", \"contain\": \"2024-05-24T17:15:00\", \"control\": \"2024-05-24T17:30:00\"}",
+                "fiscal_data": "{\"inc_num\": \"240073\", \"fire_code\": \"RY2F\", \"wfdssunit\": \"COEAX\", \"fs_job_code\": \"PN\", \"fs_override\": \"1522\", \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "SODERSTROM",
+                "date": "2024-07-09T17:11:00",
+                "name": "Dagget",
+                "type": "Wildfire",
+                "uuid": "eab2d58f-021d-4089-8f73-e9f193cea5e2",
+                "acres": "0.1",
+                "fuels": "pinyon/juniper",
+                "inc_num": "240180",
+                "fire_num": null,
+                "latitude": "39.616383",
+                "location": "GWD: 1 mile S of Gypsum near Daggett Creek",
+                "longitude": "106.940200",
+                "resources": [
+                    null
+                ],
+                "webComment": null,
+                "fire_status": "{\"out\": \"2024-07-11T12:10:00\", \"contain\": \"2024-07-09T18:58:00\", \"control\": \"2024-07-09T20:21:00\"}",
+                "fiscal_data": "{\"inc_num\": \"240180\", \"fire_code\": \"R214\", \"wfdssunit\": \"COGWD\", \"fs_job_code\": \"PD\", \"fs_override\": \"1522\", \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "Herrera (liason)",
+                "date": "2024-06-16T13:42:49.776",
+                "name": "Burning Mountain",
+                "type": "Wildfire",
+                "uuid": "ed4c455e-ce04-4a40-9b47-88edc406a7c2",
+                "acres": "0.5",
+                "fuels": "grass/brush",
+                "inc_num": "240106",
+                "fire_num": null,
+                "latitude": "39.569466",
+                "location": "GFX-Assist, HWY 24 in New Castle, N of Burning Mountain Ave. ",
+                "longitude": "107.521034",
+                "resources": [
+                    null
+                ],
+                "webComment": null,
+                "fire_status": "{\"out\": null, \"contain\": \"2024-06-16T14:05:00\", \"control\": \"2024-06-16T15:50:00\"}",
+                "fiscal_data": "{\"inc_num\": \"240106\", \"fire_code\": \"R0ZG\", \"wfdssunit\": \"COGFX\", \"fs_job_code\": \"PN\", \"fs_override\": \"1522\", \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "Macklin",
+                "date": "2024-07-12T14:39:40.88",
+                "name": "Wagon Gulch",
+                "type": "Wildfire",
+                "uuid": "f058a63c-b9f8-40c4-bbab-7d25a89531d7",
+                "acres": "0.1",
+                "fuels": "grass brush",
+                "inc_num": "240186",
+                "fire_num": "",
+                "latitude": "39.576467",
+                "location": "WRF- Glenwood Canyon off I-70 near mile marker 124",
+                "longitude": "107.209867",
+                "resources": [
+                    null
+                ],
+                "webComment": null,
+                "fire_status": "{\"out\": \"2024-07-12T15:35:00\", \"contain\": \"2024-07-12T15:15:00\", \"control\": \"2024-07-12T15:25:00\"}",
+                "fiscal_data": "{\"inc_num\": \"240186\", \"fire_code\": \"R3MG\", \"wfdssunit\": \"COWRF\", \"fs_job_code\": \"P2\", \"fs_override\": \"0215\", \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": null,
+                "date": "2024-06-20T12:46:14.539",
+                "name": "Goodrich Park",
+                "type": "Wildfire",
+                "uuid": "f548e7b8-c3f5-437b-8b16-ae2bb577046b",
+                "acres": "0.1",
+                "fuels": null,
+                "inc_num": "240116",
+                "fire_num": null,
+                "latitude": "39.606283",
+                "location": "GWD-2 miles SW of Hwy 13 near Goodrich Park",
+                "longitude": "107.868783",
+                "resources": [
+                    null
+                ],
+                "webComment": null,
+                "fire_status": "{\"out\": \"2024-06-22T15:00:00\", \"contain\": \"2024-06-22T14:50:00\", \"control\": \"2024-06-22T14:55:00\"}",
+                "fiscal_data": "{\"inc_num\": \"240116\", \"fire_code\": \"R08G\", \"wfdssunit\": \"COGWD\", \"fs_job_code\": \"PD\", \"fs_override\": \"1522\", \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "Kenny Hutchinson",
+                "date": "2024-07-05T17:26:00",
+                "name": "Island",
+                "type": "Wildfire",
+                "uuid": "f74d3f5d-cab8-4487-bc00-af16b16bdfbc",
+                "acres": "48",
+                "fuels": "Grass/Oakbrush",
+                "inc_num": "240170",
+                "fire_num": null,
+                "latitude": "39.543667",
+                "location": "GFX-East of Silt. Island within Colorado River",
+                "longitude": "107.705167",
+                "resources": [
+                    null
+                ],
+                "webComment": null,
+                "fire_status": "{\"out\": null, \"contain\": \"2024-07-11T19:15:00\", \"control\": null}",
+                "fiscal_data": "{\"inc_num\": \"240170\", \"fire_code\": \"R2MU\", \"wfdssunit\": \"COGFX\", \"fs_job_code\": \"PN\", \"fs_override\": \"1522\", \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "Hugh Fairfield-Smith",
+                "date": "2024-06-08T11:49:00",
+                "name": "Buckhorn",
+                "type": "Wildfire",
+                "uuid": "f9bc10eb-734a-47aa-9853-ed788b678a84",
+                "acres": "0.1",
+                "fuels": "P/J",
+                "inc_num": "240094",
+                "fire_num": null,
+                "latitude": "39.621917",
+                "location": "GWD - 2 miles SE of Gypsum",
+                "longitude": "106.904050",
+                "resources": [
+                    null
+                ],
+                "webComment": null,
+                "fire_status": "{\"out\": \"2024-06-08T12:02:00\", \"contain\": \"2024-06-08T11:50:00\", \"control\": \"2024-06-08T11:55:00\"}",
+                "fiscal_data": "{\"inc_num\": \"240094\", \"fire_code\": \"RZ72\", \"wfdssunit\": \"COGWD\", \"fs_job_code\": \"PD\", \"fs_override\": \"1522\", \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "Seim, M",
+                "date": "2024-06-11T16:25:00",
+                "name": "Litte Salt Wash",
+                "type": "Wildfire",
+                "uuid": "fceece18-e526-4497-a972-a138352d8b30",
+                "acres": "1.2",
+                "fuels": "grass/brush",
+                "inc_num": "240097",
+                "fire_num": null,
+                "latitude": "39.220820",
+                "location": "GRD - 5 Miles North East of Fruita, Just East of 21 Road, ",
+                "longitude": "108.648585",
+                "resources": [
+                    null
+                ],
+                "webComment": null,
+                "fire_status": "{\"out\": \"2024-06-11T16:45:00\", \"contain\": \"2024-06-11T16:30:00\", \"control\": \"2024-06-11T16:35:00\"}",
+                "fiscal_data": "{\"inc_num\": \"240097\", \"fire_code\": \"R0D3\", \"wfdssunit\": \"COGRD\", \"fs_job_code\": \"PD\", \"fs_override\": \"1522\", \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            },
+            {
+                "ic": "Swaner",
+                "date": "2024-06-06T13:20:55.18",
+                "name": "Lower Bellyache",
+                "type": "Wildfire",
+                "uuid": "fee3549b-2580-49af-b13d-448865eb52c3",
+                "acres": "0.1",
+                "fuels": "Grass Brush",
+                "inc_num": "240090",
+                "fire_num": null,
+                "latitude": "39.641367",
+                "location": "EAX-2 miles E of Edwards, off of W Squaw Creek Rd. ",
+                "longitude": "106.654117",
+                "resources": [
+                    null
+                ],
+                "webComment": null,
+                "fire_status": "{\"out\": \"2024-06-06T14:15:00\", \"contain\": \"2024-06-06T13:45:00\", \"control\": \"2024-06-06T14:00:00\"}",
+                "fiscal_data": "{\"inc_num\": \"240090\", \"fire_code\": \"RZ66\", \"wfdssunit\": \"COEAX\", \"fs_job_code\": \"PN\", \"fs_override\": \"1522\", \"fiscal_comments\": null, \"state_fiscal_code\": null}"
+            }
+        ],
+        "retrieved": "2024-07-18T21:52:41.231783"
+    }
+]
